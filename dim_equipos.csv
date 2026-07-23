@@ -1,0 +1,11 @@
+﻿equipo_id,nombre_equipo,area,tipo_equipo,capacidad_nominal_tmh,anio_instalacion,clase_confiabilidad
+EQ-01,Chancadora Primaria,Chancado,Chancadora,520,2016,media
+EQ-02,Chancadora Secundaria,Chancado,Chancadora,430,2016,media
+EQ-03,Chancadora Terciaria,Chancado,Chancadora,380,2019,alta
+EQ-04,Molino SAG,Molienda,Molino,460,2014,baja
+EQ-05,Molino de Bolas 1,Molienda,Molino,300,2014,baja
+EQ-06,Molino de Bolas 2,Molienda,Molino,300,2018,media
+EQ-07,Celda de Flotación,Flotación,Flotacion,350,2017,alta
+EQ-08,Espesador de Relave,Espesado,Espesador,400,2015,media
+EQ-09,Filtro Prensa,Filtrado,Filtro,260,2020,alta
+EQ-10,Faja Transportadora 3,Chancado,Faja,500,2016,media
