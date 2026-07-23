@@ -1,0 +1,1774 @@
+﻿parada_id,equipo_id,fecha,hora_inicio_aprox,duracion_horas,tipo_parada,causa,costo_estimado_soles
+PAR-00001,EQ-01,2024-01-18,00:00,20.0,Correctiva,Rotura de faja/correa,19207.0
+PAR-00002,EQ-01,2024-01-20,16:00,6.8,Preventiva,Mantenimiento programado (plan anual),9329.0
+PAR-00003,EQ-01,2024-01-23,16:00,1.1,Correctiva,Falla eléctrica - motor/tablero,1591.0
+PAR-00004,EQ-01,2024-01-25,06:00,4.2,Correctiva,Rotura de faja/correa,8702.0
+PAR-00005,EQ-01,2024-01-28,10:00,1.5,Correctiva,Falla eléctrica - motor/tablero,2793.0
+PAR-00006,EQ-01,2024-01-31,06:00,2.4,Correctiva,Rotura de faja/correa,3872.0
+PAR-00007,EQ-01,2024-02-01,12:00,5.4,Correctiva,Rotura de faja/correa,11410.0
+PAR-00008,EQ-01,2024-02-03,06:00,2.6,Operativa,Corte de energía externo,633.0
+PAR-00009,EQ-01,2024-02-07,03:00,5.9,Preventiva,Mantenimiento programado (plan anual),7123.0
+PAR-00010,EQ-01,2024-02-12,21:00,0.7,Correctiva,Falla eléctrica - motor/tablero,680.0
+PAR-00011,EQ-01,2024-02-22,15:00,1.9,Operativa,Falta de mineral en cancha,699.0
+PAR-00012,EQ-01,2024-02-23,13:00,2.6,Correctiva,Falla mecánica - desgaste de componente,2145.0
+PAR-00013,EQ-01,2024-02-26,04:00,5.9,Preventiva,Mantenimiento programado (plan anual),6767.0
+PAR-00014,EQ-01,2024-03-02,09:00,0.6,Operativa,Condiciones climáticas adversas,283.0
+PAR-00015,EQ-01,2024-03-05,05:00,4.0,Correctiva,Rotura de faja/correa,5292.0
+PAR-00016,EQ-01,2024-03-06,16:00,2.8,Operativa,Falta de mineral en cancha,1657.0
+PAR-00017,EQ-01,2024-03-07,09:00,11.1,Correctiva,Falla de lubricación,16871.0
+PAR-00018,EQ-01,2024-03-19,14:00,8.8,Preventiva,Mantenimiento programado (plan anual),18695.0
+PAR-00019,EQ-01,2024-03-20,11:00,6.6,Correctiva,Rotura de faja/correa,12339.0
+PAR-00020,EQ-01,2024-03-23,03:00,18.2,Correctiva,Rotura de faja/correa,23840.0
+PAR-00021,EQ-01,2024-03-24,03:00,19.2,Correctiva,Falla mecánica - desgaste de componente,36335.0
+PAR-00022,EQ-01,2024-03-29,11:00,2.7,Correctiva,Falla eléctrica - motor/tablero,5929.0
+PAR-00023,EQ-01,2024-03-30,02:00,14.2,Correctiva,Falla eléctrica - motor/tablero,14203.0
+PAR-00024,EQ-01,2024-03-31,22:00,0.6,Correctiva,Falla mecánica - desgaste de componente,680.0
+PAR-00025,EQ-01,2024-04-01,00:00,17.7,Correctiva,Falla mecánica - desgaste de componente,26662.0
+PAR-00026,EQ-01,2024-04-05,07:00,2.7,Operativa,Condiciones climáticas adversas,738.0
+PAR-00027,EQ-01,2024-04-06,13:00,8.9,Preventiva,Mantenimiento programado (plan anual),8928.0
+PAR-00028,EQ-01,2024-04-18,12:00,8.3,Correctiva,Falla eléctrica - motor/tablero,12686.0
+PAR-00029,EQ-01,2024-04-20,05:00,8.2,Preventiva,Mantenimiento programado (plan anual),15086.0
+PAR-00030,EQ-01,2024-04-20,09:00,1.2,Operativa,Condiciones climáticas adversas,314.0
+PAR-00031,EQ-01,2024-05-05,16:00,4.7,Correctiva,Falla eléctrica - motor/tablero,9317.0
+PAR-00032,EQ-01,2024-05-06,02:00,20.0,Correctiva,Atoro de mineral / obstrucción,30880.0
+PAR-00033,EQ-01,2024-05-07,04:00,7.2,Preventiva,Mantenimiento programado (plan anual),15109.0
+PAR-00034,EQ-01,2024-05-08,15:00,1.2,Operativa,Corte de energía externo,538.0
+PAR-00035,EQ-01,2024-05-16,02:00,12.4,Correctiva,Falla de lubricación,23844.0
+PAR-00036,EQ-01,2024-05-20,18:00,1.1,Operativa,Espera de insumos (reactivos/bolas de molienda),233.0
+PAR-00037,EQ-01,2024-05-20,16:00,1.8,Correctiva,Falla eléctrica - motor/tablero,3697.0
+PAR-00038,EQ-01,2024-05-21,00:00,20.0,Correctiva,Falla eléctrica - motor/tablero,40824.0
+PAR-00039,EQ-01,2024-05-24,01:00,6.9,Preventiva,Mantenimiento programado (plan anual),14362.0
+PAR-00040,EQ-01,2024-05-26,05:00,17.4,Correctiva,Falla mecánica - desgaste de componente,27095.0
+PAR-00041,EQ-01,2024-05-29,01:00,1.4,Correctiva,Falla de lubricación,2672.0
+PAR-00042,EQ-01,2024-06-01,03:00,20.0,Correctiva,Rotura de faja/correa,18884.0
+PAR-00043,EQ-01,2024-06-03,20:00,0.8,Operativa,Falta de mineral en cancha,226.0
+PAR-00044,EQ-01,2024-06-05,02:00,0.8,Operativa,Condiciones climáticas adversas,317.0
+PAR-00045,EQ-01,2024-06-06,03:00,6.4,Correctiva,Rotura de faja/correa,7293.0
+PAR-00046,EQ-01,2024-06-07,15:00,5.7,Preventiva,Mantenimiento programado (plan anual),5761.0
+PAR-00047,EQ-01,2024-06-08,16:00,1.0,Operativa,Falta de mineral en cancha,297.0
+PAR-00048,EQ-01,2024-06-10,18:00,2.6,Operativa,Condiciones climáticas adversas,1410.0
+PAR-00049,EQ-01,2024-06-20,12:00,0.9,Correctiva,Atoro de mineral / obstrucción,1457.0
+PAR-00050,EQ-01,2024-06-22,21:00,2.0,Operativa,Espera de insumos (reactivos/bolas de molienda),415.0
+PAR-00051,EQ-01,2024-06-27,06:00,6.1,Preventiva,Mantenimiento programado (plan anual),8364.0
+PAR-00052,EQ-01,2024-07-01,14:00,9.0,Correctiva,Falla de lubricación,8518.0
+PAR-00053,EQ-01,2024-07-03,19:00,2.9,Operativa,Espera de insumos (reactivos/bolas de molienda),1038.0
+PAR-00054,EQ-01,2024-07-17,17:00,1.4,Correctiva,Falla de lubricación,2329.0
+PAR-00055,EQ-01,2024-07-19,01:00,7.7,Preventiva,Mantenimiento programado (plan anual),14486.0
+PAR-00056,EQ-01,2024-07-22,11:00,2.6,Correctiva,Falla de lubricación,2984.0
+PAR-00057,EQ-01,2024-07-28,21:00,0.6,Correctiva,Falla mecánica - desgaste de componente,871.0
+PAR-00058,EQ-01,2024-07-31,01:00,1.0,Correctiva,Rotura de faja/correa,1911.0
+PAR-00059,EQ-01,2024-08-02,18:00,0.5,Correctiva,Falla de lubricación,675.0
+PAR-00060,EQ-01,2024-08-03,10:00,6.3,Preventiva,Mantenimiento programado (plan anual),8063.0
+PAR-00061,EQ-01,2024-08-04,16:00,1.6,Operativa,Condiciones climáticas adversas,514.0
+PAR-00062,EQ-01,2024-08-06,03:00,12.3,Correctiva,Atoro de mineral / obstrucción,20983.0
+PAR-00063,EQ-01,2024-08-08,00:00,18.3,Correctiva,Rotura de faja/correa,36689.0
+PAR-00064,EQ-01,2024-08-09,15:00,3.0,Correctiva,Atoro de mineral / obstrucción,4677.0
+PAR-00065,EQ-01,2024-08-12,07:00,1.5,Operativa,Espera de insumos (reactivos/bolas de molienda),862.0
+PAR-00066,EQ-01,2024-08-16,01:00,7.5,Correctiva,Rotura de faja/correa,10793.0
+PAR-00067,EQ-01,2024-08-20,09:00,8.0,Preventiva,Mantenimiento programado (plan anual),10769.0
+PAR-00068,EQ-01,2024-08-29,06:00,3.8,Correctiva,Falla mecánica - desgaste de componente,7467.0
+PAR-00069,EQ-01,2024-08-31,07:00,0.5,Correctiva,Rotura de faja/correa,447.0
+PAR-00070,EQ-01,2024-09-09,13:00,4.9,Preventiva,Mantenimiento programado (plan anual),4861.0
+PAR-00071,EQ-01,2024-09-14,14:00,0.6,Operativa,Corte de energía externo,220.0
+PAR-00072,EQ-01,2024-09-22,08:00,2.5,Correctiva,Falla eléctrica - motor/tablero,3480.0
+PAR-00073,EQ-01,2024-09-23,06:00,5.6,Preventiva,Mantenimiento programado (plan anual),9266.0
+PAR-00074,EQ-01,2024-10-05,07:00,4.4,Correctiva,Falla de lubricación,7578.0
+PAR-00075,EQ-01,2024-10-08,14:00,6.8,Preventiva,Mantenimiento programado (plan anual),5941.0
+PAR-00076,EQ-01,2024-10-08,18:00,3.2,Correctiva,Rotura de faja/correa,2581.0
+PAR-00077,EQ-01,2024-10-09,04:00,2.4,Operativa,Condiciones climáticas adversas,485.0
+PAR-00078,EQ-01,2024-10-21,09:00,11.2,Correctiva,Rotura de faja/correa,9589.0
+PAR-00079,EQ-01,2024-10-23,00:00,20.0,Correctiva,Rotura de faja/correa,34247.0
+PAR-00080,EQ-01,2024-10-25,08:00,9.0,Preventiva,Mantenimiento programado (plan anual),18578.0
+PAR-00081,EQ-01,2024-10-27,15:00,3.1,Correctiva,Falla de lubricación,2754.0
+PAR-00082,EQ-01,2024-11-06,22:00,0.9,Operativa,Corte de energía externo,532.0
+PAR-00083,EQ-01,2024-11-06,00:00,1.5,Correctiva,Falla eléctrica - motor/tablero,1303.0
+PAR-00084,EQ-01,2024-11-09,08:00,5.6,Correctiva,Falla mecánica - desgaste de componente,7913.0
+PAR-00085,EQ-01,2024-11-13,00:00,1.3,Correctiva,Falla eléctrica - motor/tablero,1835.0
+PAR-00086,EQ-01,2024-11-14,03:00,6.1,Preventiva,Mantenimiento programado (plan anual),8885.0
+PAR-00087,EQ-01,2024-11-14,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,34149.0
+PAR-00088,EQ-01,2024-12-02,00:00,7.8,Preventiva,Mantenimiento programado (plan anual),9548.0
+PAR-00089,EQ-01,2024-12-04,04:00,17.8,Correctiva,Falla eléctrica - motor/tablero,14634.0
+PAR-00090,EQ-01,2024-12-20,04:00,4.0,Preventiva,Mantenimiento programado (plan anual),6106.0
+PAR-00091,EQ-01,2024-12-28,03:00,17.3,Correctiva,Falla mecánica - desgaste de componente,20010.0
+PAR-00092,EQ-01,2024-12-30,03:00,0.9,Operativa,Espera de insumos (reactivos/bolas de molienda),510.0
+PAR-00093,EQ-01,2025-01-01,11:00,2.7,Operativa,Falta de mineral en cancha,679.0
+PAR-00094,EQ-01,2025-01-07,04:00,7.9,Preventiva,Mantenimiento programado (plan anual),12105.0
+PAR-00095,EQ-01,2025-01-12,03:00,6.6,Correctiva,Atoro de mineral / obstrucción,10883.0
+PAR-00096,EQ-01,2025-01-20,00:00,15.9,Correctiva,Falla de lubricación,26976.0
+PAR-00097,EQ-01,2025-01-28,02:00,6.6,Preventiva,Mantenimiento programado (plan anual),6848.0
+PAR-00098,EQ-01,2025-02-04,14:00,4.9,Correctiva,Falla eléctrica - motor/tablero,6726.0
+PAR-00099,EQ-01,2025-02-19,11:00,5.1,Preventiva,Mantenimiento programado (plan anual),11174.0
+PAR-00100,EQ-01,2025-03-01,20:00,0.5,Correctiva,Rotura de faja/correa,445.0
+PAR-00101,EQ-01,2025-03-06,21:00,1.8,Correctiva,Rotura de faja/correa,2685.0
+PAR-00102,EQ-01,2025-03-07,12:00,5.1,Preventiva,Mantenimiento programado (plan anual),8678.0
+PAR-00103,EQ-01,2025-03-07,04:00,1.4,Operativa,Corte de energía externo,338.0
+PAR-00104,EQ-01,2025-03-09,01:00,1.1,Operativa,Condiciones climáticas adversas,583.0
+PAR-00105,EQ-01,2025-03-11,18:00,2.8,Operativa,Falta de mineral en cancha,1647.0
+PAR-00106,EQ-01,2025-03-25,09:00,4.4,Preventiva,Mantenimiento programado (plan anual),8730.0
+PAR-00107,EQ-01,2025-03-31,14:00,2.0,Operativa,Espera de insumos (reactivos/bolas de molienda),765.0
+PAR-00108,EQ-01,2025-03-31,06:00,4.3,Correctiva,Falla eléctrica - motor/tablero,8318.0
+PAR-00109,EQ-01,2025-04-01,16:00,1.8,Operativa,Condiciones climáticas adversas,924.0
+PAR-00110,EQ-01,2025-04-03,22:00,0.8,Correctiva,Falla mecánica - desgaste de componente,687.0
+PAR-00111,EQ-01,2025-04-05,06:00,2.7,Correctiva,Rotura de faja/correa,2655.0
+PAR-00112,EQ-01,2025-04-08,08:00,3.4,Correctiva,Falla de lubricación,4576.0
+PAR-00113,EQ-01,2025-04-15,12:00,4.2,Preventiva,Mantenimiento programado (plan anual),4129.0
+PAR-00114,EQ-01,2025-04-18,10:00,5.1,Correctiva,Falla de lubricación,4362.0
+PAR-00115,EQ-01,2025-04-19,09:00,1.2,Operativa,Falta de mineral en cancha,403.0
+PAR-00116,EQ-01,2025-04-28,10:00,2.4,Operativa,Corte de energía externo,574.0
+PAR-00117,EQ-01,2025-05-01,03:00,20.0,Correctiva,Falla de lubricación,30070.0
+PAR-00118,EQ-01,2025-05-02,13:00,9.9,Correctiva,Falla eléctrica - motor/tablero,21361.0
+PAR-00119,EQ-01,2025-05-08,04:00,5.3,Preventiva,Mantenimiento programado (plan anual),5620.0
+PAR-00120,EQ-01,2025-05-12,09:00,9.6,Correctiva,Rotura de faja/correa,13273.0
+PAR-00121,EQ-01,2025-05-17,11:00,2.0,Correctiva,Falla de lubricación,2681.0
+PAR-00122,EQ-01,2025-05-22,00:00,14.0,Correctiva,Falla eléctrica - motor/tablero,25930.0
+PAR-00123,EQ-01,2025-05-24,00:00,20.0,Correctiva,Atoro de mineral / obstrucción,34155.0
+PAR-00124,EQ-01,2025-05-25,01:00,1.2,Correctiva,Falla mecánica - desgaste de componente,1451.0
+PAR-00125,EQ-01,2025-05-26,18:00,2.5,Correctiva,Atoro de mineral / obstrucción,4553.0
+PAR-00126,EQ-01,2025-05-27,05:00,4.3,Correctiva,Atoro de mineral / obstrucción,8847.0
+PAR-00127,EQ-01,2025-05-29,03:00,20.0,Correctiva,Falla mecánica - desgaste de componente,27292.0
+PAR-00128,EQ-01,2025-05-31,05:00,6.5,Preventiva,Mantenimiento programado (plan anual),9098.0
+PAR-00129,EQ-01,2025-06-05,16:00,2.6,Operativa,Espera de insumos (reactivos/bolas de molienda),1347.0
+PAR-00130,EQ-01,2025-06-08,03:00,19.2,Correctiva,Rotura de faja/correa,25214.0
+PAR-00131,EQ-01,2025-06-13,07:00,2.4,Operativa,Corte de energía externo,549.0
+PAR-00132,EQ-01,2025-06-15,08:00,2.0,Operativa,Condiciones climáticas adversas,499.0
+PAR-00133,EQ-01,2025-06-16,07:00,6.8,Preventiva,Mantenimiento programado (plan anual),13111.0
+PAR-00134,EQ-01,2025-06-18,06:00,7.4,Correctiva,Rotura de faja/correa,11386.0
+PAR-00135,EQ-01,2025-06-30,08:00,14.0,Correctiva,Falla de lubricación,28311.0
+PAR-00136,EQ-01,2025-07-01,17:00,5.1,Preventiva,Mantenimiento programado (plan anual),6498.0
+PAR-00137,EQ-01,2025-07-11,15:00,2.2,Operativa,Espera de insumos (reactivos/bolas de molienda),487.0
+PAR-00138,EQ-01,2025-07-15,14:00,8.2,Preventiva,Mantenimiento programado (plan anual),8434.0
+PAR-00139,EQ-01,2025-07-18,12:00,10.0,Correctiva,Falla eléctrica - motor/tablero,18941.0
+PAR-00140,EQ-01,2025-07-29,08:00,1.9,Operativa,Falta de mineral en cancha,851.0
+PAR-00141,EQ-01,2025-07-31,09:00,8.2,Preventiva,Mantenimiento programado (plan anual),10398.0
+PAR-00142,EQ-01,2025-08-03,15:00,4.1,Correctiva,Rotura de faja/correa,5902.0
+PAR-00143,EQ-01,2025-08-15,01:00,17.0,Correctiva,Falla mecánica - desgaste de componente,34582.0
+PAR-00144,EQ-01,2025-08-19,17:00,4.5,Preventiva,Mantenimiento programado (plan anual),5150.0
+PAR-00145,EQ-01,2025-08-23,08:00,9.4,Correctiva,Falla de lubricación,9540.0
+PAR-00146,EQ-01,2025-08-26,04:00,14.3,Correctiva,Falla eléctrica - motor/tablero,19314.0
+PAR-00147,EQ-01,2025-09-01,05:00,1.9,Operativa,Condiciones climáticas adversas,692.0
+PAR-00148,EQ-01,2025-09-04,12:00,1.2,Operativa,Corte de energía externo,461.0
+PAR-00149,EQ-01,2025-09-06,19:00,0.7,Correctiva,Falla eléctrica - motor/tablero,1327.0
+PAR-00150,EQ-01,2025-09-07,02:00,1.1,Operativa,Falta de mineral en cancha,608.0
+PAR-00151,EQ-01,2025-09-09,09:00,7.4,Preventiva,Mantenimiento programado (plan anual),9191.0
+PAR-00152,EQ-01,2025-09-12,11:00,2.4,Operativa,Espera de insumos (reactivos/bolas de molienda),729.0
+PAR-00153,EQ-01,2025-09-17,02:00,20.0,Correctiva,Rotura de faja/correa,37571.0
+PAR-00154,EQ-01,2025-09-21,17:00,0.6,Operativa,Corte de energía externo,224.0
+PAR-00155,EQ-01,2025-09-23,01:00,4.3,Preventiva,Mantenimiento programado (plan anual),4764.0
+PAR-00156,EQ-01,2025-09-27,05:00,9.8,Correctiva,Atoro de mineral / obstrucción,11031.0
+PAR-00157,EQ-01,2025-10-04,09:00,2.1,Operativa,Espera de insumos (reactivos/bolas de molienda),520.0
+PAR-00158,EQ-01,2025-10-12,01:00,8.9,Preventiva,Mantenimiento programado (plan anual),18723.0
+PAR-00159,EQ-01,2025-10-14,03:00,3.2,Correctiva,Falla de lubricación,4604.0
+PAR-00160,EQ-01,2025-10-15,18:00,2.3,Operativa,Falta de mineral en cancha,1080.0
+PAR-00161,EQ-01,2025-10-16,10:00,2.0,Operativa,Falta de mineral en cancha,958.0
+PAR-00162,EQ-01,2025-10-20,20:00,3.0,Operativa,Corte de energía externo,940.0
+PAR-00163,EQ-01,2025-10-25,14:00,1.1,Operativa,Falta de mineral en cancha,264.0
+PAR-00164,EQ-01,2025-10-28,04:00,4.9,Preventiva,Mantenimiento programado (plan anual),7389.0
+PAR-00165,EQ-01,2025-11-07,01:00,18.5,Correctiva,Atoro de mineral / obstrucción,37833.0
+PAR-00166,EQ-01,2025-11-09,02:00,2.4,Correctiva,Atoro de mineral / obstrucción,2976.0
+PAR-00167,EQ-01,2025-11-13,05:00,1.0,Operativa,Corte de energía externo,506.0
+PAR-00168,EQ-01,2025-11-20,02:00,5.9,Preventiva,Mantenimiento programado (plan anual),8424.0
+PAR-00169,EQ-01,2025-11-26,06:00,7.5,Correctiva,Falla de lubricación,10888.0
+PAR-00170,EQ-01,2025-12-06,01:00,7.1,Correctiva,Falla mecánica - desgaste de componente,14637.0
+PAR-00171,EQ-01,2025-12-08,05:00,5.0,Correctiva,Falla mecánica - desgaste de componente,8476.0
+PAR-00172,EQ-01,2025-12-09,09:00,0.5,Correctiva,Atoro de mineral / obstrucción,632.0
+PAR-00173,EQ-01,2025-12-13,03:00,4.4,Preventiva,Mantenimiento programado (plan anual),9585.0
+PAR-00174,EQ-01,2025-12-27,10:00,4.1,Preventiva,Mantenimiento programado (plan anual),7642.0
+PAR-00175,EQ-02,2024-01-06,02:00,2.5,Operativa,Falta de mineral en cancha,543.0
+PAR-00176,EQ-02,2024-01-08,02:00,13.7,Correctiva,Falla mecánica - desgaste de componente,13649.0
+PAR-00177,EQ-02,2024-01-10,06:00,2.9,Correctiva,Falla mecánica - desgaste de componente,2703.0
+PAR-00178,EQ-02,2024-01-11,09:00,0.5,Correctiva,Falla mecánica - desgaste de componente,1076.0
+PAR-00179,EQ-02,2024-01-12,06:00,2.9,Operativa,Corte de energía externo,652.0
+PAR-00180,EQ-02,2024-01-13,01:00,2.0,Operativa,Corte de energía externo,837.0
+PAR-00181,EQ-02,2024-01-15,01:00,7.7,Preventiva,Mantenimiento programado (plan anual),10839.0
+PAR-00182,EQ-02,2024-01-20,10:00,2.2,Correctiva,Falla de lubricación,2079.0
+PAR-00183,EQ-02,2024-01-22,00:00,0.8,Operativa,Espera de insumos (reactivos/bolas de molienda),274.0
+PAR-00184,EQ-02,2024-01-25,05:00,7.3,Correctiva,Falla mecánica - desgaste de componente,7220.0
+PAR-00185,EQ-02,2024-01-31,06:00,1.0,Correctiva,Falla mecánica - desgaste de componente,840.0
+PAR-00186,EQ-02,2024-02-02,10:00,2.2,Correctiva,Rotura de faja/correa,3349.0
+PAR-00187,EQ-02,2024-02-04,05:00,1.2,Operativa,Condiciones climáticas adversas,268.0
+PAR-00188,EQ-02,2024-02-06,06:00,7.3,Preventiva,Mantenimiento programado (plan anual),14818.0
+PAR-00189,EQ-02,2024-02-09,05:00,2.0,Operativa,Corte de energía externo,691.0
+PAR-00190,EQ-02,2024-02-11,14:00,5.5,Correctiva,Falla de lubricación,4670.0
+PAR-00191,EQ-02,2024-02-21,11:00,7.5,Preventiva,Mantenimiento programado (plan anual),11233.0
+PAR-00192,EQ-02,2024-02-25,09:00,2.1,Operativa,Espera de insumos (reactivos/bolas de molienda),1226.0
+PAR-00193,EQ-02,2024-02-25,04:00,7.0,Correctiva,Atoro de mineral / obstrucción,12531.0
+PAR-00194,EQ-02,2024-03-01,09:00,4.1,Correctiva,Falla de lubricación,4224.0
+PAR-00195,EQ-02,2024-03-02,06:00,2.2,Correctiva,Falla eléctrica - motor/tablero,2454.0
+PAR-00196,EQ-02,2024-03-07,12:00,6.6,Preventiva,Mantenimiento programado (plan anual),14274.0
+PAR-00197,EQ-02,2024-03-26,08:00,7.3,Preventiva,Mantenimiento programado (plan anual),7779.0
+PAR-00198,EQ-02,2024-04-06,08:00,2.8,Correctiva,Falla eléctrica - motor/tablero,4497.0
+PAR-00199,EQ-02,2024-04-09,03:00,2.3,Operativa,Falta de mineral en cancha,630.0
+PAR-00200,EQ-02,2024-04-12,08:00,7.0,Preventiva,Mantenimiento programado (plan anual),9814.0
+PAR-00201,EQ-02,2024-04-12,01:00,15.7,Correctiva,Falla mecánica - desgaste de componente,27601.0
+PAR-00202,EQ-02,2024-04-22,01:00,20.0,Correctiva,Falla eléctrica - motor/tablero,21913.0
+PAR-00203,EQ-02,2024-04-25,07:00,6.3,Correctiva,Atoro de mineral / obstrucción,7348.0
+PAR-00204,EQ-02,2024-05-02,15:00,7.8,Preventiva,Mantenimiento programado (plan anual),8710.0
+PAR-00205,EQ-02,2024-05-05,12:00,4.7,Correctiva,Falla mecánica - desgaste de componente,5560.0
+PAR-00206,EQ-02,2024-05-16,08:00,4.8,Correctiva,Falla mecánica - desgaste de componente,5742.0
+PAR-00207,EQ-02,2024-05-17,16:00,7.0,Preventiva,Mantenimiento programado (plan anual),7915.0
+PAR-00208,EQ-02,2024-05-21,07:00,2.2,Operativa,Falta de mineral en cancha,936.0
+PAR-00209,EQ-02,2024-05-23,02:00,1.2,Correctiva,Falla mecánica - desgaste de componente,963.0
+PAR-00210,EQ-02,2024-05-24,12:00,5.1,Correctiva,Rotura de faja/correa,10145.0
+PAR-00211,EQ-02,2024-05-31,08:00,6.6,Preventiva,Mantenimiento programado (plan anual),8097.0
+PAR-00212,EQ-02,2024-06-11,13:00,9.6,Correctiva,Falla eléctrica - motor/tablero,15654.0
+PAR-00213,EQ-02,2024-06-14,09:00,4.5,Preventiva,Mantenimiento programado (plan anual),9609.0
+PAR-00214,EQ-02,2024-06-22,10:00,0.7,Operativa,Espera de insumos (reactivos/bolas de molienda),341.0
+PAR-00215,EQ-02,2024-06-27,12:00,1.9,Operativa,Corte de energía externo,447.0
+PAR-00216,EQ-02,2024-07-02,09:00,5.8,Preventiva,Mantenimiento programado (plan anual),11311.0
+PAR-00217,EQ-02,2024-07-02,17:00,0.6,Correctiva,Atoro de mineral / obstrucción,1257.0
+PAR-00218,EQ-02,2024-07-08,02:00,6.9,Correctiva,Falla eléctrica - motor/tablero,7269.0
+PAR-00219,EQ-02,2024-07-09,09:00,0.7,Correctiva,Falla de lubricación,1002.0
+PAR-00220,EQ-02,2024-07-17,15:00,1.3,Correctiva,Falla de lubricación,1625.0
+PAR-00221,EQ-02,2024-07-20,18:00,2.7,Correctiva,Rotura de faja/correa,4121.0
+PAR-00222,EQ-02,2024-07-23,14:00,6.5,Preventiva,Mantenimiento programado (plan anual),10014.0
+PAR-00223,EQ-02,2024-07-30,09:00,0.5,Correctiva,Falla de lubricación,895.0
+PAR-00224,EQ-02,2024-08-06,04:00,8.2,Preventiva,Mantenimiento programado (plan anual),8569.0
+PAR-00225,EQ-02,2024-08-14,14:00,6.3,Correctiva,Rotura de faja/correa,7296.0
+PAR-00226,EQ-02,2024-08-22,10:00,0.5,Correctiva,Rotura de faja/correa,1021.0
+PAR-00227,EQ-02,2024-08-29,17:00,4.8,Preventiva,Mantenimiento programado (plan anual),4407.0
+PAR-00228,EQ-02,2024-09-13,17:00,1.8,Operativa,Condiciones climáticas adversas,886.0
+PAR-00229,EQ-02,2024-09-21,02:00,6.9,Preventiva,Mantenimiento programado (plan anual),10466.0
+PAR-00230,EQ-02,2024-09-23,07:00,1.8,Operativa,Espera de insumos (reactivos/bolas de molienda),966.0
+PAR-00231,EQ-02,2024-09-28,17:00,1.5,Correctiva,Falla de lubricación,1774.0
+PAR-00232,EQ-02,2024-10-02,11:00,0.5,Operativa,Condiciones climáticas adversas,223.0
+PAR-00233,EQ-02,2024-10-05,19:00,1.3,Operativa,Espera de insumos (reactivos/bolas de molienda),559.0
+PAR-00234,EQ-02,2024-10-09,08:00,4.5,Preventiva,Mantenimiento programado (plan anual),3728.0
+PAR-00235,EQ-02,2024-10-13,02:00,9.8,Correctiva,Atoro de mineral / obstrucción,21449.0
+PAR-00236,EQ-02,2024-10-15,04:00,2.6,Correctiva,Falla de lubricación,4395.0
+PAR-00237,EQ-02,2024-10-21,13:00,1.6,Operativa,Espera de insumos (reactivos/bolas de molienda),574.0
+PAR-00238,EQ-02,2024-10-22,15:00,3.1,Correctiva,Falla eléctrica - motor/tablero,6288.0
+PAR-00239,EQ-02,2024-10-25,11:00,7.8,Correctiva,Rotura de faja/correa,8799.0
+PAR-00240,EQ-02,2024-11-01,00:00,7.4,Preventiva,Mantenimiento programado (plan anual),13895.0
+PAR-00241,EQ-02,2024-11-07,00:00,15.0,Correctiva,Falla de lubricación,28603.0
+PAR-00242,EQ-02,2024-11-14,05:00,7.5,Correctiva,Atoro de mineral / obstrucción,16219.0
+PAR-00243,EQ-02,2024-11-17,03:00,6.6,Preventiva,Mantenimiento programado (plan anual),6290.0
+PAR-00244,EQ-02,2024-11-23,21:00,1.2,Operativa,Condiciones climáticas adversas,389.0
+PAR-00245,EQ-02,2024-11-26,12:00,1.9,Correctiva,Falla de lubricación,2730.0
+PAR-00246,EQ-02,2024-11-28,06:00,0.5,Correctiva,Falla de lubricación,493.0
+PAR-00247,EQ-02,2024-11-29,15:00,2.4,Operativa,Corte de energía externo,1302.0
+PAR-00248,EQ-02,2024-12-03,13:00,6.6,Preventiva,Mantenimiento programado (plan anual),8732.0
+PAR-00249,EQ-02,2024-12-08,12:00,3.9,Correctiva,Falla de lubricación,4536.0
+PAR-00250,EQ-02,2024-12-09,04:00,3.4,Correctiva,Atoro de mineral / obstrucción,2956.0
+PAR-00251,EQ-02,2024-12-21,09:00,0.7,Operativa,Corte de energía externo,324.0
+PAR-00252,EQ-02,2024-12-25,00:00,6.5,Preventiva,Mantenimiento programado (plan anual),6851.0
+PAR-00253,EQ-02,2024-12-27,08:00,1.7,Operativa,Corte de energía externo,692.0
+PAR-00254,EQ-02,2024-12-27,02:00,20.0,Correctiva,Falla de lubricación,35067.0
+PAR-00255,EQ-02,2024-12-28,11:00,1.1,Operativa,Condiciones climáticas adversas,534.0
+PAR-00256,EQ-02,2025-01-07,03:00,4.7,Correctiva,Falla mecánica - desgaste de componente,4331.0
+PAR-00257,EQ-02,2025-01-08,11:00,1.2,Operativa,Espera de insumos (reactivos/bolas de molienda),612.0
+PAR-00258,EQ-02,2025-01-16,01:00,8.2,Preventiva,Mantenimiento programado (plan anual),9780.0
+PAR-00259,EQ-02,2025-01-21,01:00,15.9,Correctiva,Rotura de faja/correa,33671.0
+PAR-00260,EQ-02,2025-01-24,07:00,1.1,Correctiva,Falla mecánica - desgaste de componente,1322.0
+PAR-00261,EQ-02,2025-01-28,02:00,20.0,Correctiva,Falla de lubricación,34357.0
+PAR-00262,EQ-02,2025-02-07,13:00,8.6,Preventiva,Mantenimiento programado (plan anual),10579.0
+PAR-00263,EQ-02,2025-02-16,02:00,8.3,Correctiva,Atoro de mineral / obstrucción,13622.0
+PAR-00264,EQ-02,2025-02-18,05:00,7.2,Correctiva,Rotura de faja/correa,14345.0
+PAR-00265,EQ-02,2025-02-22,16:00,5.2,Preventiva,Mantenimiento programado (plan anual),8226.0
+PAR-00266,EQ-02,2025-02-22,17:00,3.0,Correctiva,Falla de lubricación,4707.0
+PAR-00267,EQ-02,2025-02-24,02:00,18.5,Correctiva,Falla eléctrica - motor/tablero,27832.0
+PAR-00268,EQ-02,2025-03-09,02:00,8.2,Preventiva,Mantenimiento programado (plan anual),7900.0
+PAR-00269,EQ-02,2025-03-10,13:00,1.8,Operativa,Condiciones climáticas adversas,759.0
+PAR-00270,EQ-02,2025-03-11,10:00,0.9,Correctiva,Atoro de mineral / obstrucción,1098.0
+PAR-00271,EQ-02,2025-03-13,05:00,1.1,Operativa,Corte de energía externo,587.0
+PAR-00272,EQ-02,2025-03-13,01:00,20.0,Correctiva,Falla de lubricación,41085.0
+PAR-00273,EQ-02,2025-03-18,09:00,8.7,Correctiva,Atoro de mineral / obstrucción,8472.0
+PAR-00274,EQ-02,2025-03-20,00:00,1.0,Operativa,Condiciones climáticas adversas,463.0
+PAR-00275,EQ-02,2025-03-22,00:00,2.7,Operativa,Corte de energía externo,1158.0
+PAR-00276,EQ-02,2025-03-23,01:00,8.0,Correctiva,Atoro de mineral / obstrucción,11362.0
+PAR-00277,EQ-02,2025-03-26,17:00,4.3,Preventiva,Mantenimiento programado (plan anual),4916.0
+PAR-00278,EQ-02,2025-03-31,05:00,1.0,Operativa,Falta de mineral en cancha,362.0
+PAR-00279,EQ-02,2025-04-04,10:00,1.0,Correctiva,Falla de lubricación,944.0
+PAR-00280,EQ-02,2025-04-11,18:00,1.8,Correctiva,Rotura de faja/correa,2895.0
+PAR-00281,EQ-02,2025-04-12,04:00,8.8,Preventiva,Mantenimiento programado (plan anual),8423.0
+PAR-00282,EQ-02,2025-04-18,20:00,2.1,Operativa,Falta de mineral en cancha,657.0
+PAR-00283,EQ-02,2025-04-19,06:00,4.2,Correctiva,Falla de lubricación,3595.0
+PAR-00284,EQ-02,2025-04-21,03:00,0.9,Operativa,Condiciones climáticas adversas,338.0
+PAR-00285,EQ-02,2025-04-24,11:00,6.0,Correctiva,Atoro de mineral / obstrucción,5156.0
+PAR-00286,EQ-02,2025-04-29,06:00,6.1,Preventiva,Mantenimiento programado (plan anual),6094.0
+PAR-00287,EQ-02,2025-05-07,05:00,13.3,Correctiva,Falla eléctrica - motor/tablero,18716.0
+PAR-00288,EQ-02,2025-05-09,02:00,3.5,Correctiva,Atoro de mineral / obstrucción,3601.0
+PAR-00289,EQ-02,2025-05-14,13:00,2.8,Operativa,Falta de mineral en cancha,1599.0
+PAR-00290,EQ-02,2025-05-15,09:00,1.3,Correctiva,Falla mecánica - desgaste de componente,1207.0
+PAR-00291,EQ-02,2025-05-19,16:00,6.7,Preventiva,Mantenimiento programado (plan anual),10335.0
+PAR-00292,EQ-02,2025-05-19,14:00,1.9,Operativa,Corte de energía externo,428.0
+PAR-00293,EQ-02,2025-05-24,13:00,3.3,Correctiva,Falla de lubricación,5288.0
+PAR-00294,EQ-02,2025-05-28,06:00,2.3,Correctiva,Falla de lubricación,2826.0
+PAR-00295,EQ-02,2025-06-08,11:00,8.2,Preventiva,Mantenimiento programado (plan anual),6572.0
+PAR-00296,EQ-02,2025-06-18,11:00,0.5,Correctiva,Atoro de mineral / obstrucción,1088.0
+PAR-00297,EQ-02,2025-06-25,08:00,6.9,Preventiva,Mantenimiento programado (plan anual),14315.0
+PAR-00298,EQ-02,2025-06-27,06:00,2.3,Operativa,Espera de insumos (reactivos/bolas de molienda),669.0
+PAR-00299,EQ-02,2025-06-28,13:00,1.8,Correctiva,Falla de lubricación,3057.0
+PAR-00300,EQ-02,2025-06-30,03:00,4.0,Correctiva,Atoro de mineral / obstrucción,6945.0
+PAR-00301,EQ-02,2025-07-07,00:00,6.1,Correctiva,Rotura de faja/correa,10824.0
+PAR-00302,EQ-02,2025-07-13,01:00,0.5,Correctiva,Atoro de mineral / obstrucción,782.0
+PAR-00303,EQ-02,2025-07-14,04:00,7.7,Preventiva,Mantenimiento programado (plan anual),6739.0
+PAR-00304,EQ-02,2025-07-15,09:00,0.5,Correctiva,Falla mecánica - desgaste de componente,831.0
+PAR-00305,EQ-02,2025-07-20,05:00,5.2,Correctiva,Falla de lubricación,10613.0
+PAR-00306,EQ-02,2025-07-26,16:00,1.5,Operativa,Corte de energía externo,666.0
+PAR-00307,EQ-02,2025-07-28,01:00,4.3,Preventiva,Mantenimiento programado (plan anual),5598.0
+PAR-00308,EQ-02,2025-08-10,00:00,8.9,Correctiva,Falla eléctrica - motor/tablero,16048.0
+PAR-00309,EQ-02,2025-08-11,05:00,9.6,Correctiva,Falla eléctrica - motor/tablero,10018.0
+PAR-00310,EQ-02,2025-08-17,10:00,5.4,Preventiva,Mantenimiento programado (plan anual),5979.0
+PAR-00311,EQ-02,2025-08-19,12:00,2.6,Operativa,Espera de insumos (reactivos/bolas de molienda),783.0
+PAR-00312,EQ-02,2025-08-24,03:00,4.0,Correctiva,Falla mecánica - desgaste de componente,7190.0
+PAR-00313,EQ-02,2025-08-26,03:00,1.2,Operativa,Corte de energía externo,704.0
+PAR-00314,EQ-02,2025-08-28,02:00,2.4,Operativa,Corte de energía externo,539.0
+PAR-00315,EQ-02,2025-08-30,14:00,7.6,Correctiva,Falla eléctrica - motor/tablero,7502.0
+PAR-00316,EQ-02,2025-09-06,05:00,5.2,Preventiva,Mantenimiento programado (plan anual),5906.0
+PAR-00317,EQ-02,2025-09-09,07:00,2.2,Operativa,Condiciones climáticas adversas,841.0
+PAR-00318,EQ-02,2025-09-14,17:00,1.1,Correctiva,Falla mecánica - desgaste de componente,1474.0
+PAR-00319,EQ-02,2025-09-19,20:00,1.4,Operativa,Condiciones climáticas adversas,665.0
+PAR-00320,EQ-02,2025-09-20,04:00,16.1,Correctiva,Falla de lubricación,32292.0
+PAR-00321,EQ-02,2025-09-23,15:00,3.7,Correctiva,Falla eléctrica - motor/tablero,3584.0
+PAR-00322,EQ-02,2025-09-28,08:00,5.8,Preventiva,Mantenimiento programado (plan anual),11758.0
+PAR-00323,EQ-02,2025-10-02,12:00,8.6,Correctiva,Falla mecánica - desgaste de componente,8495.0
+PAR-00324,EQ-02,2025-10-03,02:00,6.4,Correctiva,Falla eléctrica - motor/tablero,9481.0
+PAR-00325,EQ-02,2025-10-12,05:00,8.9,Preventiva,Mantenimiento programado (plan anual),8859.0
+PAR-00326,EQ-02,2025-10-15,08:00,0.5,Correctiva,Rotura de faja/correa,934.0
+PAR-00327,EQ-02,2025-10-16,08:00,0.6,Operativa,Condiciones climáticas adversas,136.0
+PAR-00328,EQ-02,2025-10-19,05:00,6.6,Correctiva,Falla eléctrica - motor/tablero,6973.0
+PAR-00329,EQ-02,2025-10-24,10:00,0.7,Correctiva,Rotura de faja/correa,1236.0
+PAR-00330,EQ-02,2025-10-25,12:00,3.1,Correctiva,Atoro de mineral / obstrucción,6737.0
+PAR-00331,EQ-02,2025-10-27,08:00,3.3,Correctiva,Falla de lubricación,5692.0
+PAR-00332,EQ-02,2025-10-28,12:00,3.7,Correctiva,Atoro de mineral / obstrucción,5477.0
+PAR-00333,EQ-02,2025-10-30,11:00,2.4,Correctiva,Falla eléctrica - motor/tablero,3250.0
+PAR-00334,EQ-02,2025-10-31,08:00,2.4,Operativa,Corte de energía externo,629.0
+PAR-00335,EQ-02,2025-11-01,01:00,16.4,Correctiva,Falla eléctrica - motor/tablero,26094.0
+PAR-00336,EQ-02,2025-11-02,05:00,6.4,Preventiva,Mantenimiento programado (plan anual),9510.0
+PAR-00337,EQ-02,2025-11-07,06:00,5.1,Correctiva,Falla eléctrica - motor/tablero,6629.0
+PAR-00338,EQ-02,2025-11-12,04:00,1.7,Operativa,Falta de mineral en cancha,364.0
+PAR-00339,EQ-02,2025-11-17,05:00,8.8,Preventiva,Mantenimiento programado (plan anual),18224.0
+PAR-00340,EQ-02,2025-11-29,05:00,8.3,Correctiva,Falla de lubricación,14934.0
+PAR-00341,EQ-02,2025-12-03,08:00,5.4,Preventiva,Mantenimiento programado (plan anual),7889.0
+PAR-00342,EQ-02,2025-12-10,15:00,3.7,Correctiva,Rotura de faja/correa,3625.0
+PAR-00343,EQ-02,2025-12-11,03:00,1.0,Correctiva,Falla mecánica - desgaste de componente,1018.0
+PAR-00344,EQ-02,2025-12-15,09:00,2.4,Operativa,Condiciones climáticas adversas,631.0
+PAR-00345,EQ-02,2025-12-19,09:00,0.8,Operativa,Falta de mineral en cancha,292.0
+PAR-00346,EQ-02,2025-12-20,16:00,5.1,Correctiva,Rotura de faja/correa,6323.0
+PAR-00347,EQ-02,2025-12-25,12:00,5.4,Preventiva,Mantenimiento programado (plan anual),8179.0
+PAR-00348,EQ-03,2024-01-02,06:00,3.0,Operativa,Espera de insumos (reactivos/bolas de molienda),793.0
+PAR-00349,EQ-03,2024-01-10,01:00,2.0,Correctiva,Falla de lubricación,2856.0
+PAR-00350,EQ-03,2024-01-14,00:00,6.2,Preventiva,Mantenimiento programado (plan anual),11408.0
+PAR-00351,EQ-03,2024-01-16,06:00,1.9,Operativa,Falta de mineral en cancha,563.0
+PAR-00352,EQ-03,2024-01-28,14:00,2.9,Operativa,Espera de insumos (reactivos/bolas de molienda),1384.0
+PAR-00353,EQ-03,2024-01-30,15:00,5.3,Preventiva,Mantenimiento programado (plan anual),6256.0
+PAR-00354,EQ-03,2024-02-01,03:00,2.3,Operativa,Condiciones climáticas adversas,1366.0
+PAR-00355,EQ-03,2024-02-05,07:00,2.8,Operativa,Falta de mineral en cancha,1344.0
+PAR-00356,EQ-03,2024-02-15,10:00,8.8,Preventiva,Mantenimiento programado (plan anual),8713.0
+PAR-00357,EQ-03,2024-02-20,10:00,1.6,Operativa,Corte de energía externo,848.0
+PAR-00358,EQ-03,2024-03-02,08:00,7.1,Preventiva,Mantenimiento programado (plan anual),10148.0
+PAR-00359,EQ-03,2024-03-04,14:00,1.2,Operativa,Corte de energía externo,500.0
+PAR-00360,EQ-03,2024-03-05,17:00,4.5,Correctiva,Falla de lubricación,8593.0
+PAR-00361,EQ-03,2024-03-06,02:00,0.5,Correctiva,Rotura de faja/correa,719.0
+PAR-00362,EQ-03,2024-03-08,13:00,9.6,Correctiva,Falla mecánica - desgaste de componente,15624.0
+PAR-00363,EQ-03,2024-03-21,12:00,6.5,Preventiva,Mantenimiento programado (plan anual),13845.0
+PAR-00364,EQ-03,2024-03-26,14:00,1.9,Operativa,Espera de insumos (reactivos/bolas de molienda),851.0
+PAR-00365,EQ-03,2024-04-06,06:00,2.0,Correctiva,Falla de lubricación,3049.0
+PAR-00366,EQ-03,2024-04-08,15:00,1.6,Correctiva,Atoro de mineral / obstrucción,1524.0
+PAR-00367,EQ-03,2024-04-10,04:00,6.1,Preventiva,Mantenimiento programado (plan anual),7628.0
+PAR-00368,EQ-03,2024-04-23,13:00,2.7,Correctiva,Falla eléctrica - motor/tablero,3184.0
+PAR-00369,EQ-03,2024-04-30,17:00,4.9,Preventiva,Mantenimiento programado (plan anual),7610.0
+PAR-00370,EQ-03,2024-05-07,17:00,0.6,Operativa,Condiciones climáticas adversas,244.0
+PAR-00371,EQ-03,2024-05-14,10:00,2.3,Operativa,Espera de insumos (reactivos/bolas de molienda),485.0
+PAR-00372,EQ-03,2024-05-15,17:00,1.9,Operativa,Corte de energía externo,747.0
+PAR-00373,EQ-03,2024-05-18,10:00,4.0,Preventiva,Mantenimiento programado (plan anual),6705.0
+PAR-00374,EQ-03,2024-05-22,19:00,3.1,Correctiva,Atoro de mineral / obstrucción,3023.0
+PAR-00375,EQ-03,2024-05-24,02:00,1.2,Operativa,Espera de insumos (reactivos/bolas de molienda),585.0
+PAR-00376,EQ-03,2024-06-04,04:00,5.2,Preventiva,Mantenimiento programado (plan anual),6129.0
+PAR-00377,EQ-03,2024-06-04,03:00,1.3,Operativa,Espera de insumos (reactivos/bolas de molienda),337.0
+PAR-00378,EQ-03,2024-06-08,04:00,3.9,Correctiva,Falla eléctrica - motor/tablero,8568.0
+PAR-00379,EQ-03,2024-06-09,00:00,4.0,Correctiva,Rotura de faja/correa,6990.0
+PAR-00380,EQ-03,2024-06-20,04:00,1.8,Operativa,Falta de mineral en cancha,618.0
+PAR-00381,EQ-03,2024-06-21,13:00,0.8,Operativa,Condiciones climáticas adversas,243.0
+PAR-00382,EQ-03,2024-06-26,06:00,6.5,Preventiva,Mantenimiento programado (plan anual),11614.0
+PAR-00383,EQ-03,2024-06-27,08:00,3.0,Operativa,Corte de energía externo,1348.0
+PAR-00384,EQ-03,2024-06-27,10:00,5.7,Correctiva,Falla de lubricación,10841.0
+PAR-00385,EQ-03,2024-07-11,08:00,0.9,Correctiva,Atoro de mineral / obstrucción,1834.0
+PAR-00386,EQ-03,2024-07-13,09:00,7.1,Preventiva,Mantenimiento programado (plan anual),5889.0
+PAR-00387,EQ-03,2024-07-16,18:00,3.8,Correctiva,Atoro de mineral / obstrucción,6095.0
+PAR-00388,EQ-03,2024-08-01,08:00,6.4,Preventiva,Mantenimiento programado (plan anual),12986.0
+PAR-00389,EQ-03,2024-08-05,08:00,9.9,Correctiva,Falla eléctrica - motor/tablero,18593.0
+PAR-00390,EQ-03,2024-08-10,13:00,1.1,Correctiva,Falla de lubricación,977.0
+PAR-00391,EQ-03,2024-08-18,09:00,7.8,Preventiva,Mantenimiento programado (plan anual),15824.0
+PAR-00392,EQ-03,2024-08-18,12:00,0.5,Correctiva,Falla mecánica - desgaste de componente,598.0
+PAR-00393,EQ-03,2024-08-25,11:00,2.1,Operativa,Condiciones climáticas adversas,684.0
+PAR-00394,EQ-03,2024-09-07,14:00,2.9,Operativa,Falta de mineral en cancha,965.0
+PAR-00395,EQ-03,2024-09-08,09:00,6.5,Preventiva,Mantenimiento programado (plan anual),6913.0
+PAR-00396,EQ-03,2024-09-11,10:00,2.2,Operativa,Condiciones climáticas adversas,457.0
+PAR-00397,EQ-03,2024-09-11,19:00,1.4,Correctiva,Atoro de mineral / obstrucción,1810.0
+PAR-00398,EQ-03,2024-09-20,13:00,2.7,Operativa,Falta de mineral en cancha,1278.0
+PAR-00399,EQ-03,2024-09-29,16:00,5.8,Preventiva,Mantenimiento programado (plan anual),9142.0
+PAR-00400,EQ-03,2024-10-15,13:00,6.9,Preventiva,Mantenimiento programado (plan anual),11052.0
+PAR-00401,EQ-03,2024-10-18,18:00,5.0,Correctiva,Falla mecánica - desgaste de componente,5500.0
+PAR-00402,EQ-03,2024-10-30,05:00,6.0,Preventiva,Mantenimiento programado (plan anual),11774.0
+PAR-00403,EQ-03,2024-11-07,19:00,1.5,Operativa,Condiciones climáticas adversas,460.0
+PAR-00404,EQ-03,2024-11-14,09:00,11.1,Correctiva,Falla mecánica - desgaste de componente,22910.0
+PAR-00405,EQ-03,2024-11-18,19:00,2.3,Operativa,Corte de energía externo,508.0
+PAR-00406,EQ-03,2024-11-20,10:00,7.4,Preventiva,Mantenimiento programado (plan anual),13241.0
+PAR-00407,EQ-03,2024-11-25,19:00,4.0,Correctiva,Falla eléctrica - motor/tablero,7703.0
+PAR-00408,EQ-03,2024-12-10,12:00,5.4,Preventiva,Mantenimiento programado (plan anual),8714.0
+PAR-00409,EQ-03,2024-12-12,07:00,0.8,Correctiva,Falla eléctrica - motor/tablero,846.0
+PAR-00410,EQ-03,2024-12-13,11:00,1.2,Operativa,Condiciones climáticas adversas,706.0
+PAR-00411,EQ-03,2024-12-13,12:00,0.7,Correctiva,Rotura de faja/correa,828.0
+PAR-00412,EQ-03,2024-12-14,05:00,1.4,Operativa,Corte de energía externo,649.0
+PAR-00413,EQ-03,2024-12-15,10:00,9.8,Correctiva,Atoro de mineral / obstrucción,15854.0
+PAR-00414,EQ-03,2024-12-24,04:00,2.4,Correctiva,Falla de lubricación,2915.0
+PAR-00415,EQ-03,2024-12-28,08:00,5.3,Preventiva,Mantenimiento programado (plan anual),9102.0
+PAR-00416,EQ-03,2025-01-01,17:00,3.0,Correctiva,Falla de lubricación,2580.0
+PAR-00417,EQ-03,2025-01-02,10:00,2.4,Operativa,Falta de mineral en cancha,1347.0
+PAR-00418,EQ-03,2025-01-11,02:00,7.5,Preventiva,Mantenimiento programado (plan anual),16142.0
+PAR-00419,EQ-03,2025-01-12,06:00,1.1,Operativa,Condiciones climáticas adversas,495.0
+PAR-00420,EQ-03,2025-01-13,13:00,6.2,Correctiva,Falla eléctrica - motor/tablero,8319.0
+PAR-00421,EQ-03,2025-02-03,07:00,5.7,Preventiva,Mantenimiento programado (plan anual),11415.0
+PAR-00422,EQ-03,2025-02-06,07:00,1.1,Operativa,Condiciones climáticas adversas,350.0
+PAR-00423,EQ-03,2025-02-19,14:00,2.6,Correctiva,Atoro de mineral / obstrucción,5304.0
+PAR-00424,EQ-03,2025-02-22,17:00,3.6,Correctiva,Falla de lubricación,4860.0
+PAR-00425,EQ-03,2025-02-26,15:00,6.5,Preventiva,Mantenimiento programado (plan anual),12495.0
+PAR-00426,EQ-03,2025-02-26,13:00,1.5,Operativa,Falta de mineral en cancha,842.0
+PAR-00427,EQ-03,2025-03-09,07:00,0.8,Correctiva,Falla de lubricación,1641.0
+PAR-00428,EQ-03,2025-03-12,00:00,0.5,Correctiva,Falla de lubricación,676.0
+PAR-00429,EQ-03,2025-03-18,17:00,5.7,Preventiva,Mantenimiento programado (plan anual),7931.0
+PAR-00430,EQ-03,2025-03-18,10:00,2.2,Correctiva,Falla eléctrica - motor/tablero,3587.0
+PAR-00431,EQ-03,2025-03-21,00:00,2.2,Operativa,Condiciones climáticas adversas,442.0
+PAR-00432,EQ-03,2025-03-29,10:00,1.9,Operativa,Corte de energía externo,543.0
+PAR-00433,EQ-03,2025-04-08,15:00,5.0,Preventiva,Mantenimiento programado (plan anual),10269.0
+PAR-00434,EQ-03,2025-04-21,02:00,20.0,Correctiva,Falla mecánica - desgaste de componente,42108.0
+PAR-00435,EQ-03,2025-04-30,04:00,8.4,Preventiva,Mantenimiento programado (plan anual),16112.0
+PAR-00436,EQ-03,2025-05-03,18:00,4.8,Correctiva,Falla mecánica - desgaste de componente,10386.0
+PAR-00437,EQ-03,2025-05-15,17:00,5.0,Preventiva,Mantenimiento programado (plan anual),7687.0
+PAR-00438,EQ-03,2025-05-16,20:00,0.5,Operativa,Espera de insumos (reactivos/bolas de molienda),236.0
+PAR-00439,EQ-03,2025-05-28,18:00,1.2,Correctiva,Rotura de faja/correa,1807.0
+PAR-00440,EQ-03,2025-05-29,12:00,7.3,Preventiva,Mantenimiento programado (plan anual),12766.0
+PAR-00441,EQ-03,2025-05-29,19:00,1.2,Correctiva,Falla eléctrica - motor/tablero,1370.0
+PAR-00442,EQ-03,2025-06-05,04:00,2.6,Operativa,Falta de mineral en cancha,1026.0
+PAR-00443,EQ-03,2025-06-06,06:00,3.0,Correctiva,Rotura de faja/correa,5173.0
+PAR-00444,EQ-03,2025-06-07,14:00,1.2,Correctiva,Rotura de faja/correa,1334.0
+PAR-00445,EQ-03,2025-06-13,18:00,1.3,Operativa,Corte de energía externo,525.0
+PAR-00446,EQ-03,2025-06-17,03:00,5.4,Preventiva,Mantenimiento programado (plan anual),7188.0
+PAR-00447,EQ-03,2025-06-18,04:00,1.7,Correctiva,Falla eléctrica - motor/tablero,1855.0
+PAR-00448,EQ-03,2025-06-30,05:00,0.6,Operativa,Corte de energía externo,206.0
+PAR-00449,EQ-03,2025-07-04,10:00,0.6,Operativa,Falta de mineral en cancha,309.0
+PAR-00450,EQ-03,2025-07-07,06:00,2.5,Operativa,Falta de mineral en cancha,1007.0
+PAR-00451,EQ-03,2025-07-09,10:00,4.6,Preventiva,Mantenimiento programado (plan anual),5445.0
+PAR-00452,EQ-03,2025-07-09,17:00,1.3,Correctiva,Falla mecánica - desgaste de componente,1055.0
+PAR-00453,EQ-03,2025-07-16,17:00,4.2,Correctiva,Falla mecánica - desgaste de componente,6683.0
+PAR-00454,EQ-03,2025-07-26,08:00,1.2,Correctiva,Falla mecánica - desgaste de componente,1884.0
+PAR-00455,EQ-03,2025-07-30,12:00,7.9,Preventiva,Mantenimiento programado (plan anual),14480.0
+PAR-00456,EQ-03,2025-08-08,06:00,3.0,Correctiva,Falla de lubricación,6418.0
+PAR-00457,EQ-03,2025-08-13,13:00,1.3,Operativa,Falta de mineral en cancha,515.0
+PAR-00458,EQ-03,2025-08-15,05:00,1.7,Operativa,Falta de mineral en cancha,868.0
+PAR-00459,EQ-03,2025-08-16,04:00,2.5,Operativa,Condiciones climáticas adversas,894.0
+PAR-00460,EQ-03,2025-08-20,13:00,8.7,Preventiva,Mantenimiento programado (plan anual),9818.0
+PAR-00461,EQ-03,2025-08-21,03:00,4.8,Correctiva,Rotura de faja/correa,8862.0
+PAR-00462,EQ-03,2025-08-24,08:00,10.7,Correctiva,Atoro de mineral / obstrucción,22918.0
+PAR-00463,EQ-03,2025-08-27,04:00,2.3,Operativa,Falta de mineral en cancha,921.0
+PAR-00464,EQ-03,2025-08-30,05:00,2.0,Operativa,Corte de energía externo,846.0
+PAR-00465,EQ-03,2025-08-31,15:00,3.6,Correctiva,Atoro de mineral / obstrucción,7244.0
+PAR-00466,EQ-03,2025-09-05,02:00,5.4,Preventiva,Mantenimiento programado (plan anual),5685.0
+PAR-00467,EQ-03,2025-09-07,07:00,8.4,Correctiva,Falla eléctrica - motor/tablero,6824.0
+PAR-00468,EQ-03,2025-09-23,04:00,1.9,Correctiva,Falla mecánica - desgaste de componente,3741.0
+PAR-00469,EQ-03,2025-09-27,05:00,7.3,Preventiva,Mantenimiento programado (plan anual),12873.0
+PAR-00470,EQ-03,2025-09-29,00:00,0.7,Operativa,Corte de energía externo,259.0
+PAR-00471,EQ-03,2025-09-30,16:00,3.5,Correctiva,Rotura de faja/correa,5062.0
+PAR-00472,EQ-03,2025-10-01,12:00,10.3,Correctiva,Rotura de faja/correa,11146.0
+PAR-00473,EQ-03,2025-10-07,00:00,1.2,Correctiva,Falla de lubricación,1665.0
+PAR-00474,EQ-03,2025-10-08,00:00,1.9,Correctiva,Falla mecánica - desgaste de componente,2126.0
+PAR-00475,EQ-03,2025-10-20,14:00,4.2,Preventiva,Mantenimiento programado (plan anual),7791.0
+PAR-00476,EQ-03,2025-10-23,16:00,0.5,Correctiva,Atoro de mineral / obstrucción,514.0
+PAR-00477,EQ-03,2025-10-24,05:00,2.6,Operativa,Corte de energía externo,1295.0
+PAR-00478,EQ-03,2025-11-03,14:00,7.4,Preventiva,Mantenimiento programado (plan anual),6220.0
+PAR-00479,EQ-03,2025-11-04,00:00,0.5,Correctiva,Falla eléctrica - motor/tablero,893.0
+PAR-00480,EQ-03,2025-11-12,05:00,1.3,Operativa,Espera de insumos (reactivos/bolas de molienda),508.0
+PAR-00481,EQ-03,2025-11-19,14:00,5.8,Preventiva,Mantenimiento programado (plan anual),11492.0
+PAR-00482,EQ-03,2025-11-26,00:00,2.0,Operativa,Corte de energía externo,925.0
+PAR-00483,EQ-03,2025-11-28,06:00,4.3,Correctiva,Atoro de mineral / obstrucción,7234.0
+PAR-00484,EQ-03,2025-12-01,15:00,3.1,Correctiva,Falla eléctrica - motor/tablero,3692.0
+PAR-00485,EQ-03,2025-12-11,04:00,10.4,Correctiva,Atoro de mineral / obstrucción,20890.0
+PAR-00486,EQ-03,2025-12-12,04:00,7.3,Preventiva,Mantenimiento programado (plan anual),10848.0
+PAR-00487,EQ-03,2025-12-15,08:00,5.1,Correctiva,Atoro de mineral / obstrucción,8140.0
+PAR-00488,EQ-03,2025-12-30,15:00,3.1,Correctiva,Atoro de mineral / obstrucción,4064.0
+PAR-00489,EQ-04,2024-01-04,03:00,17.1,Correctiva,Rotura de faja/correa,16265.0
+PAR-00490,EQ-04,2024-01-07,00:00,20.0,Correctiva,Falla mecánica - desgaste de componente,38607.0
+PAR-00491,EQ-04,2024-01-11,17:00,1.4,Correctiva,Rotura de faja/correa,3006.0
+PAR-00492,EQ-04,2024-01-13,03:00,20.0,Correctiva,Falla de lubricación,23701.0
+PAR-00493,EQ-04,2024-01-16,14:00,1.4,Operativa,Corte de energía externo,658.0
+PAR-00494,EQ-04,2024-01-17,14:00,0.5,Correctiva,Rotura de faja/correa,968.0
+PAR-00495,EQ-04,2024-01-19,10:00,4.3,Preventiva,Mantenimiento programado (plan anual),3883.0
+PAR-00496,EQ-04,2024-01-24,06:00,5.7,Correctiva,Falla de lubricación,6118.0
+PAR-00497,EQ-04,2024-01-28,00:00,1.6,Operativa,Falta de mineral en cancha,784.0
+PAR-00498,EQ-04,2024-02-02,14:00,5.2,Preventiva,Mantenimiento programado (plan anual),9431.0
+PAR-00499,EQ-04,2024-02-02,20:00,0.6,Correctiva,Falla eléctrica - motor/tablero,1205.0
+PAR-00500,EQ-04,2024-02-07,00:00,20.0,Correctiva,Rotura de faja/correa,40381.0
+PAR-00501,EQ-04,2024-02-12,08:00,2.6,Operativa,Condiciones climáticas adversas,580.0
+PAR-00502,EQ-04,2024-02-12,16:00,1.4,Correctiva,Falla de lubricación,2197.0
+PAR-00503,EQ-04,2024-02-13,00:00,12.5,Correctiva,Falla eléctrica - motor/tablero,15373.0
+PAR-00504,EQ-04,2024-02-14,05:00,16.3,Correctiva,Rotura de faja/correa,13079.0
+PAR-00505,EQ-04,2024-02-16,01:00,20.0,Correctiva,Falla mecánica - desgaste de componente,23020.0
+PAR-00506,EQ-04,2024-02-23,18:00,4.7,Preventiva,Mantenimiento programado (plan anual),7734.0
+PAR-00507,EQ-04,2024-02-25,06:00,2.3,Operativa,Espera de insumos (reactivos/bolas de molienda),690.0
+PAR-00508,EQ-04,2024-02-27,07:00,13.5,Correctiva,Falla mecánica - desgaste de componente,13034.0
+PAR-00509,EQ-04,2024-03-03,04:00,0.6,Operativa,Condiciones climáticas adversas,189.0
+PAR-00510,EQ-04,2024-03-04,04:00,1.5,Operativa,Corte de energía externo,714.0
+PAR-00511,EQ-04,2024-03-04,03:00,20.0,Correctiva,Falla mecánica - desgaste de componente,17586.0
+PAR-00512,EQ-04,2024-03-07,19:00,1.5,Operativa,Falta de mineral en cancha,620.0
+PAR-00513,EQ-04,2024-03-10,12:00,5.1,Preventiva,Mantenimiento programado (plan anual),5297.0
+PAR-00514,EQ-04,2024-03-14,15:00,1.1,Operativa,Corte de energía externo,267.0
+PAR-00515,EQ-04,2024-03-16,00:00,17.2,Correctiva,Falla mecánica - desgaste de componente,15157.0
+PAR-00516,EQ-04,2024-03-25,11:00,9.6,Correctiva,Falla de lubricación,20058.0
+PAR-00517,EQ-04,2024-03-30,10:00,5.5,Preventiva,Mantenimiento programado (plan anual),5976.0
+PAR-00518,EQ-04,2024-04-01,10:00,2.5,Operativa,Corte de energía externo,999.0
+PAR-00519,EQ-04,2024-04-03,09:00,10.8,Correctiva,Atoro de mineral / obstrucción,20530.0
+PAR-00520,EQ-04,2024-04-06,09:00,9.4,Correctiva,Falla eléctrica - motor/tablero,13394.0
+PAR-00521,EQ-04,2024-04-08,13:00,1.4,Operativa,Condiciones climáticas adversas,685.0
+PAR-00522,EQ-04,2024-04-11,02:00,2.8,Correctiva,Atoro de mineral / obstrucción,4586.0
+PAR-00523,EQ-04,2024-04-14,07:00,7.7,Correctiva,Falla de lubricación,11344.0
+PAR-00524,EQ-04,2024-04-15,03:00,1.3,Operativa,Corte de energía externo,354.0
+PAR-00525,EQ-04,2024-04-16,13:00,5.6,Preventiva,Mantenimiento programado (plan anual),11812.0
+PAR-00526,EQ-04,2024-04-17,02:00,9.2,Correctiva,Atoro de mineral / obstrucción,10124.0
+PAR-00527,EQ-04,2024-04-19,00:00,20.0,Correctiva,Falla de lubricación,31016.0
+PAR-00528,EQ-04,2024-05-02,04:00,4.7,Correctiva,Falla de lubricación,9085.0
+PAR-00529,EQ-04,2024-05-04,12:00,4.7,Preventiva,Mantenimiento programado (plan anual),10145.0
+PAR-00530,EQ-04,2024-05-05,10:00,10.2,Correctiva,Falla de lubricación,21687.0
+PAR-00531,EQ-04,2024-05-07,20:00,1.6,Operativa,Condiciones climáticas adversas,520.0
+PAR-00532,EQ-04,2024-05-10,02:00,2.9,Operativa,Condiciones climáticas adversas,704.0
+PAR-00533,EQ-04,2024-05-13,18:00,0.5,Operativa,Corte de energía externo,204.0
+PAR-00534,EQ-04,2024-05-14,01:00,0.5,Correctiva,Falla mecánica - desgaste de componente,1028.0
+PAR-00535,EQ-04,2024-05-16,00:00,20.0,Correctiva,Falla mecánica - desgaste de componente,19017.0
+PAR-00536,EQ-04,2024-05-22,02:00,0.6,Operativa,Condiciones climáticas adversas,178.0
+PAR-00537,EQ-04,2024-05-23,17:00,5.1,Preventiva,Mantenimiento programado (plan anual),4083.0
+PAR-00538,EQ-04,2024-05-25,09:00,3.3,Correctiva,Rotura de faja/correa,3590.0
+PAR-00539,EQ-04,2024-05-28,16:00,0.6,Operativa,Falta de mineral en cancha,279.0
+PAR-00540,EQ-04,2024-06-01,16:00,2.2,Correctiva,Falla de lubricación,2867.0
+PAR-00541,EQ-04,2024-06-04,16:00,2.8,Operativa,Falta de mineral en cancha,914.0
+PAR-00542,EQ-04,2024-06-05,14:00,7.8,Correctiva,Falla mecánica - desgaste de componente,15377.0
+PAR-00543,EQ-04,2024-06-07,14:00,5.5,Preventiva,Mantenimiento programado (plan anual),9048.0
+PAR-00544,EQ-04,2024-06-09,10:00,10.9,Correctiva,Falla eléctrica - motor/tablero,11545.0
+PAR-00545,EQ-04,2024-06-13,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,32940.0
+PAR-00546,EQ-04,2024-06-15,01:00,20.0,Correctiva,Falla eléctrica - motor/tablero,38604.0
+PAR-00547,EQ-04,2024-06-17,17:00,3.3,Correctiva,Falla mecánica - desgaste de componente,2675.0
+PAR-00548,EQ-04,2024-06-21,05:00,7.1,Correctiva,Atoro de mineral / obstrucción,11248.0
+PAR-00549,EQ-04,2024-06-26,16:00,6.5,Preventiva,Mantenimiento programado (plan anual),7425.0
+PAR-00550,EQ-04,2024-07-09,01:00,10.4,Correctiva,Atoro de mineral / obstrucción,11055.0
+PAR-00551,EQ-04,2024-07-10,10:00,6.4,Preventiva,Mantenimiento programado (plan anual),9550.0
+PAR-00552,EQ-04,2024-07-10,05:00,17.1,Correctiva,Falla mecánica - desgaste de componente,35534.0
+PAR-00553,EQ-04,2024-07-12,19:00,0.7,Correctiva,Atoro de mineral / obstrucción,1026.0
+PAR-00554,EQ-04,2024-07-13,02:00,20.0,Correctiva,Falla de lubricación,43250.0
+PAR-00555,EQ-04,2024-07-14,01:00,20.0,Correctiva,Falla mecánica - desgaste de componente,22603.0
+PAR-00556,EQ-04,2024-07-15,10:00,1.5,Correctiva,Rotura de faja/correa,3246.0
+PAR-00557,EQ-04,2024-07-21,00:00,8.8,Correctiva,Atoro de mineral / obstrucción,16355.0
+PAR-00558,EQ-04,2024-07-22,03:00,18.9,Correctiva,Rotura de faja/correa,19660.0
+PAR-00559,EQ-04,2024-07-24,01:00,20.0,Correctiva,Falla eléctrica - motor/tablero,30260.0
+PAR-00560,EQ-04,2024-07-28,14:00,4.8,Preventiva,Mantenimiento programado (plan anual),6488.0
+PAR-00561,EQ-04,2024-07-30,02:00,17.0,Correctiva,Falla eléctrica - motor/tablero,21603.0
+PAR-00562,EQ-04,2024-07-31,00:00,19.3,Correctiva,Falla de lubricación,30813.0
+PAR-00563,EQ-04,2024-08-02,01:00,9.6,Correctiva,Atoro de mineral / obstrucción,13988.0
+PAR-00564,EQ-04,2024-08-06,01:00,7.5,Correctiva,Falla mecánica - desgaste de componente,15182.0
+PAR-00565,EQ-04,2024-08-09,12:00,1.1,Correctiva,Rotura de faja/correa,2358.0
+PAR-00566,EQ-04,2024-08-16,07:00,13.3,Correctiva,Falla de lubricación,19911.0
+PAR-00567,EQ-04,2024-08-20,02:00,6.4,Preventiva,Mantenimiento programado (plan anual),7119.0
+PAR-00568,EQ-04,2024-08-21,03:00,3.6,Correctiva,Atoro de mineral / obstrucción,7662.0
+PAR-00569,EQ-04,2024-08-31,02:00,20.0,Correctiva,Atoro de mineral / obstrucción,28179.0
+PAR-00570,EQ-04,2024-09-02,03:00,1.9,Operativa,Falta de mineral en cancha,509.0
+PAR-00571,EQ-04,2024-09-09,15:00,4.1,Preventiva,Mantenimiento programado (plan anual),8076.0
+PAR-00572,EQ-04,2024-09-11,10:00,10.4,Correctiva,Rotura de faja/correa,11018.0
+PAR-00573,EQ-04,2024-09-14,02:00,1.3,Operativa,Falta de mineral en cancha,647.0
+PAR-00574,EQ-04,2024-09-14,07:00,7.1,Correctiva,Rotura de faja/correa,10499.0
+PAR-00575,EQ-04,2024-09-19,06:00,1.1,Correctiva,Falla mecánica - desgaste de componente,1264.0
+PAR-00576,EQ-04,2024-09-28,01:00,6.2,Preventiva,Mantenimiento programado (plan anual),7955.0
+PAR-00577,EQ-04,2024-09-28,02:00,1.3,Operativa,Espera de insumos (reactivos/bolas de molienda),663.0
+PAR-00578,EQ-04,2024-10-01,10:00,2.5,Operativa,Corte de energía externo,1107.0
+PAR-00579,EQ-04,2024-10-11,07:00,13.3,Correctiva,Falla de lubricación,20341.0
+PAR-00580,EQ-04,2024-10-12,04:00,5.5,Preventiva,Mantenimiento programado (plan anual),11808.0
+PAR-00581,EQ-04,2024-10-23,14:00,5.9,Correctiva,Atoro de mineral / obstrucción,5743.0
+PAR-00582,EQ-04,2024-10-26,14:00,8.8,Preventiva,Mantenimiento programado (plan anual),11764.0
+PAR-00583,EQ-04,2024-11-02,12:00,2.6,Correctiva,Rotura de faja/correa,4015.0
+PAR-00584,EQ-04,2024-11-04,21:00,1.3,Correctiva,Rotura de faja/correa,2341.0
+PAR-00585,EQ-04,2024-11-07,20:00,2.7,Operativa,Falta de mineral en cancha,1412.0
+PAR-00586,EQ-04,2024-11-08,17:00,3.7,Correctiva,Falla mecánica - desgaste de componente,4455.0
+PAR-00587,EQ-04,2024-11-12,10:00,2.6,Operativa,Corte de energía externo,794.0
+PAR-00588,EQ-04,2024-11-15,14:00,6.8,Preventiva,Mantenimiento programado (plan anual),8157.0
+PAR-00589,EQ-04,2024-11-23,19:00,3.6,Correctiva,Atoro de mineral / obstrucción,7701.0
+PAR-00590,EQ-04,2024-11-24,02:00,20.0,Correctiva,Falla mecánica - desgaste de componente,24717.0
+PAR-00591,EQ-04,2024-11-25,02:00,20.0,Correctiva,Atoro de mineral / obstrucción,38850.0
+PAR-00592,EQ-04,2024-11-28,07:00,2.8,Correctiva,Falla mecánica - desgaste de componente,3906.0
+PAR-00593,EQ-04,2024-11-30,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,25920.0
+PAR-00594,EQ-04,2024-12-01,02:00,7.4,Correctiva,Rotura de faja/correa,14847.0
+PAR-00595,EQ-04,2024-12-03,02:00,4.1,Preventiva,Mantenimiento programado (plan anual),3907.0
+PAR-00596,EQ-04,2024-12-05,18:00,2.8,Operativa,Falta de mineral en cancha,771.0
+PAR-00597,EQ-04,2024-12-09,10:00,10.7,Correctiva,Falla de lubricación,14932.0
+PAR-00598,EQ-04,2024-12-14,06:00,13.0,Correctiva,Falla mecánica - desgaste de componente,12183.0
+PAR-00599,EQ-04,2024-12-15,03:00,1.1,Correctiva,Rotura de faja/correa,1078.0
+PAR-00600,EQ-04,2024-12-19,01:00,6.8,Correctiva,Falla mecánica - desgaste de componente,11857.0
+PAR-00601,EQ-04,2024-12-20,15:00,2.6,Operativa,Condiciones climáticas adversas,1307.0
+PAR-00602,EQ-04,2024-12-23,02:00,12.9,Correctiva,Falla de lubricación,18673.0
+PAR-00603,EQ-04,2024-12-24,00:00,6.4,Preventiva,Mantenimiento programado (plan anual),7534.0
+PAR-00604,EQ-04,2024-12-28,01:00,3.5,Correctiva,Falla eléctrica - motor/tablero,4797.0
+PAR-00605,EQ-04,2025-01-01,09:00,6.4,Correctiva,Atoro de mineral / obstrucción,12970.0
+PAR-00606,EQ-04,2025-01-06,04:00,3.7,Correctiva,Falla de lubricación,4243.0
+PAR-00607,EQ-04,2025-01-11,10:00,1.1,Operativa,Condiciones climáticas adversas,490.0
+PAR-00608,EQ-04,2025-01-12,02:00,11.4,Correctiva,Falla eléctrica - motor/tablero,10034.0
+PAR-00609,EQ-04,2025-01-14,02:00,6.3,Preventiva,Mantenimiento programado (plan anual),5985.0
+PAR-00610,EQ-04,2025-01-15,20:00,1.2,Correctiva,Atoro de mineral / obstrucción,2326.0
+PAR-00611,EQ-04,2025-01-18,02:00,8.3,Correctiva,Rotura de faja/correa,9565.0
+PAR-00612,EQ-04,2025-01-20,10:00,11.3,Correctiva,Falla de lubricación,11391.0
+PAR-00613,EQ-04,2025-01-27,00:00,16.6,Correctiva,Falla de lubricación,16971.0
+PAR-00614,EQ-04,2025-01-28,06:00,2.3,Operativa,Falta de mineral en cancha,1241.0
+PAR-00615,EQ-04,2025-01-28,08:00,12.8,Correctiva,Falla de lubricación,15997.0
+PAR-00616,EQ-04,2025-01-30,08:00,8.5,Correctiva,Rotura de faja/correa,7851.0
+PAR-00617,EQ-04,2025-01-31,00:00,2.7,Operativa,Condiciones climáticas adversas,1245.0
+PAR-00618,EQ-04,2025-02-04,00:00,4.3,Preventiva,Mantenimiento programado (plan anual),8530.0
+PAR-00619,EQ-04,2025-02-08,10:00,0.9,Operativa,Corte de energía externo,367.0
+PAR-00620,EQ-04,2025-02-08,02:00,16.7,Correctiva,Atoro de mineral / obstrucción,25517.0
+PAR-00621,EQ-04,2025-02-09,00:00,13.9,Correctiva,Rotura de faja/correa,30532.0
+PAR-00622,EQ-04,2025-02-12,00:00,2.7,Operativa,Condiciones climáticas adversas,622.0
+PAR-00623,EQ-04,2025-02-18,04:00,11.9,Correctiva,Atoro de mineral / obstrucción,14125.0
+PAR-00624,EQ-04,2025-02-21,09:00,7.6,Preventiva,Mantenimiento programado (plan anual),8096.0
+PAR-00625,EQ-04,2025-02-24,00:00,13.0,Correctiva,Falla de lubricación,20506.0
+PAR-00626,EQ-04,2025-02-28,05:00,9.5,Correctiva,Atoro de mineral / obstrucción,17094.0
+PAR-00627,EQ-04,2025-03-02,06:00,6.5,Correctiva,Falla mecánica - desgaste de componente,9957.0
+PAR-00628,EQ-04,2025-03-03,01:00,11.1,Correctiva,Falla eléctrica - motor/tablero,14249.0
+PAR-00629,EQ-04,2025-03-08,05:00,17.5,Correctiva,Falla eléctrica - motor/tablero,28916.0
+PAR-00630,EQ-04,2025-03-16,08:00,6.3,Preventiva,Mantenimiento programado (plan anual),7655.0
+PAR-00631,EQ-04,2025-03-16,10:00,3.2,Correctiva,Atoro de mineral / obstrucción,4371.0
+PAR-00632,EQ-04,2025-03-21,11:00,10.0,Correctiva,Rotura de faja/correa,10887.0
+PAR-00633,EQ-04,2025-03-25,10:00,8.8,Correctiva,Rotura de faja/correa,13790.0
+PAR-00634,EQ-04,2025-03-26,15:00,1.6,Operativa,Espera de insumos (reactivos/bolas de molienda),869.0
+PAR-00635,EQ-04,2025-04-04,15:00,7.4,Preventiva,Mantenimiento programado (plan anual),10369.0
+PAR-00636,EQ-04,2025-04-05,12:00,2.5,Correctiva,Rotura de faja/correa,3320.0
+PAR-00637,EQ-04,2025-04-08,12:00,1.8,Operativa,Espera de insumos (reactivos/bolas de molienda),366.0
+PAR-00638,EQ-04,2025-04-11,15:00,1.0,Correctiva,Falla mecánica - desgaste de componente,1033.0
+PAR-00639,EQ-04,2025-04-17,09:00,1.1,Correctiva,Falla de lubricación,1888.0
+PAR-00640,EQ-04,2025-04-21,09:00,8.6,Preventiva,Mantenimiento programado (plan anual),12333.0
+PAR-00641,EQ-04,2025-04-21,16:00,2.8,Operativa,Condiciones climáticas adversas,757.0
+PAR-00642,EQ-04,2025-04-22,05:00,0.8,Operativa,Corte de energía externo,237.0
+PAR-00643,EQ-04,2025-04-25,16:00,2.3,Correctiva,Falla de lubricación,4366.0
+PAR-00644,EQ-04,2025-04-26,00:00,9.8,Correctiva,Rotura de faja/correa,8374.0
+PAR-00645,EQ-04,2025-05-03,02:00,13.1,Correctiva,Falla eléctrica - motor/tablero,25387.0
+PAR-00646,EQ-04,2025-05-05,12:00,8.9,Preventiva,Mantenimiento programado (plan anual),12622.0
+PAR-00647,EQ-04,2025-05-07,02:00,20.0,Correctiva,Rotura de faja/correa,19919.0
+PAR-00648,EQ-04,2025-05-12,01:00,3.1,Correctiva,Falla eléctrica - motor/tablero,3036.0
+PAR-00649,EQ-04,2025-05-26,06:00,6.6,Preventiva,Mantenimiento programado (plan anual),7639.0
+PAR-00650,EQ-04,2025-05-29,19:00,3.0,Operativa,Falta de mineral en cancha,932.0
+PAR-00651,EQ-04,2025-06-15,11:00,7.2,Preventiva,Mantenimiento programado (plan anual),11371.0
+PAR-00652,EQ-04,2025-06-24,02:00,20.0,Correctiva,Falla mecánica - desgaste de componente,24538.0
+PAR-00653,EQ-04,2025-06-29,03:00,12.4,Correctiva,Falla de lubricación,18878.0
+PAR-00654,EQ-04,2025-07-02,12:00,8.6,Correctiva,Falla de lubricación,11803.0
+PAR-00655,EQ-04,2025-07-03,00:00,2.7,Operativa,Falta de mineral en cancha,670.0
+PAR-00656,EQ-04,2025-07-03,02:00,20.0,Correctiva,Falla de lubricación,43459.0
+PAR-00657,EQ-04,2025-07-05,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,25312.0
+PAR-00658,EQ-04,2025-07-08,00:00,6.0,Preventiva,Mantenimiento programado (plan anual),10294.0
+PAR-00659,EQ-04,2025-07-09,02:00,9.3,Correctiva,Rotura de faja/correa,18543.0
+PAR-00660,EQ-04,2025-07-12,06:00,2.2,Operativa,Espera de insumos (reactivos/bolas de molienda),1048.0
+PAR-00661,EQ-04,2025-07-12,19:00,3.7,Correctiva,Falla de lubricación,6697.0
+PAR-00662,EQ-04,2025-07-14,02:00,20.0,Correctiva,Atoro de mineral / obstrucción,18089.0
+PAR-00663,EQ-04,2025-07-19,02:00,0.5,Correctiva,Falla de lubricación,1033.0
+PAR-00664,EQ-04,2025-07-23,02:00,4.2,Preventiva,Mantenimiento programado (plan anual),4172.0
+PAR-00665,EQ-04,2025-07-25,20:00,2.9,Operativa,Condiciones climáticas adversas,814.0
+PAR-00666,EQ-04,2025-07-26,03:00,20.0,Correctiva,Falla mecánica - desgaste de componente,22192.0
+PAR-00667,EQ-04,2025-07-30,15:00,4.1,Correctiva,Falla mecánica - desgaste de componente,6141.0
+PAR-00668,EQ-04,2025-08-03,11:00,5.0,Correctiva,Falla mecánica - desgaste de componente,5883.0
+PAR-00669,EQ-04,2025-08-04,00:00,14.7,Correctiva,Falla mecánica - desgaste de componente,20985.0
+PAR-00670,EQ-04,2025-08-06,17:00,4.8,Preventiva,Mantenimiento programado (plan anual),6943.0
+PAR-00671,EQ-04,2025-08-07,16:00,5.8,Correctiva,Falla de lubricación,9688.0
+PAR-00672,EQ-04,2025-08-10,04:00,1.0,Operativa,Falta de mineral en cancha,512.0
+PAR-00673,EQ-04,2025-08-19,02:00,20.0,Correctiva,Falla de lubricación,32568.0
+PAR-00674,EQ-04,2025-08-23,05:00,0.5,Correctiva,Falla de lubricación,1098.0
+PAR-00675,EQ-04,2025-08-24,04:00,17.8,Correctiva,Falla de lubricación,27810.0
+PAR-00676,EQ-04,2025-08-26,12:00,4.8,Preventiva,Mantenimiento programado (plan anual),5713.0
+PAR-00677,EQ-04,2025-09-02,15:00,2.0,Operativa,Corte de energía externo,1173.0
+PAR-00678,EQ-04,2025-09-05,07:00,6.3,Correctiva,Atoro de mineral / obstrucción,7311.0
+PAR-00679,EQ-04,2025-09-11,05:00,1.0,Operativa,Corte de energía externo,499.0
+PAR-00680,EQ-04,2025-09-12,05:00,6.6,Preventiva,Mantenimiento programado (plan anual),10375.0
+PAR-00681,EQ-04,2025-09-18,00:00,16.7,Correctiva,Falla mecánica - desgaste de componente,33184.0
+PAR-00682,EQ-04,2025-09-19,09:00,8.6,Correctiva,Falla de lubricación,7873.0
+PAR-00683,EQ-04,2025-09-23,11:00,10.7,Correctiva,Atoro de mineral / obstrucción,14580.0
+PAR-00684,EQ-04,2025-09-25,02:00,20.0,Correctiva,Rotura de faja/correa,30120.0
+PAR-00685,EQ-04,2025-09-27,02:00,7.7,Preventiva,Mantenimiento programado (plan anual),7853.0
+PAR-00686,EQ-04,2025-09-27,08:00,12.3,Correctiva,Falla de lubricación,25426.0
+PAR-00687,EQ-04,2025-09-29,02:00,20.0,Correctiva,Falla mecánica - desgaste de componente,36221.0
+PAR-00688,EQ-04,2025-10-04,11:00,2.5,Operativa,Condiciones climáticas adversas,1016.0
+PAR-00689,EQ-04,2025-10-07,02:00,6.9,Correctiva,Falla eléctrica - motor/tablero,8106.0
+PAR-00690,EQ-04,2025-10-09,08:00,12.0,Correctiva,Falla mecánica - desgaste de componente,21311.0
+PAR-00691,EQ-04,2025-10-11,02:00,0.7,Correctiva,Rotura de faja/correa,1520.0
+PAR-00692,EQ-04,2025-10-17,13:00,3.3,Correctiva,Falla eléctrica - motor/tablero,3731.0
+PAR-00693,EQ-04,2025-10-18,03:00,7.3,Preventiva,Mantenimiento programado (plan anual),8481.0
+PAR-00694,EQ-04,2025-10-20,02:00,2.9,Operativa,Falta de mineral en cancha,1333.0
+PAR-00695,EQ-04,2025-10-26,01:00,20.0,Correctiva,Falla de lubricación,19662.0
+PAR-00696,EQ-04,2025-10-30,02:00,0.5,Correctiva,Falla mecánica - desgaste de componente,589.0
+PAR-00697,EQ-04,2025-10-31,00:00,1.3,Operativa,Corte de energía externo,312.0
+PAR-00698,EQ-04,2025-11-01,03:00,16.8,Correctiva,Rotura de faja/correa,31778.0
+PAR-00699,EQ-04,2025-11-05,01:00,7.3,Preventiva,Mantenimiento programado (plan anual),15327.0
+PAR-00700,EQ-04,2025-11-11,13:00,5.6,Correctiva,Falla eléctrica - motor/tablero,4868.0
+PAR-00701,EQ-04,2025-11-12,09:00,4.4,Correctiva,Atoro de mineral / obstrucción,4626.0
+PAR-00702,EQ-04,2025-11-13,15:00,2.0,Operativa,Condiciones climáticas adversas,597.0
+PAR-00703,EQ-04,2025-11-17,05:00,17.5,Correctiva,Atoro de mineral / obstrucción,18212.0
+PAR-00704,EQ-04,2025-11-19,10:00,7.1,Correctiva,Rotura de faja/correa,8848.0
+PAR-00705,EQ-04,2025-11-20,19:00,1.1,Correctiva,Falla de lubricación,1308.0
+PAR-00706,EQ-04,2025-11-24,14:00,8.4,Preventiva,Mantenimiento programado (plan anual),17623.0
+PAR-00707,EQ-04,2025-11-24,13:00,9.5,Correctiva,Atoro de mineral / obstrucción,18749.0
+PAR-00708,EQ-04,2025-11-25,03:00,5.3,Correctiva,Falla mecánica - desgaste de componente,4689.0
+PAR-00709,EQ-04,2025-12-02,02:00,4.8,Correctiva,Falla eléctrica - motor/tablero,5860.0
+PAR-00710,EQ-04,2025-12-04,07:00,7.8,Correctiva,Falla de lubricación,6852.0
+PAR-00711,EQ-04,2025-12-06,01:00,20.0,Correctiva,Falla de lubricación,18188.0
+PAR-00712,EQ-04,2025-12-09,03:00,3.7,Correctiva,Falla mecánica - desgaste de componente,4797.0
+PAR-00713,EQ-04,2025-12-10,12:00,7.5,Preventiva,Mantenimiento programado (plan anual),12144.0
+PAR-00714,EQ-04,2025-12-19,19:00,2.2,Operativa,Espera de insumos (reactivos/bolas de molienda),1311.0
+PAR-00715,EQ-04,2025-12-28,17:00,0.5,Correctiva,Falla mecánica - desgaste de componente,863.0
+PAR-00716,EQ-04,2025-12-29,10:00,2.7,Operativa,Falta de mineral en cancha,1613.0
+PAR-00717,EQ-04,2025-12-31,05:00,16.1,Correctiva,Falla mecánica - desgaste de componente,31544.0
+PAR-00718,EQ-05,2024-01-05,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,17807.0
+PAR-00719,EQ-05,2024-01-07,16:00,6.8,Correctiva,Falla de lubricación,11344.0
+PAR-00720,EQ-05,2024-01-10,18:00,0.5,Correctiva,Rotura de faja/correa,528.0
+PAR-00721,EQ-05,2024-01-13,03:00,16.4,Correctiva,Rotura de faja/correa,33483.0
+PAR-00722,EQ-05,2024-01-18,16:00,6.4,Correctiva,Falla mecánica - desgaste de componente,9272.0
+PAR-00723,EQ-05,2024-01-19,10:00,7.0,Preventiva,Mantenimiento programado (plan anual),12981.0
+PAR-00724,EQ-05,2024-01-21,00:00,1.5,Operativa,Espera de insumos (reactivos/bolas de molienda),552.0
+PAR-00725,EQ-05,2024-01-21,09:00,13.4,Correctiva,Falla mecánica - desgaste de componente,27453.0
+PAR-00726,EQ-05,2024-01-24,06:00,5.1,Correctiva,Falla de lubricación,5609.0
+PAR-00727,EQ-05,2024-01-26,13:00,8.4,Correctiva,Falla eléctrica - motor/tablero,8018.0
+PAR-00728,EQ-05,2024-01-29,10:00,4.2,Correctiva,Falla eléctrica - motor/tablero,5751.0
+PAR-00729,EQ-05,2024-02-03,11:00,6.1,Preventiva,Mantenimiento programado (plan anual),6772.0
+PAR-00730,EQ-05,2024-02-05,13:00,3.0,Operativa,Espera de insumos (reactivos/bolas de molienda),1685.0
+PAR-00731,EQ-05,2024-02-06,04:00,5.8,Correctiva,Atoro de mineral / obstrucción,6725.0
+PAR-00732,EQ-05,2024-02-07,00:00,20.0,Correctiva,Falla eléctrica - motor/tablero,21761.0
+PAR-00733,EQ-05,2024-02-09,16:00,2.4,Operativa,Falta de mineral en cancha,799.0
+PAR-00734,EQ-05,2024-02-11,02:00,2.4,Operativa,Corte de energía externo,1352.0
+PAR-00735,EQ-05,2024-02-12,09:00,0.6,Correctiva,Rotura de faja/correa,748.0
+PAR-00736,EQ-05,2024-02-13,02:00,7.1,Correctiva,Falla eléctrica - motor/tablero,6267.0
+PAR-00737,EQ-05,2024-02-14,05:00,15.2,Correctiva,Falla de lubricación,27832.0
+PAR-00738,EQ-05,2024-02-17,00:00,5.2,Correctiva,Rotura de faja/correa,8779.0
+PAR-00739,EQ-05,2024-02-19,06:00,5.7,Correctiva,Rotura de faja/correa,6328.0
+PAR-00740,EQ-05,2024-02-24,08:00,5.1,Preventiva,Mantenimiento programado (plan anual),7570.0
+PAR-00741,EQ-05,2024-03-04,04:00,9.3,Correctiva,Atoro de mineral / obstrucción,8977.0
+PAR-00742,EQ-05,2024-03-07,06:00,2.6,Correctiva,Falla mecánica - desgaste de componente,4151.0
+PAR-00743,EQ-05,2024-03-11,05:00,4.1,Correctiva,Atoro de mineral / obstrucción,5885.0
+PAR-00744,EQ-05,2024-03-12,12:00,2.3,Correctiva,Atoro de mineral / obstrucción,2958.0
+PAR-00745,EQ-05,2024-03-15,16:00,5.3,Preventiva,Mantenimiento programado (plan anual),6521.0
+PAR-00746,EQ-05,2024-03-19,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,33077.0
+PAR-00747,EQ-05,2024-03-22,00:00,1.9,Correctiva,Rotura de faja/correa,3509.0
+PAR-00748,EQ-05,2024-03-23,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,43558.0
+PAR-00749,EQ-05,2024-03-25,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,36024.0
+PAR-00750,EQ-05,2024-03-26,03:00,11.8,Correctiva,Falla mecánica - desgaste de componente,23830.0
+PAR-00751,EQ-05,2024-03-27,16:00,6.7,Correctiva,Falla mecánica - desgaste de componente,7992.0
+PAR-00752,EQ-05,2024-04-03,12:00,5.1,Preventiva,Mantenimiento programado (plan anual),6903.0
+PAR-00753,EQ-05,2024-04-14,07:00,9.4,Correctiva,Falla de lubricación,11018.0
+PAR-00754,EQ-05,2024-04-19,04:00,8.6,Preventiva,Mantenimiento programado (plan anual),9388.0
+PAR-00755,EQ-05,2024-04-20,00:00,20.0,Correctiva,Rotura de faja/correa,16782.0
+PAR-00756,EQ-05,2024-05-06,06:00,7.8,Preventiva,Mantenimiento programado (plan anual),16565.0
+PAR-00757,EQ-05,2024-05-09,12:00,7.4,Correctiva,Rotura de faja/correa,8898.0
+PAR-00758,EQ-05,2024-05-10,07:00,5.2,Correctiva,Falla de lubricación,8933.0
+PAR-00759,EQ-05,2024-05-16,11:00,2.6,Operativa,Condiciones climáticas adversas,978.0
+PAR-00760,EQ-05,2024-05-16,03:00,17.2,Correctiva,Atoro de mineral / obstrucción,20078.0
+PAR-00761,EQ-05,2024-05-17,02:00,1.5,Operativa,Falta de mineral en cancha,763.0
+PAR-00762,EQ-05,2024-05-19,08:00,0.6,Operativa,Corte de energía externo,142.0
+PAR-00763,EQ-05,2024-05-20,09:00,10.2,Correctiva,Falla de lubricación,20131.0
+PAR-00764,EQ-05,2024-05-23,14:00,7.3,Preventiva,Mantenimiento programado (plan anual),10207.0
+PAR-00765,EQ-05,2024-05-29,14:00,8.5,Correctiva,Atoro de mineral / obstrucción,12846.0
+PAR-00766,EQ-05,2024-05-30,03:00,20.0,Correctiva,Rotura de faja/correa,26049.0
+PAR-00767,EQ-05,2024-06-03,04:00,10.6,Correctiva,Falla de lubricación,10762.0
+PAR-00768,EQ-05,2024-06-06,03:00,20.0,Correctiva,Falla de lubricación,42223.0
+PAR-00769,EQ-05,2024-06-14,08:00,6.9,Preventiva,Mantenimiento programado (plan anual),8679.0
+PAR-00770,EQ-05,2024-06-16,18:00,2.5,Operativa,Espera de insumos (reactivos/bolas de molienda),946.0
+PAR-00771,EQ-05,2024-06-28,05:00,16.4,Correctiva,Falla de lubricación,18205.0
+PAR-00772,EQ-05,2024-07-01,04:00,5.5,Correctiva,Falla mecánica - desgaste de componente,10812.0
+PAR-00773,EQ-05,2024-07-02,11:00,7.2,Preventiva,Mantenimiento programado (plan anual),13786.0
+PAR-00774,EQ-05,2024-07-03,18:00,4.2,Correctiva,Falla eléctrica - motor/tablero,6427.0
+PAR-00775,EQ-05,2024-07-08,02:00,20.0,Correctiva,Atoro de mineral / obstrucción,28045.0
+PAR-00776,EQ-05,2024-07-10,20:00,1.8,Operativa,Corte de energía externo,470.0
+PAR-00777,EQ-05,2024-07-24,02:00,20.0,Correctiva,Falla mecánica - desgaste de componente,26767.0
+PAR-00778,EQ-05,2024-07-25,08:00,6.5,Preventiva,Mantenimiento programado (plan anual),5412.0
+PAR-00779,EQ-05,2024-07-29,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,32723.0
+PAR-00780,EQ-05,2024-08-03,12:00,4.2,Correctiva,Falla eléctrica - motor/tablero,7708.0
+PAR-00781,EQ-05,2024-08-04,04:00,16.2,Correctiva,Rotura de faja/correa,25288.0
+PAR-00782,EQ-05,2024-08-06,00:00,20.0,Correctiva,Falla de lubricación,39463.0
+PAR-00783,EQ-05,2024-08-14,11:00,1.1,Operativa,Corte de energía externo,361.0
+PAR-00784,EQ-05,2024-08-14,03:00,16.3,Correctiva,Atoro de mineral / obstrucción,28148.0
+PAR-00785,EQ-05,2024-08-15,03:00,19.6,Correctiva,Falla mecánica - desgaste de componente,24618.0
+PAR-00786,EQ-05,2024-08-17,06:00,5.0,Preventiva,Mantenimiento programado (plan anual),4068.0
+PAR-00787,EQ-05,2024-08-20,00:00,14.8,Correctiva,Falla mecánica - desgaste de componente,31525.0
+PAR-00788,EQ-05,2024-08-22,05:00,1.2,Correctiva,Rotura de faja/correa,2020.0
+PAR-00789,EQ-05,2024-08-30,08:00,12.9,Correctiva,Falla de lubricación,21627.0
+PAR-00790,EQ-05,2024-08-31,02:00,20.0,Correctiva,Falla de lubricación,38657.0
+PAR-00791,EQ-05,2024-09-03,01:00,8.3,Preventiva,Mantenimiento programado (plan anual),8717.0
+PAR-00792,EQ-05,2024-09-06,12:00,1.8,Correctiva,Falla mecánica - desgaste de componente,2414.0
+PAR-00793,EQ-05,2024-09-08,01:00,2.4,Operativa,Corte de energía externo,1405.0
+PAR-00794,EQ-05,2024-09-08,00:00,20.0,Correctiva,Falla de lubricación,28731.0
+PAR-00795,EQ-05,2024-09-16,20:00,2.1,Operativa,Falta de mineral en cancha,464.0
+PAR-00796,EQ-05,2024-09-21,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,26603.0
+PAR-00797,EQ-05,2024-09-23,00:00,20.0,Correctiva,Falla eléctrica - motor/tablero,31859.0
+PAR-00798,EQ-05,2024-09-26,02:00,8.4,Preventiva,Mantenimiento programado (plan anual),15044.0
+PAR-00799,EQ-05,2024-09-26,17:00,2.4,Operativa,Espera de insumos (reactivos/bolas de molienda),1070.0
+PAR-00800,EQ-05,2024-10-01,18:00,4.5,Correctiva,Falla mecánica - desgaste de componente,5190.0
+PAR-00801,EQ-05,2024-10-04,10:00,1.5,Operativa,Condiciones climáticas adversas,329.0
+PAR-00802,EQ-05,2024-10-05,00:00,20.0,Correctiva,Falla de lubricación,34953.0
+PAR-00803,EQ-05,2024-10-12,01:00,13.1,Correctiva,Falla de lubricación,22094.0
+PAR-00804,EQ-05,2024-10-13,06:00,0.7,Operativa,Condiciones climáticas adversas,194.0
+PAR-00805,EQ-05,2024-10-19,13:00,8.8,Preventiva,Mantenimiento programado (plan anual),17882.0
+PAR-00806,EQ-05,2024-10-20,17:00,0.7,Operativa,Condiciones climáticas adversas,258.0
+PAR-00807,EQ-05,2024-10-22,06:00,2.6,Operativa,Falta de mineral en cancha,1334.0
+PAR-00808,EQ-05,2024-10-22,08:00,2.5,Correctiva,Atoro de mineral / obstrucción,3847.0
+PAR-00809,EQ-05,2024-10-27,02:00,16.0,Correctiva,Falla mecánica - desgaste de componente,19208.0
+PAR-00810,EQ-05,2024-11-01,07:00,5.6,Correctiva,Rotura de faja/correa,12133.0
+PAR-00811,EQ-05,2024-11-05,09:00,8.9,Preventiva,Mantenimiento programado (plan anual),13993.0
+PAR-00812,EQ-05,2024-11-06,11:00,2.6,Operativa,Corte de energía externo,1287.0
+PAR-00813,EQ-05,2024-11-08,00:00,20.0,Correctiva,Atoro de mineral / obstrucción,24003.0
+PAR-00814,EQ-05,2024-11-12,02:00,5.5,Correctiva,Falla de lubricación,8117.0
+PAR-00815,EQ-05,2024-11-14,09:00,3.4,Correctiva,Falla de lubricación,3328.0
+PAR-00816,EQ-05,2024-11-22,06:00,4.1,Preventiva,Mantenimiento programado (plan anual),4309.0
+PAR-00817,EQ-05,2024-11-22,04:00,0.5,Correctiva,Falla de lubricación,432.0
+PAR-00818,EQ-05,2024-11-24,03:00,15.0,Correctiva,Atoro de mineral / obstrucción,31937.0
+PAR-00819,EQ-05,2024-11-25,03:00,20.0,Correctiva,Atoro de mineral / obstrucción,25761.0
+PAR-00820,EQ-05,2024-12-03,09:00,11.4,Correctiva,Atoro de mineral / obstrucción,13546.0
+PAR-00821,EQ-05,2024-12-04,18:00,1.8,Correctiva,Rotura de faja/correa,2895.0
+PAR-00822,EQ-05,2024-12-06,01:00,20.0,Correctiva,Falla mecánica - desgaste de componente,34193.0
+PAR-00823,EQ-05,2024-12-11,05:00,12.3,Correctiva,Falla mecánica - desgaste de componente,26071.0
+PAR-00824,EQ-05,2024-12-12,15:00,4.7,Correctiva,Falla eléctrica - motor/tablero,4407.0
+PAR-00825,EQ-05,2024-12-14,14:00,8.5,Preventiva,Mantenimiento programado (plan anual),7387.0
+PAR-00826,EQ-05,2024-12-22,04:00,4.3,Correctiva,Rotura de faja/correa,6766.0
+PAR-00827,EQ-05,2024-12-24,11:00,4.9,Correctiva,Falla de lubricación,4651.0
+PAR-00828,EQ-05,2025-01-01,10:00,5.7,Correctiva,Atoro de mineral / obstrucción,6336.0
+PAR-00829,EQ-05,2025-01-05,03:00,6.3,Preventiva,Mantenimiento programado (plan anual),5277.0
+PAR-00830,EQ-05,2025-01-05,01:00,0.8,Correctiva,Falla mecánica - desgaste de componente,1274.0
+PAR-00831,EQ-05,2025-01-12,20:00,2.9,Operativa,Condiciones climáticas adversas,989.0
+PAR-00832,EQ-05,2025-01-17,13:00,4.6,Correctiva,Atoro de mineral / obstrucción,5896.0
+PAR-00833,EQ-05,2025-01-21,16:00,5.5,Preventiva,Mantenimiento programado (plan anual),11743.0
+PAR-00834,EQ-05,2025-01-23,05:00,15.3,Correctiva,Rotura de faja/correa,30556.0
+PAR-00835,EQ-05,2025-01-26,02:00,7.9,Correctiva,Atoro de mineral / obstrucción,15933.0
+PAR-00836,EQ-05,2025-01-27,00:00,20.0,Correctiva,Falla eléctrica - motor/tablero,18621.0
+PAR-00837,EQ-05,2025-01-28,11:00,7.9,Correctiva,Atoro de mineral / obstrucción,15193.0
+PAR-00838,EQ-05,2025-02-07,10:00,4.8,Correctiva,Falla de lubricación,10273.0
+PAR-00839,EQ-05,2025-02-12,15:00,5.8,Preventiva,Mantenimiento programado (plan anual),5171.0
+PAR-00840,EQ-05,2025-02-19,00:00,20.0,Correctiva,Rotura de faja/correa,42921.0
+PAR-00841,EQ-05,2025-02-20,00:00,20.0,Correctiva,Falla de lubricación,25905.0
+PAR-00842,EQ-05,2025-02-22,07:00,1.7,Correctiva,Falla mecánica - desgaste de componente,2314.0
+PAR-00843,EQ-05,2025-02-23,02:00,2.7,Operativa,Corte de energía externo,782.0
+PAR-00844,EQ-05,2025-02-25,02:00,20.0,Correctiva,Rotura de faja/correa,20935.0
+PAR-00845,EQ-05,2025-02-28,05:00,5.2,Correctiva,Falla eléctrica - motor/tablero,10418.0
+PAR-00846,EQ-05,2025-03-02,02:00,20.0,Correctiva,Atoro de mineral / obstrucción,21162.0
+PAR-00847,EQ-05,2025-03-04,11:00,7.7,Preventiva,Mantenimiento programado (plan anual),8964.0
+PAR-00848,EQ-05,2025-03-10,01:00,20.0,Correctiva,Falla mecánica - desgaste de componente,21214.0
+PAR-00849,EQ-05,2025-03-13,01:00,0.5,Correctiva,Falla mecánica - desgaste de componente,875.0
+PAR-00850,EQ-05,2025-03-15,10:00,1.5,Correctiva,Falla de lubricación,1527.0
+PAR-00851,EQ-05,2025-03-24,05:00,6.7,Preventiva,Mantenimiento programado (plan anual),12161.0
+PAR-00852,EQ-05,2025-04-11,01:00,5.7,Preventiva,Mantenimiento programado (plan anual),11732.0
+PAR-00853,EQ-05,2025-04-23,04:00,2.2,Operativa,Falta de mineral en cancha,888.0
+PAR-00854,EQ-05,2025-04-25,20:00,2.5,Operativa,Falta de mineral en cancha,1303.0
+PAR-00855,EQ-05,2025-04-26,08:00,14.9,Correctiva,Falla de lubricación,18448.0
+PAR-00856,EQ-05,2025-04-28,05:00,6.4,Preventiva,Mantenimiento programado (plan anual),13614.0
+PAR-00857,EQ-05,2025-04-28,20:00,0.8,Correctiva,Falla eléctrica - motor/tablero,1395.0
+PAR-00858,EQ-05,2025-04-30,12:00,0.8,Operativa,Espera de insumos (reactivos/bolas de molienda),370.0
+PAR-00859,EQ-05,2025-05-07,06:00,2.7,Operativa,Corte de energía externo,920.0
+PAR-00860,EQ-05,2025-05-07,06:00,14.5,Correctiva,Falla mecánica - desgaste de componente,23647.0
+PAR-00861,EQ-05,2025-05-16,12:00,10.0,Correctiva,Rotura de faja/correa,18857.0
+PAR-00862,EQ-05,2025-05-19,14:00,8.0,Preventiva,Mantenimiento programado (plan anual),14263.0
+PAR-00863,EQ-05,2025-05-24,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,42649.0
+PAR-00864,EQ-05,2025-05-26,00:00,18.2,Correctiva,Atoro de mineral / obstrucción,34970.0
+PAR-00865,EQ-05,2025-05-27,03:00,12.5,Correctiva,Falla mecánica - desgaste de componente,21254.0
+PAR-00866,EQ-05,2025-05-30,02:00,13.9,Correctiva,Falla mecánica - desgaste de componente,14019.0
+PAR-00867,EQ-05,2025-06-01,06:00,3.0,Correctiva,Rotura de faja/correa,5513.0
+PAR-00868,EQ-05,2025-06-03,03:00,18.5,Correctiva,Rotura de faja/correa,33458.0
+PAR-00869,EQ-05,2025-06-04,00:00,1.5,Operativa,Corte de energía externo,771.0
+PAR-00870,EQ-05,2025-06-04,04:00,10.6,Correctiva,Rotura de faja/correa,10993.0
+PAR-00871,EQ-05,2025-06-07,03:00,7.9,Preventiva,Mantenimiento programado (plan anual),8330.0
+PAR-00872,EQ-05,2025-06-08,03:00,12.8,Correctiva,Atoro de mineral / obstrucción,13265.0
+PAR-00873,EQ-05,2025-06-11,03:00,10.4,Correctiva,Falla de lubricación,9571.0
+PAR-00874,EQ-05,2025-06-13,07:00,2.0,Operativa,Corte de energía externo,642.0
+PAR-00875,EQ-05,2025-06-16,13:00,2.9,Operativa,Espera de insumos (reactivos/bolas de molienda),1281.0
+PAR-00876,EQ-05,2025-06-19,05:00,2.6,Operativa,Condiciones climáticas adversas,855.0
+PAR-00877,EQ-05,2025-06-28,09:00,6.5,Preventiva,Mantenimiento programado (plan anual),5778.0
+PAR-00878,EQ-05,2025-07-01,18:00,2.3,Correctiva,Falla eléctrica - motor/tablero,2222.0
+PAR-00879,EQ-05,2025-07-03,03:00,2.0,Operativa,Espera de insumos (reactivos/bolas de molienda),410.0
+PAR-00880,EQ-05,2025-07-08,05:00,2.8,Operativa,Corte de energía externo,1667.0
+PAR-00881,EQ-05,2025-07-10,15:00,0.6,Operativa,Corte de energía externo,142.0
+PAR-00882,EQ-05,2025-07-10,08:00,3.4,Correctiva,Falla de lubricación,5009.0
+PAR-00883,EQ-05,2025-07-12,06:00,6.5,Correctiva,Falla mecánica - desgaste de componente,6206.0
+PAR-00884,EQ-05,2025-07-14,17:00,4.7,Preventiva,Mantenimiento programado (plan anual),7722.0
+PAR-00885,EQ-05,2025-07-23,13:00,5.2,Correctiva,Falla mecánica - desgaste de componente,10705.0
+PAR-00886,EQ-05,2025-07-24,11:00,1.6,Operativa,Condiciones climáticas adversas,713.0
+PAR-00887,EQ-05,2025-07-29,16:00,1.7,Operativa,Condiciones climáticas adversas,985.0
+PAR-00888,EQ-05,2025-07-31,12:00,4.8,Preventiva,Mantenimiento programado (plan anual),5639.0
+PAR-00889,EQ-05,2025-08-11,04:00,1.2,Operativa,Espera de insumos (reactivos/bolas de molienda),325.0
+PAR-00890,EQ-05,2025-08-22,16:00,5.3,Preventiva,Mantenimiento programado (plan anual),7654.0
+PAR-00891,EQ-05,2025-08-25,14:00,5.9,Correctiva,Falla de lubricación,6743.0
+PAR-00892,EQ-05,2025-08-26,07:00,12.2,Correctiva,Atoro de mineral / obstrucción,21550.0
+PAR-00893,EQ-05,2025-08-29,03:00,20.0,Correctiva,Falla de lubricación,24476.0
+PAR-00894,EQ-05,2025-09-01,00:00,20.0,Correctiva,Falla de lubricación,37632.0
+PAR-00895,EQ-05,2025-09-03,10:00,10.7,Correctiva,Rotura de faja/correa,17479.0
+PAR-00896,EQ-05,2025-09-05,10:00,0.6,Operativa,Corte de energía externo,138.0
+PAR-00897,EQ-05,2025-09-05,14:00,6.8,Correctiva,Falla eléctrica - motor/tablero,6411.0
+PAR-00898,EQ-05,2025-09-07,12:00,4.9,Correctiva,Falla eléctrica - motor/tablero,10607.0
+PAR-00899,EQ-05,2025-09-08,09:00,12.7,Correctiva,Falla mecánica - desgaste de componente,18585.0
+PAR-00900,EQ-05,2025-09-09,13:00,2.2,Correctiva,Falla eléctrica - motor/tablero,3394.0
+PAR-00901,EQ-05,2025-09-10,03:00,6.1,Preventiva,Mantenimiento programado (plan anual),7407.0
+PAR-00902,EQ-05,2025-09-13,13:00,2.7,Operativa,Falta de mineral en cancha,1307.0
+PAR-00903,EQ-05,2025-09-19,02:00,20.0,Correctiva,Rotura de faja/correa,40839.0
+PAR-00904,EQ-05,2025-09-21,20:00,1.3,Correctiva,Falla de lubricación,2481.0
+PAR-00905,EQ-05,2025-09-24,01:00,20.0,Correctiva,Rotura de faja/correa,32681.0
+PAR-00906,EQ-05,2025-10-03,09:00,7.5,Preventiva,Mantenimiento programado (plan anual),11999.0
+PAR-00907,EQ-05,2025-10-04,08:00,7.7,Correctiva,Rotura de faja/correa,15973.0
+PAR-00908,EQ-05,2025-10-10,01:00,19.9,Correctiva,Falla de lubricación,20862.0
+PAR-00909,EQ-05,2025-10-13,01:00,4.5,Correctiva,Atoro de mineral / obstrucción,9764.0
+PAR-00910,EQ-05,2025-10-18,09:00,9.5,Correctiva,Falla mecánica - desgaste de componente,16231.0
+PAR-00911,EQ-05,2025-10-20,05:00,16.7,Correctiva,Rotura de faja/correa,25515.0
+PAR-00912,EQ-05,2025-10-23,02:00,14.3,Correctiva,Falla de lubricación,15458.0
+PAR-00913,EQ-05,2025-10-26,12:00,8.7,Preventiva,Mantenimiento programado (plan anual),17824.0
+PAR-00914,EQ-05,2025-10-27,04:00,1.5,Correctiva,Falla mecánica - desgaste de componente,2932.0
+PAR-00915,EQ-05,2025-10-28,08:00,2.8,Correctiva,Falla eléctrica - motor/tablero,3578.0
+PAR-00916,EQ-05,2025-11-10,15:00,6.7,Preventiva,Mantenimiento programado (plan anual),10594.0
+PAR-00917,EQ-05,2025-11-12,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,29421.0
+PAR-00918,EQ-05,2025-11-26,07:00,13.8,Correctiva,Rotura de faja/correa,24452.0
+PAR-00919,EQ-05,2025-11-27,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,39163.0
+PAR-00920,EQ-05,2025-11-28,04:00,10.3,Correctiva,Atoro de mineral / obstrucción,17178.0
+PAR-00921,EQ-05,2025-12-03,18:00,4.7,Preventiva,Mantenimiento programado (plan anual),5163.0
+PAR-00922,EQ-05,2025-12-06,03:00,9.6,Correctiva,Falla mecánica - desgaste de componente,8506.0
+PAR-00923,EQ-05,2025-12-11,01:00,20.0,Correctiva,Rotura de faja/correa,29911.0
+PAR-00924,EQ-05,2025-12-17,12:00,3.0,Correctiva,Rotura de faja/correa,5357.0
+PAR-00925,EQ-05,2025-12-18,07:00,0.7,Operativa,Espera de insumos (reactivos/bolas de molienda),382.0
+PAR-00926,EQ-05,2025-12-19,06:00,2.5,Operativa,Espera de insumos (reactivos/bolas de molienda),1499.0
+PAR-00927,EQ-05,2025-12-22,06:00,6.6,Preventiva,Mantenimiento programado (plan anual),11794.0
+PAR-00928,EQ-05,2025-12-23,06:00,1.2,Correctiva,Falla eléctrica - motor/tablero,2397.0
+PAR-00929,EQ-05,2025-12-24,04:00,9.6,Correctiva,Falla eléctrica - motor/tablero,18153.0
+PAR-00930,EQ-05,2025-12-27,14:00,0.5,Operativa,Corte de energía externo,212.0
+PAR-00931,EQ-05,2025-12-29,01:00,14.4,Correctiva,Falla mecánica - desgaste de componente,24440.0
+PAR-00932,EQ-06,2024-01-01,02:00,10.8,Correctiva,Rotura de faja/correa,23513.0
+PAR-00933,EQ-06,2024-01-21,11:00,6.0,Preventiva,Mantenimiento programado (plan anual),5673.0
+PAR-00934,EQ-06,2024-01-21,13:00,2.3,Correctiva,Falla mecánica - desgaste de componente,3097.0
+PAR-00935,EQ-06,2024-01-30,20:00,2.8,Operativa,Falta de mineral en cancha,1036.0
+PAR-00936,EQ-06,2024-02-06,14:00,4.1,Preventiva,Mantenimiento programado (plan anual),5753.0
+PAR-00937,EQ-06,2024-02-08,03:00,14.6,Correctiva,Atoro de mineral / obstrucción,30254.0
+PAR-00938,EQ-06,2024-02-10,09:00,13.6,Correctiva,Falla eléctrica - motor/tablero,28096.0
+PAR-00939,EQ-06,2024-02-14,18:00,0.5,Correctiva,Falla eléctrica - motor/tablero,681.0
+PAR-00940,EQ-06,2024-02-19,04:00,11.2,Correctiva,Falla de lubricación,21748.0
+PAR-00941,EQ-06,2024-02-21,00:00,7.2,Correctiva,Rotura de faja/correa,10443.0
+PAR-00942,EQ-06,2024-02-26,14:00,4.4,Preventiva,Mantenimiento programado (plan anual),4791.0
+PAR-00943,EQ-06,2024-03-03,06:00,15.4,Correctiva,Falla de lubricación,12350.0
+PAR-00944,EQ-06,2024-03-11,04:00,18.6,Correctiva,Rotura de faja/correa,19643.0
+PAR-00945,EQ-06,2024-03-13,09:00,4.8,Preventiva,Mantenimiento programado (plan anual),8435.0
+PAR-00946,EQ-06,2024-03-15,16:00,1.8,Operativa,Espera de insumos (reactivos/bolas de molienda),423.0
+PAR-00947,EQ-06,2024-03-19,10:00,2.0,Operativa,Condiciones climáticas adversas,854.0
+PAR-00948,EQ-06,2024-03-22,15:00,2.9,Operativa,Espera de insumos (reactivos/bolas de molienda),1270.0
+PAR-00949,EQ-06,2024-03-26,21:00,0.9,Operativa,Espera de insumos (reactivos/bolas de molienda),420.0
+PAR-00950,EQ-06,2024-03-26,10:00,1.3,Correctiva,Falla de lubricación,1692.0
+PAR-00951,EQ-06,2024-04-03,01:00,9.0,Preventiva,Mantenimiento programado (plan anual),13626.0
+PAR-00952,EQ-06,2024-04-07,04:00,9.4,Correctiva,Rotura de faja/correa,9756.0
+PAR-00953,EQ-06,2024-04-11,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,30432.0
+PAR-00954,EQ-06,2024-04-17,19:00,1.6,Operativa,Corte de energía externo,848.0
+PAR-00955,EQ-06,2024-04-17,04:00,6.6,Correctiva,Rotura de faja/correa,9156.0
+PAR-00956,EQ-06,2024-04-26,12:00,8.7,Preventiva,Mantenimiento programado (plan anual),17601.0
+PAR-00957,EQ-06,2024-04-30,14:00,2.3,Operativa,Espera de insumos (reactivos/bolas de molienda),1134.0
+PAR-00958,EQ-06,2024-05-03,11:00,8.3,Correctiva,Rotura de faja/correa,10291.0
+PAR-00959,EQ-06,2024-05-11,01:00,8.5,Preventiva,Mantenimiento programado (plan anual),16223.0
+PAR-00960,EQ-06,2024-05-20,13:00,1.1,Operativa,Falta de mineral en cancha,581.0
+PAR-00961,EQ-06,2024-05-28,17:00,1.2,Operativa,Falta de mineral en cancha,450.0
+PAR-00962,EQ-06,2024-05-29,01:00,7.3,Preventiva,Mantenimiento programado (plan anual),9288.0
+PAR-00963,EQ-06,2024-06-05,08:00,5.7,Correctiva,Atoro de mineral / obstrucción,12217.0
+PAR-00964,EQ-06,2024-06-09,20:00,2.3,Operativa,Espera de insumos (reactivos/bolas de molienda),963.0
+PAR-00965,EQ-06,2024-06-14,10:00,5.1,Correctiva,Falla eléctrica - motor/tablero,4088.0
+PAR-00966,EQ-06,2024-06-19,00:00,8.7,Preventiva,Mantenimiento programado (plan anual),7515.0
+PAR-00967,EQ-06,2024-06-23,18:00,2.6,Correctiva,Falla de lubricación,2627.0
+PAR-00968,EQ-06,2024-07-02,14:00,1.1,Operativa,Condiciones climáticas adversas,564.0
+PAR-00969,EQ-06,2024-07-03,12:00,1.9,Operativa,Falta de mineral en cancha,398.0
+PAR-00970,EQ-06,2024-07-04,10:00,8.4,Preventiva,Mantenimiento programado (plan anual),8828.0
+PAR-00971,EQ-06,2024-07-04,06:00,0.5,Correctiva,Falla de lubricación,747.0
+PAR-00972,EQ-06,2024-07-05,13:00,1.1,Operativa,Condiciones climáticas adversas,401.0
+PAR-00973,EQ-06,2024-07-13,03:00,6.1,Correctiva,Falla eléctrica - motor/tablero,10165.0
+PAR-00974,EQ-06,2024-07-18,11:00,7.7,Preventiva,Mantenimiento programado (plan anual),11653.0
+PAR-00975,EQ-06,2024-08-05,03:00,6.0,Preventiva,Mantenimiento programado (plan anual),5587.0
+PAR-00976,EQ-06,2024-08-05,18:00,2.7,Operativa,Falta de mineral en cancha,1202.0
+PAR-00977,EQ-06,2024-08-08,11:00,2.7,Correctiva,Falla mecánica - desgaste de componente,3709.0
+PAR-00978,EQ-06,2024-08-18,05:00,1.8,Operativa,Corte de energía externo,840.0
+PAR-00979,EQ-06,2024-08-23,11:00,8.8,Preventiva,Mantenimiento programado (plan anual),18132.0
+PAR-00980,EQ-06,2024-08-26,06:00,4.5,Correctiva,Falla de lubricación,8141.0
+PAR-00981,EQ-06,2024-09-03,10:00,6.9,Correctiva,Atoro de mineral / obstrucción,9645.0
+PAR-00982,EQ-06,2024-09-05,11:00,2.9,Operativa,Espera de insumos (reactivos/bolas de molienda),1417.0
+PAR-00983,EQ-06,2024-09-08,09:00,6.0,Preventiva,Mantenimiento programado (plan anual),12808.0
+PAR-00984,EQ-06,2024-09-11,16:00,0.5,Correctiva,Falla de lubricación,550.0
+PAR-00985,EQ-06,2024-09-12,16:00,2.8,Correctiva,Falla mecánica - desgaste de componente,2720.0
+PAR-00986,EQ-06,2024-09-15,09:00,5.8,Correctiva,Rotura de faja/correa,12323.0
+PAR-00987,EQ-06,2024-09-17,10:00,2.1,Operativa,Falta de mineral en cancha,534.0
+PAR-00988,EQ-06,2024-09-19,16:00,5.1,Correctiva,Falla de lubricación,9801.0
+PAR-00989,EQ-06,2024-09-21,21:00,1.4,Correctiva,Falla mecánica - desgaste de componente,1480.0
+PAR-00990,EQ-06,2024-09-22,03:00,1.2,Operativa,Condiciones climáticas adversas,691.0
+PAR-00991,EQ-06,2024-09-27,07:00,8.4,Preventiva,Mantenimiento programado (plan anual),14026.0
+PAR-00992,EQ-06,2024-10-01,02:00,9.0,Correctiva,Falla mecánica - desgaste de componente,17661.0
+PAR-00993,EQ-06,2024-10-03,14:00,4.2,Correctiva,Falla de lubricación,3896.0
+PAR-00994,EQ-06,2024-10-09,13:00,6.5,Correctiva,Rotura de faja/correa,10695.0
+PAR-00995,EQ-06,2024-10-12,10:00,1.5,Operativa,Falta de mineral en cancha,810.0
+PAR-00996,EQ-06,2024-10-16,06:00,7.8,Preventiva,Mantenimiento programado (plan anual),6302.0
+PAR-00997,EQ-06,2024-10-18,04:00,12.1,Correctiva,Falla mecánica - desgaste de componente,15603.0
+PAR-00998,EQ-06,2024-10-23,07:00,4.4,Correctiva,Atoro de mineral / obstrucción,3586.0
+PAR-00999,EQ-06,2024-10-31,07:00,6.8,Preventiva,Mantenimiento programado (plan anual),14201.0
+PAR-01000,EQ-06,2024-10-31,12:00,2.5,Operativa,Corte de energía externo,1375.0
+PAR-01001,EQ-06,2024-11-01,02:00,20.0,Correctiva,Rotura de faja/correa,25147.0
+PAR-01002,EQ-06,2024-11-10,06:00,0.7,Operativa,Espera de insumos (reactivos/bolas de molienda),373.0
+PAR-01003,EQ-06,2024-11-10,03:00,20.0,Correctiva,Rotura de faja/correa,21582.0
+PAR-01004,EQ-06,2024-11-14,13:00,1.9,Operativa,Condiciones climáticas adversas,452.0
+PAR-01005,EQ-06,2024-11-16,01:00,8.5,Preventiva,Mantenimiento programado (plan anual),9928.0
+PAR-01006,EQ-06,2024-11-18,15:00,2.8,Correctiva,Falla mecánica - desgaste de componente,5108.0
+PAR-01007,EQ-06,2024-11-19,16:00,0.9,Correctiva,Falla de lubricación,1273.0
+PAR-01008,EQ-06,2024-11-22,05:00,9.1,Correctiva,Rotura de faja/correa,11663.0
+PAR-01009,EQ-06,2024-11-26,10:00,0.5,Correctiva,Rotura de faja/correa,1060.0
+PAR-01010,EQ-06,2024-11-27,03:00,1.2,Operativa,Falta de mineral en cancha,572.0
+PAR-01011,EQ-06,2024-12-04,11:00,5.6,Preventiva,Mantenimiento programado (plan anual),10678.0
+PAR-01012,EQ-06,2024-12-11,15:00,4.4,Correctiva,Rotura de faja/correa,9245.0
+PAR-01013,EQ-06,2024-12-12,18:00,1.6,Operativa,Espera de insumos (reactivos/bolas de molienda),513.0
+PAR-01014,EQ-06,2024-12-16,08:00,2.6,Correctiva,Falla mecánica - desgaste de componente,2320.0
+PAR-01015,EQ-06,2024-12-18,18:00,1.4,Operativa,Falta de mineral en cancha,297.0
+PAR-01016,EQ-06,2024-12-21,11:00,6.2,Correctiva,Falla de lubricación,8977.0
+PAR-01017,EQ-06,2024-12-22,13:00,4.1,Preventiva,Mantenimiento programado (plan anual),7579.0
+PAR-01018,EQ-06,2025-01-06,01:00,5.3,Preventiva,Mantenimiento programado (plan anual),10008.0
+PAR-01019,EQ-06,2025-01-07,10:00,2.7,Operativa,Corte de energía externo,907.0
+PAR-01020,EQ-06,2025-01-28,06:00,5.6,Preventiva,Mantenimiento programado (plan anual),9227.0
+PAR-01021,EQ-06,2025-01-28,13:00,1.1,Operativa,Falta de mineral en cancha,386.0
+PAR-01022,EQ-06,2025-01-30,03:00,8.1,Correctiva,Falla eléctrica - motor/tablero,12610.0
+PAR-01023,EQ-06,2025-02-08,16:00,1.0,Operativa,Condiciones climáticas adversas,449.0
+PAR-01024,EQ-06,2025-02-12,08:00,2.2,Operativa,Corte de energía externo,1265.0
+PAR-01025,EQ-06,2025-02-15,14:00,6.9,Preventiva,Mantenimiento programado (plan anual),7606.0
+PAR-01026,EQ-06,2025-02-20,11:00,8.2,Correctiva,Falla de lubricación,9679.0
+PAR-01027,EQ-06,2025-03-02,21:00,0.5,Correctiva,Falla mecánica - desgaste de componente,849.0
+PAR-01028,EQ-06,2025-03-09,05:00,5.6,Preventiva,Mantenimiento programado (plan anual),6777.0
+PAR-01029,EQ-06,2025-03-09,00:00,3.6,Correctiva,Falla eléctrica - motor/tablero,7462.0
+PAR-01030,EQ-06,2025-03-12,06:00,11.8,Correctiva,Falla de lubricación,22825.0
+PAR-01031,EQ-06,2025-03-17,13:00,2.0,Operativa,Espera de insumos (reactivos/bolas de molienda),1049.0
+PAR-01032,EQ-06,2025-03-19,07:00,10.8,Correctiva,Falla mecánica - desgaste de componente,22403.0
+PAR-01033,EQ-06,2025-03-23,04:00,2.1,Correctiva,Falla de lubricación,2611.0
+PAR-01034,EQ-06,2025-03-26,03:00,20.0,Correctiva,Atoro de mineral / obstrucción,40877.0
+PAR-01035,EQ-06,2025-03-29,06:00,6.9,Preventiva,Mantenimiento programado (plan anual),7292.0
+PAR-01036,EQ-06,2025-04-05,16:00,3.6,Correctiva,Falla eléctrica - motor/tablero,7029.0
+PAR-01037,EQ-06,2025-04-09,05:00,14.2,Correctiva,Falla mecánica - desgaste de componente,11828.0
+PAR-01038,EQ-06,2025-04-11,19:00,1.8,Operativa,Condiciones climáticas adversas,878.0
+PAR-01039,EQ-06,2025-04-15,06:00,7.5,Correctiva,Falla de lubricación,8825.0
+PAR-01040,EQ-06,2025-04-18,10:00,6.7,Preventiva,Mantenimiento programado (plan anual),7049.0
+PAR-01041,EQ-06,2025-04-22,14:00,7.2,Correctiva,Falla de lubricación,12728.0
+PAR-01042,EQ-06,2025-04-23,20:00,1.6,Operativa,Corte de energía externo,582.0
+PAR-01043,EQ-06,2025-04-26,14:00,0.7,Operativa,Falta de mineral en cancha,213.0
+PAR-01044,EQ-06,2025-04-29,18:00,3.0,Correctiva,Falla mecánica - desgaste de componente,4216.0
+PAR-01045,EQ-06,2025-05-01,12:00,1.3,Operativa,Corte de energía externo,289.0
+PAR-01046,EQ-06,2025-05-03,17:00,3.0,Operativa,Condiciones climáticas adversas,1354.0
+PAR-01047,EQ-06,2025-05-06,01:00,3.2,Correctiva,Rotura de faja/correa,4990.0
+PAR-01048,EQ-06,2025-05-07,12:00,6.9,Preventiva,Mantenimiento programado (plan anual),11041.0
+PAR-01049,EQ-06,2025-05-10,12:00,1.9,Correctiva,Falla de lubricación,3854.0
+PAR-01050,EQ-06,2025-05-13,07:00,6.3,Correctiva,Falla de lubricación,12657.0
+PAR-01051,EQ-06,2025-05-14,12:00,4.5,Correctiva,Falla mecánica - desgaste de componente,7106.0
+PAR-01052,EQ-06,2025-05-25,01:00,8.0,Preventiva,Mantenimiento programado (plan anual),16469.0
+PAR-01053,EQ-06,2025-05-30,02:00,3.5,Correctiva,Falla eléctrica - motor/tablero,4926.0
+PAR-01054,EQ-06,2025-06-02,09:00,7.5,Correctiva,Falla mecánica - desgaste de componente,13160.0
+PAR-01055,EQ-06,2025-06-09,07:00,2.2,Operativa,Corte de energía externo,1117.0
+PAR-01056,EQ-06,2025-06-11,08:00,7.8,Preventiva,Mantenimiento programado (plan anual),7822.0
+PAR-01057,EQ-06,2025-06-20,22:00,0.5,Correctiva,Atoro de mineral / obstrucción,939.0
+PAR-01058,EQ-06,2025-07-03,05:00,5.4,Preventiva,Mantenimiento programado (plan anual),8935.0
+PAR-01059,EQ-06,2025-07-04,06:00,3.2,Correctiva,Atoro de mineral / obstrucción,4661.0
+PAR-01060,EQ-06,2025-07-08,04:00,1.6,Operativa,Corte de energía externo,467.0
+PAR-01061,EQ-06,2025-07-08,16:00,0.7,Correctiva,Atoro de mineral / obstrucción,1384.0
+PAR-01062,EQ-06,2025-07-09,13:00,7.2,Correctiva,Falla de lubricación,7599.0
+PAR-01063,EQ-06,2025-07-10,01:00,1.2,Operativa,Falta de mineral en cancha,554.0
+PAR-01064,EQ-06,2025-07-19,12:00,5.3,Preventiva,Mantenimiento programado (plan anual),8181.0
+PAR-01065,EQ-06,2025-07-23,01:00,20.0,Correctiva,Falla de lubricación,19686.0
+PAR-01066,EQ-06,2025-07-24,01:00,14.2,Correctiva,Falla de lubricación,16978.0
+PAR-01067,EQ-06,2025-08-02,04:00,11.1,Correctiva,Falla de lubricación,11013.0
+PAR-01068,EQ-06,2025-08-05,06:00,2.5,Operativa,Espera de insumos (reactivos/bolas de molienda),741.0
+PAR-01069,EQ-06,2025-08-07,10:00,8.6,Preventiva,Mantenimiento programado (plan anual),7232.0
+PAR-01070,EQ-06,2025-08-10,17:00,3.8,Correctiva,Falla de lubricación,4302.0
+PAR-01071,EQ-06,2025-08-28,04:00,7.0,Preventiva,Mantenimiento programado (plan anual),12650.0
+PAR-01072,EQ-06,2025-08-28,16:00,4.9,Correctiva,Falla mecánica - desgaste de componente,10643.0
+PAR-01073,EQ-06,2025-09-01,04:00,9.5,Correctiva,Atoro de mineral / obstrucción,12487.0
+PAR-01074,EQ-06,2025-09-02,22:00,1.0,Operativa,Falta de mineral en cancha,490.0
+PAR-01075,EQ-06,2025-09-08,02:00,12.9,Correctiva,Falla eléctrica - motor/tablero,28308.0
+PAR-01076,EQ-06,2025-09-09,19:00,0.9,Correctiva,Atoro de mineral / obstrucción,837.0
+PAR-01077,EQ-06,2025-09-13,09:00,8.7,Preventiva,Mantenimiento programado (plan anual),12047.0
+PAR-01078,EQ-06,2025-09-29,16:00,2.7,Operativa,Corte de energía externo,776.0
+PAR-01079,EQ-06,2025-10-02,04:00,6.3,Correctiva,Falla mecánica - desgaste de componente,5520.0
+PAR-01080,EQ-06,2025-10-03,05:00,8.5,Preventiva,Mantenimiento programado (plan anual),7930.0
+PAR-01081,EQ-06,2025-10-10,01:00,20.0,Correctiva,Rotura de faja/correa,19912.0
+PAR-01082,EQ-06,2025-10-19,22:00,0.9,Operativa,Condiciones climáticas adversas,528.0
+PAR-01083,EQ-06,2025-10-20,17:00,1.7,Operativa,Espera de insumos (reactivos/bolas de molienda),821.0
+PAR-01084,EQ-06,2025-10-21,10:00,7.1,Preventiva,Mantenimiento programado (plan anual),12887.0
+PAR-01085,EQ-06,2025-10-22,13:00,1.0,Correctiva,Falla eléctrica - motor/tablero,1588.0
+PAR-01086,EQ-06,2025-10-23,00:00,11.7,Correctiva,Falla mecánica - desgaste de componente,12132.0
+PAR-01087,EQ-06,2025-10-25,00:00,2.5,Operativa,Condiciones climáticas adversas,1092.0
+PAR-01088,EQ-06,2025-10-30,07:00,1.2,Operativa,Falta de mineral en cancha,305.0
+PAR-01089,EQ-06,2025-10-30,11:00,4.9,Correctiva,Falla eléctrica - motor/tablero,5574.0
+PAR-01090,EQ-06,2025-11-04,13:00,0.5,Correctiva,Atoro de mineral / obstrucción,533.0
+PAR-01091,EQ-06,2025-11-05,05:00,5.7,Preventiva,Mantenimiento programado (plan anual),6507.0
+PAR-01092,EQ-06,2025-11-07,19:00,2.3,Operativa,Condiciones climáticas adversas,1131.0
+PAR-01093,EQ-06,2025-11-09,08:00,11.3,Correctiva,Atoro de mineral / obstrucción,13214.0
+PAR-01094,EQ-06,2025-11-10,18:00,2.2,Operativa,Falta de mineral en cancha,443.0
+PAR-01095,EQ-06,2025-11-16,02:00,14.1,Correctiva,Rotura de faja/correa,17429.0
+PAR-01096,EQ-06,2025-11-20,10:00,0.7,Correctiva,Falla mecánica - desgaste de componente,1187.0
+PAR-01097,EQ-06,2025-11-22,14:00,0.7,Operativa,Condiciones climáticas adversas,318.0
+PAR-01098,EQ-06,2025-11-23,13:00,1.8,Correctiva,Falla mecánica - desgaste de componente,3549.0
+PAR-01099,EQ-06,2025-11-25,07:00,8.1,Preventiva,Mantenimiento programado (plan anual),9171.0
+PAR-01100,EQ-06,2025-11-25,11:00,7.0,Correctiva,Falla de lubricación,5837.0
+PAR-01101,EQ-06,2025-12-02,04:00,2.3,Operativa,Falta de mineral en cancha,1051.0
+PAR-01102,EQ-06,2025-12-06,06:00,2.7,Correctiva,Atoro de mineral / obstrucción,2431.0
+PAR-01103,EQ-06,2025-12-13,16:00,4.4,Preventiva,Mantenimiento programado (plan anual),7216.0
+PAR-01104,EQ-06,2025-12-25,07:00,0.9,Correctiva,Atoro de mineral / obstrucción,1387.0
+PAR-01105,EQ-06,2025-12-27,11:00,7.2,Preventiva,Mantenimiento programado (plan anual),14855.0
+PAR-01106,EQ-06,2025-12-27,00:00,14.2,Correctiva,Falla de lubricación,28762.0
+PAR-01107,EQ-06,2025-12-28,17:00,4.2,Correctiva,Falla mecánica - desgaste de componente,7970.0
+PAR-01108,EQ-06,2025-12-31,03:00,1.7,Operativa,Falta de mineral en cancha,710.0
+PAR-01109,EQ-06,2025-12-31,03:00,1.9,Correctiva,Falla eléctrica - motor/tablero,3524.0
+PAR-01110,EQ-07,2024-01-08,17:00,2.8,Operativa,Condiciones climáticas adversas,1226.0
+PAR-01111,EQ-07,2024-01-09,19:00,2.1,Operativa,Espera de insumos (reactivos/bolas de molienda),1233.0
+PAR-01112,EQ-07,2024-01-15,09:00,7.3,Preventiva,Mantenimiento programado (plan anual),14290.0
+PAR-01113,EQ-07,2024-01-17,16:00,0.5,Correctiva,Rotura de faja/correa,557.0
+PAR-01114,EQ-07,2024-01-19,17:00,1.0,Correctiva,Atoro de mineral / obstrucción,1794.0
+PAR-01115,EQ-07,2024-01-23,10:00,2.2,Operativa,Falta de mineral en cancha,905.0
+PAR-01116,EQ-07,2024-01-24,00:00,12.5,Correctiva,Falla de lubricación,20460.0
+PAR-01117,EQ-07,2024-01-26,16:00,3.3,Correctiva,Atoro de mineral / obstrucción,4483.0
+PAR-01118,EQ-07,2024-02-04,16:00,7.0,Preventiva,Mantenimiento programado (plan anual),8469.0
+PAR-01119,EQ-07,2024-02-05,14:00,0.5,Correctiva,Falla de lubricación,975.0
+PAR-01120,EQ-07,2024-02-14,00:00,7.4,Correctiva,Falla mecánica - desgaste de componente,6441.0
+PAR-01121,EQ-07,2024-02-24,06:00,6.8,Preventiva,Mantenimiento programado (plan anual),7881.0
+PAR-01122,EQ-07,2024-02-24,15:00,0.8,Operativa,Corte de energía externo,347.0
+PAR-01123,EQ-07,2024-02-28,05:00,2.8,Operativa,Falta de mineral en cancha,1507.0
+PAR-01124,EQ-07,2024-03-04,13:00,0.9,Operativa,Espera de insumos (reactivos/bolas de molienda),527.0
+PAR-01125,EQ-07,2024-03-11,08:00,5.7,Preventiva,Mantenimiento programado (plan anual),10192.0
+PAR-01126,EQ-07,2024-03-12,11:00,5.0,Correctiva,Falla mecánica - desgaste de componente,9506.0
+PAR-01127,EQ-07,2024-03-14,17:00,2.8,Operativa,Condiciones climáticas adversas,1368.0
+PAR-01128,EQ-07,2024-03-21,17:00,1.3,Correctiva,Falla de lubricación,2363.0
+PAR-01129,EQ-07,2024-03-24,10:00,0.8,Operativa,Falta de mineral en cancha,459.0
+PAR-01130,EQ-07,2024-03-29,04:00,1.0,Operativa,Falta de mineral en cancha,274.0
+PAR-01131,EQ-07,2024-03-31,11:00,6.7,Preventiva,Mantenimiento programado (plan anual),13179.0
+PAR-01132,EQ-07,2024-04-07,11:00,1.2,Operativa,Espera de insumos (reactivos/bolas de molienda),441.0
+PAR-01133,EQ-07,2024-04-17,02:00,5.2,Preventiva,Mantenimiento programado (plan anual),5952.0
+PAR-01134,EQ-07,2024-04-23,05:00,2.9,Operativa,Espera de insumos (reactivos/bolas de molienda),835.0
+PAR-01135,EQ-07,2024-04-25,05:00,13.2,Correctiva,Falla mecánica - desgaste de componente,13054.0
+PAR-01136,EQ-07,2024-05-04,12:00,0.8,Operativa,Corte de energía externo,383.0
+PAR-01137,EQ-07,2024-05-10,01:00,8.4,Preventiva,Mantenimiento programado (plan anual),16864.0
+PAR-01138,EQ-07,2024-05-24,14:00,0.5,Correctiva,Falla eléctrica - motor/tablero,545.0
+PAR-01139,EQ-07,2024-05-26,13:00,5.3,Preventiva,Mantenimiento programado (plan anual),6172.0
+PAR-01140,EQ-07,2024-05-29,20:00,0.5,Correctiva,Falla mecánica - desgaste de componente,598.0
+PAR-01141,EQ-07,2024-05-30,16:00,4.0,Correctiva,Falla de lubricación,7631.0
+PAR-01142,EQ-07,2024-06-01,15:00,2.0,Correctiva,Falla mecánica - desgaste de componente,3045.0
+PAR-01143,EQ-07,2024-06-13,16:00,1.3,Operativa,Falta de mineral en cancha,329.0
+PAR-01144,EQ-07,2024-06-14,15:00,6.4,Preventiva,Mantenimiento programado (plan anual),6507.0
+PAR-01145,EQ-07,2024-06-19,12:00,2.8,Operativa,Falta de mineral en cancha,1619.0
+PAR-01146,EQ-07,2024-06-19,15:00,1.1,Correctiva,Falla eléctrica - motor/tablero,2225.0
+PAR-01147,EQ-07,2024-07-01,14:00,4.1,Preventiva,Mantenimiento programado (plan anual),6208.0
+PAR-01148,EQ-07,2024-07-05,13:00,1.4,Correctiva,Atoro de mineral / obstrucción,1141.0
+PAR-01149,EQ-07,2024-07-17,04:00,6.4,Preventiva,Mantenimiento programado (plan anual),12018.0
+PAR-01150,EQ-07,2024-07-19,02:00,4.2,Correctiva,Falla mecánica - desgaste de componente,8053.0
+PAR-01151,EQ-07,2024-07-25,06:00,7.4,Correctiva,Falla de lubricación,15238.0
+PAR-01152,EQ-07,2024-07-26,02:00,11.1,Correctiva,Falla eléctrica - motor/tablero,21830.0
+PAR-01153,EQ-07,2024-07-31,06:00,10.3,Correctiva,Falla mecánica - desgaste de componente,22354.0
+PAR-01154,EQ-07,2024-08-06,10:00,8.8,Preventiva,Mantenimiento programado (plan anual),10947.0
+PAR-01155,EQ-07,2024-08-06,12:00,0.9,Operativa,Corte de energía externo,423.0
+PAR-01156,EQ-07,2024-08-17,10:00,12.2,Correctiva,Falla de lubricación,18355.0
+PAR-01157,EQ-07,2024-08-25,09:00,2.2,Operativa,Falta de mineral en cancha,761.0
+PAR-01158,EQ-07,2024-08-26,15:00,7.4,Preventiva,Mantenimiento programado (plan anual),11020.0
+PAR-01159,EQ-07,2024-08-31,17:00,2.3,Operativa,Corte de energía externo,783.0
+PAR-01160,EQ-07,2024-09-12,03:00,4.3,Preventiva,Mantenimiento programado (plan anual),5061.0
+PAR-01161,EQ-07,2024-09-22,05:00,11.9,Correctiva,Falla mecánica - desgaste de componente,24212.0
+PAR-01162,EQ-07,2024-09-26,19:00,2.1,Correctiva,Falla de lubricación,3442.0
+PAR-01163,EQ-07,2024-09-29,08:00,7.3,Preventiva,Mantenimiento programado (plan anual),10037.0
+PAR-01164,EQ-07,2024-09-30,15:00,6.8,Correctiva,Rotura de faja/correa,6295.0
+PAR-01165,EQ-07,2024-10-06,11:00,1.4,Operativa,Espera de insumos (reactivos/bolas de molienda),333.0
+PAR-01166,EQ-07,2024-10-07,20:00,1.6,Correctiva,Atoro de mineral / obstrucción,1313.0
+PAR-01167,EQ-07,2024-10-10,16:00,2.1,Correctiva,Falla mecánica - desgaste de componente,2541.0
+PAR-01168,EQ-07,2024-10-17,15:00,2.9,Operativa,Condiciones climáticas adversas,1262.0
+PAR-01169,EQ-07,2024-10-20,20:00,1.2,Operativa,Falta de mineral en cancha,645.0
+PAR-01170,EQ-07,2024-10-21,05:00,7.8,Preventiva,Mantenimiento programado (plan anual),10943.0
+PAR-01171,EQ-07,2024-11-04,11:00,2.8,Operativa,Condiciones climáticas adversas,1473.0
+PAR-01172,EQ-07,2024-11-12,12:00,2.5,Operativa,Falta de mineral en cancha,715.0
+PAR-01173,EQ-07,2024-11-13,03:00,7.5,Preventiva,Mantenimiento programado (plan anual),8672.0
+PAR-01174,EQ-07,2024-11-18,17:00,1.3,Operativa,Condiciones climáticas adversas,473.0
+PAR-01175,EQ-07,2024-12-02,16:00,5.6,Preventiva,Mantenimiento programado (plan anual),8647.0
+PAR-01176,EQ-07,2024-12-08,03:00,8.5,Correctiva,Rotura de faja/correa,18291.0
+PAR-01177,EQ-07,2024-12-11,07:00,2.6,Operativa,Falta de mineral en cancha,1331.0
+PAR-01178,EQ-07,2024-12-11,05:00,11.1,Correctiva,Falla eléctrica - motor/tablero,18910.0
+PAR-01179,EQ-07,2024-12-19,15:00,6.1,Preventiva,Mantenimiento programado (plan anual),10181.0
+PAR-01180,EQ-07,2024-12-21,07:00,1.4,Correctiva,Falla mecánica - desgaste de componente,1774.0
+PAR-01181,EQ-07,2025-01-02,22:00,0.6,Operativa,Corte de energía externo,307.0
+PAR-01182,EQ-07,2025-01-02,15:00,1.4,Correctiva,Atoro de mineral / obstrucción,2109.0
+PAR-01183,EQ-07,2025-01-06,07:00,4.4,Preventiva,Mantenimiento programado (plan anual),8823.0
+PAR-01184,EQ-07,2025-01-09,14:00,0.5,Correctiva,Falla eléctrica - motor/tablero,822.0
+PAR-01185,EQ-07,2025-01-25,01:00,7.0,Preventiva,Mantenimiento programado (plan anual),9628.0
+PAR-01186,EQ-07,2025-01-31,16:00,2.7,Correctiva,Atoro de mineral / obstrucción,3794.0
+PAR-01187,EQ-07,2025-02-04,15:00,2.3,Operativa,Espera de insumos (reactivos/bolas de molienda),640.0
+PAR-01188,EQ-07,2025-02-05,08:00,2.9,Operativa,Falta de mineral en cancha,1705.0
+PAR-01189,EQ-07,2025-02-05,05:00,5.1,Correctiva,Falla mecánica - desgaste de componente,5170.0
+PAR-01190,EQ-07,2025-02-13,04:00,6.2,Preventiva,Mantenimiento programado (plan anual),8138.0
+PAR-01191,EQ-07,2025-02-15,07:00,1.8,Operativa,Falta de mineral en cancha,656.0
+PAR-01192,EQ-07,2025-02-20,10:00,1.0,Operativa,Condiciones climáticas adversas,313.0
+PAR-01193,EQ-07,2025-02-21,05:00,1.7,Operativa,Corte de energía externo,439.0
+PAR-01194,EQ-07,2025-02-26,07:00,3.3,Correctiva,Atoro de mineral / obstrucción,6210.0
+PAR-01195,EQ-07,2025-02-28,15:00,4.3,Preventiva,Mantenimiento programado (plan anual),4362.0
+PAR-01196,EQ-07,2025-02-28,02:00,16.7,Correctiva,Rotura de faja/correa,32698.0
+PAR-01197,EQ-07,2025-03-04,17:00,2.0,Correctiva,Falla de lubricación,1846.0
+PAR-01198,EQ-07,2025-03-09,19:00,1.5,Correctiva,Falla eléctrica - motor/tablero,1538.0
+PAR-01199,EQ-07,2025-03-14,05:00,2.5,Correctiva,Rotura de faja/correa,2997.0
+PAR-01200,EQ-07,2025-03-16,05:00,14.5,Correctiva,Falla eléctrica - motor/tablero,24132.0
+PAR-01201,EQ-07,2025-03-18,19:00,2.5,Operativa,Falta de mineral en cancha,1021.0
+PAR-01202,EQ-07,2025-03-18,14:00,5.8,Correctiva,Falla mecánica - desgaste de componente,8664.0
+PAR-01203,EQ-07,2025-03-19,10:00,8.6,Preventiva,Mantenimiento programado (plan anual),10914.0
+PAR-01204,EQ-07,2025-03-24,12:00,1.6,Operativa,Corte de energía externo,605.0
+PAR-01205,EQ-07,2025-03-25,14:00,1.4,Correctiva,Rotura de faja/correa,2749.0
+PAR-01206,EQ-07,2025-04-02,05:00,7.2,Preventiva,Mantenimiento programado (plan anual),7653.0
+PAR-01207,EQ-07,2025-04-21,18:00,4.8,Preventiva,Mantenimiento programado (plan anual),8811.0
+PAR-01208,EQ-07,2025-04-23,13:00,2.6,Correctiva,Falla eléctrica - motor/tablero,4912.0
+PAR-01209,EQ-07,2025-05-05,09:00,7.8,Preventiva,Mantenimiento programado (plan anual),7885.0
+PAR-01210,EQ-07,2025-05-06,14:00,3.7,Correctiva,Rotura de faja/correa,5760.0
+PAR-01211,EQ-07,2025-05-11,10:00,1.9,Operativa,Espera de insumos (reactivos/bolas de molienda),705.0
+PAR-01212,EQ-07,2025-05-15,08:00,1.1,Operativa,Falta de mineral en cancha,290.0
+PAR-01213,EQ-07,2025-05-15,19:00,2.5,Correctiva,Atoro de mineral / obstrucción,2484.0
+PAR-01214,EQ-07,2025-05-20,19:00,2.2,Operativa,Falta de mineral en cancha,856.0
+PAR-01215,EQ-07,2025-05-25,02:00,3.2,Correctiva,Falla de lubricación,3928.0
+PAR-01216,EQ-07,2025-05-28,03:00,8.5,Preventiva,Mantenimiento programado (plan anual),10311.0
+PAR-01217,EQ-07,2025-06-16,14:00,8.2,Preventiva,Mantenimiento programado (plan anual),15942.0
+PAR-01218,EQ-07,2025-06-18,09:00,1.3,Operativa,Falta de mineral en cancha,745.0
+PAR-01219,EQ-07,2025-06-29,06:00,3.8,Correctiva,Rotura de faja/correa,4762.0
+PAR-01220,EQ-07,2025-07-05,02:00,0.6,Operativa,Falta de mineral en cancha,162.0
+PAR-01221,EQ-07,2025-07-08,18:00,4.3,Preventiva,Mantenimiento programado (plan anual),7526.0
+PAR-01222,EQ-07,2025-07-09,06:00,2.8,Operativa,Falta de mineral en cancha,1476.0
+PAR-01223,EQ-07,2025-07-11,17:00,1.3,Correctiva,Falla mecánica - desgaste de componente,2456.0
+PAR-01224,EQ-07,2025-07-15,01:00,0.6,Operativa,Espera de insumos (reactivos/bolas de molienda),292.0
+PAR-01225,EQ-07,2025-07-16,00:00,2.8,Operativa,Falta de mineral en cancha,1252.0
+PAR-01226,EQ-07,2025-07-23,04:00,7.3,Preventiva,Mantenimiento programado (plan anual),8547.0
+PAR-01227,EQ-07,2025-08-01,15:00,0.6,Operativa,Falta de mineral en cancha,190.0
+PAR-01228,EQ-07,2025-08-07,09:00,1.4,Correctiva,Falla eléctrica - motor/tablero,2752.0
+PAR-01229,EQ-07,2025-08-14,02:00,4.6,Preventiva,Mantenimiento programado (plan anual),9175.0
+PAR-01230,EQ-07,2025-08-27,11:00,1.8,Operativa,Espera de insumos (reactivos/bolas de molienda),559.0
+PAR-01231,EQ-07,2025-08-30,11:00,8.0,Preventiva,Mantenimiento programado (plan anual),13857.0
+PAR-01232,EQ-07,2025-09-04,02:00,0.8,Operativa,Corte de energía externo,329.0
+PAR-01233,EQ-07,2025-09-05,01:00,20.0,Correctiva,Falla mecánica - desgaste de componente,27681.0
+PAR-01234,EQ-07,2025-09-08,15:00,2.7,Operativa,Espera de insumos (reactivos/bolas de molienda),782.0
+PAR-01235,EQ-07,2025-09-11,00:00,1.7,Operativa,Corte de energía externo,510.0
+PAR-01236,EQ-07,2025-09-12,14:00,3.0,Operativa,Falta de mineral en cancha,1642.0
+PAR-01237,EQ-07,2025-09-14,15:00,0.8,Operativa,Condiciones climáticas adversas,210.0
+PAR-01238,EQ-07,2025-09-21,00:00,7.9,Preventiva,Mantenimiento programado (plan anual),13798.0
+PAR-01239,EQ-07,2025-10-09,08:00,6.6,Preventiva,Mantenimiento programado (plan anual),14002.0
+PAR-01240,EQ-07,2025-10-19,11:00,5.6,Correctiva,Falla de lubricación,5980.0
+PAR-01241,EQ-07,2025-10-22,01:00,0.5,Correctiva,Falla de lubricación,463.0
+PAR-01242,EQ-07,2025-10-24,15:00,2.0,Operativa,Espera de insumos (reactivos/bolas de molienda),410.0
+PAR-01243,EQ-07,2025-10-26,14:00,6.4,Preventiva,Mantenimiento programado (plan anual),7729.0
+PAR-01244,EQ-07,2025-11-10,08:00,6.9,Preventiva,Mantenimiento programado (plan anual),6875.0
+PAR-01245,EQ-07,2025-11-13,08:00,2.4,Operativa,Espera de insumos (reactivos/bolas de molienda),783.0
+PAR-01246,EQ-07,2025-11-26,21:00,0.5,Operativa,Espera de insumos (reactivos/bolas de molienda),284.0
+PAR-01247,EQ-07,2025-11-29,16:00,5.1,Preventiva,Mantenimiento programado (plan anual),5690.0
+PAR-01248,EQ-07,2025-12-07,15:00,2.9,Operativa,Corte de energía externo,1010.0
+PAR-01249,EQ-07,2025-12-08,17:00,5.9,Correctiva,Atoro de mineral / obstrucción,8600.0
+PAR-01250,EQ-07,2025-12-17,04:00,7.3,Preventiva,Mantenimiento programado (plan anual),11513.0
+PAR-01251,EQ-07,2025-12-31,00:00,8.7,Preventiva,Mantenimiento programado (plan anual),16871.0
+PAR-01252,EQ-08,2024-01-08,16:00,2.7,Correctiva,Rotura de faja/correa,3658.0
+PAR-01253,EQ-08,2024-01-15,00:00,6.7,Preventiva,Mantenimiento programado (plan anual),10015.0
+PAR-01254,EQ-08,2024-01-17,17:00,1.0,Operativa,Corte de energía externo,538.0
+PAR-01255,EQ-08,2024-01-17,10:00,6.2,Correctiva,Rotura de faja/correa,12070.0
+PAR-01256,EQ-08,2024-01-27,08:00,10.8,Correctiva,Falla de lubricación,11505.0
+PAR-01257,EQ-08,2024-02-05,02:00,6.4,Preventiva,Mantenimiento programado (plan anual),12116.0
+PAR-01258,EQ-08,2024-02-16,04:00,14.5,Correctiva,Falla eléctrica - motor/tablero,23411.0
+PAR-01259,EQ-08,2024-02-17,01:00,16.9,Correctiva,Falla mecánica - desgaste de componente,35801.0
+PAR-01260,EQ-08,2024-02-18,12:00,10.4,Correctiva,Rotura de faja/correa,13738.0
+PAR-01261,EQ-08,2024-02-20,12:00,6.8,Correctiva,Rotura de faja/correa,6690.0
+PAR-01262,EQ-08,2024-02-23,01:00,4.7,Preventiva,Mantenimiento programado (plan anual),5931.0
+PAR-01263,EQ-08,2024-02-23,17:00,0.7,Operativa,Condiciones climáticas adversas,242.0
+PAR-01264,EQ-08,2024-02-23,02:00,0.5,Correctiva,Falla de lubricación,518.0
+PAR-01265,EQ-08,2024-02-25,03:00,10.0,Correctiva,Atoro de mineral / obstrucción,17697.0
+PAR-01266,EQ-08,2024-02-29,07:00,6.9,Correctiva,Atoro de mineral / obstrucción,14000.0
+PAR-01267,EQ-08,2024-03-01,05:00,2.5,Correctiva,Falla mecánica - desgaste de componente,4219.0
+PAR-01268,EQ-08,2024-03-04,03:00,20.0,Correctiva,Falla mecánica - desgaste de componente,39448.0
+PAR-01269,EQ-08,2024-03-05,03:00,12.1,Correctiva,Rotura de faja/correa,15593.0
+PAR-01270,EQ-08,2024-03-13,16:00,5.5,Preventiva,Mantenimiento programado (plan anual),11770.0
+PAR-01271,EQ-08,2024-03-14,06:00,2.1,Correctiva,Falla de lubricación,3714.0
+PAR-01272,EQ-08,2024-03-15,15:00,2.6,Operativa,Corte de energía externo,1499.0
+PAR-01273,EQ-08,2024-03-29,07:00,6.8,Preventiva,Mantenimiento programado (plan anual),7097.0
+PAR-01274,EQ-08,2024-04-02,06:00,6.4,Correctiva,Rotura de faja/correa,6528.0
+PAR-01275,EQ-08,2024-04-14,15:00,2.4,Operativa,Corte de energía externo,607.0
+PAR-01276,EQ-08,2024-04-17,00:00,2.6,Operativa,Corte de energía externo,1052.0
+PAR-01277,EQ-08,2024-04-19,14:00,7.9,Preventiva,Mantenimiento programado (plan anual),11337.0
+PAR-01278,EQ-08,2024-04-23,06:00,1.7,Correctiva,Rotura de faja/correa,2978.0
+PAR-01279,EQ-08,2024-04-24,17:00,0.5,Correctiva,Atoro de mineral / obstrucción,706.0
+PAR-01280,EQ-08,2024-04-25,00:00,20.0,Correctiva,Rotura de faja/correa,26872.0
+PAR-01281,EQ-08,2024-04-27,00:00,2.7,Correctiva,Falla de lubricación,2543.0
+PAR-01282,EQ-08,2024-04-30,04:00,14.2,Correctiva,Falla eléctrica - motor/tablero,18391.0
+PAR-01283,EQ-08,2024-05-03,07:00,10.2,Correctiva,Falla de lubricación,19453.0
+PAR-01284,EQ-08,2024-05-05,17:00,5.6,Preventiva,Mantenimiento programado (plan anual),11039.0
+PAR-01285,EQ-08,2024-05-14,07:00,1.1,Operativa,Espera de insumos (reactivos/bolas de molienda),381.0
+PAR-01286,EQ-08,2024-05-26,00:00,7.9,Preventiva,Mantenimiento programado (plan anual),15035.0
+PAR-01287,EQ-08,2024-05-26,18:00,2.7,Operativa,Falta de mineral en cancha,689.0
+PAR-01288,EQ-08,2024-06-02,10:00,0.5,Operativa,Corte de energía externo,297.0
+PAR-01289,EQ-08,2024-06-04,09:00,2.6,Operativa,Falta de mineral en cancha,1042.0
+PAR-01290,EQ-08,2024-06-05,07:00,1.1,Operativa,Corte de energía externo,469.0
+PAR-01291,EQ-08,2024-06-08,05:00,1.8,Operativa,Corte de energía externo,1040.0
+PAR-01292,EQ-08,2024-06-08,08:00,3.1,Correctiva,Falla de lubricación,5312.0
+PAR-01293,EQ-08,2024-06-09,07:00,4.7,Preventiva,Mantenimiento programado (plan anual),9870.0
+PAR-01294,EQ-08,2024-06-14,07:00,0.7,Operativa,Espera de insumos (reactivos/bolas de molienda),341.0
+PAR-01295,EQ-08,2024-06-21,18:00,2.0,Operativa,Condiciones climáticas adversas,727.0
+PAR-01296,EQ-08,2024-06-23,09:00,2.5,Correctiva,Atoro de mineral / obstrucción,4465.0
+PAR-01297,EQ-08,2024-06-24,05:00,4.5,Preventiva,Mantenimiento programado (plan anual),4912.0
+PAR-01298,EQ-08,2024-06-24,00:00,20.0,Correctiva,Atoro de mineral / obstrucción,26561.0
+PAR-01299,EQ-08,2024-07-08,05:00,1.1,Correctiva,Falla de lubricación,2110.0
+PAR-01300,EQ-08,2024-07-09,04:00,8.7,Preventiva,Mantenimiento programado (plan anual),17263.0
+PAR-01301,EQ-08,2024-07-11,04:00,18.2,Correctiva,Falla de lubricación,31459.0
+PAR-01302,EQ-08,2024-07-14,08:00,3.5,Correctiva,Falla mecánica - desgaste de componente,3686.0
+PAR-01303,EQ-08,2024-07-19,01:00,16.0,Correctiva,Falla eléctrica - motor/tablero,25379.0
+PAR-01304,EQ-08,2024-07-20,03:00,1.5,Correctiva,Falla eléctrica - motor/tablero,2450.0
+PAR-01305,EQ-08,2024-07-23,15:00,4.1,Preventiva,Mantenimiento programado (plan anual),6673.0
+PAR-01306,EQ-08,2024-07-23,07:00,1.4,Correctiva,Falla eléctrica - motor/tablero,2910.0
+PAR-01307,EQ-08,2024-07-30,06:00,1.6,Operativa,Condiciones climáticas adversas,519.0
+PAR-01308,EQ-08,2024-08-09,02:00,4.6,Preventiva,Mantenimiento programado (plan anual),7617.0
+PAR-01309,EQ-08,2024-08-18,01:00,20.0,Correctiva,Atoro de mineral / obstrucción,38654.0
+PAR-01310,EQ-08,2024-08-22,02:00,19.2,Correctiva,Falla mecánica - desgaste de componente,31098.0
+PAR-01311,EQ-08,2024-08-25,08:00,0.8,Operativa,Corte de energía externo,260.0
+PAR-01312,EQ-08,2024-08-26,09:00,6.1,Preventiva,Mantenimiento programado (plan anual),9110.0
+PAR-01313,EQ-08,2024-08-28,21:00,1.0,Correctiva,Rotura de faja/correa,1995.0
+PAR-01314,EQ-08,2024-08-31,16:00,3.9,Correctiva,Atoro de mineral / obstrucción,6959.0
+PAR-01315,EQ-08,2024-09-04,04:00,7.4,Correctiva,Falla de lubricación,14231.0
+PAR-01316,EQ-08,2024-09-05,05:00,17.4,Correctiva,Falla mecánica - desgaste de componente,20313.0
+PAR-01317,EQ-08,2024-09-12,12:00,5.8,Preventiva,Mantenimiento programado (plan anual),12547.0
+PAR-01318,EQ-08,2024-09-19,09:00,2.3,Operativa,Condiciones climáticas adversas,1093.0
+PAR-01319,EQ-08,2024-09-19,11:00,6.0,Correctiva,Rotura de faja/correa,6675.0
+PAR-01320,EQ-08,2024-09-23,04:00,16.2,Correctiva,Atoro de mineral / obstrucción,33117.0
+PAR-01321,EQ-08,2024-09-27,00:00,1.4,Operativa,Espera de insumos (reactivos/bolas de molienda),323.0
+PAR-01322,EQ-08,2024-09-29,14:00,5.9,Preventiva,Mantenimiento programado (plan anual),12419.0
+PAR-01323,EQ-08,2024-10-02,08:00,2.6,Operativa,Espera de insumos (reactivos/bolas de molienda),787.0
+PAR-01324,EQ-08,2024-10-05,10:00,3.3,Correctiva,Falla eléctrica - motor/tablero,2895.0
+PAR-01325,EQ-08,2024-10-11,12:00,1.9,Correctiva,Atoro de mineral / obstrucción,1983.0
+PAR-01326,EQ-08,2024-10-12,04:00,6.2,Correctiva,Falla de lubricación,13185.0
+PAR-01327,EQ-08,2024-10-14,06:00,8.5,Preventiva,Mantenimiento programado (plan anual),6906.0
+PAR-01328,EQ-08,2024-10-16,17:00,1.4,Correctiva,Falla mecánica - desgaste de componente,2837.0
+PAR-01329,EQ-08,2024-10-17,12:00,1.4,Operativa,Corte de energía externo,309.0
+PAR-01330,EQ-08,2024-10-21,11:00,1.5,Operativa,Condiciones climáticas adversas,566.0
+PAR-01331,EQ-08,2024-10-22,06:00,14.5,Correctiva,Falla eléctrica - motor/tablero,17128.0
+PAR-01332,EQ-08,2024-10-27,17:00,0.5,Correctiva,Falla eléctrica - motor/tablero,1083.0
+PAR-01333,EQ-08,2024-11-01,05:00,5.0,Preventiva,Mantenimiento programado (plan anual),6882.0
+PAR-01334,EQ-08,2024-11-06,00:00,9.4,Correctiva,Rotura de faja/correa,19366.0
+PAR-01335,EQ-08,2024-11-08,03:00,20.0,Correctiva,Atoro de mineral / obstrucción,23137.0
+PAR-01336,EQ-08,2024-11-10,11:00,4.4,Correctiva,Rotura de faja/correa,4691.0
+PAR-01337,EQ-08,2024-11-13,08:00,3.6,Correctiva,Atoro de mineral / obstrucción,4564.0
+PAR-01338,EQ-08,2024-11-16,17:00,4.6,Preventiva,Mantenimiento programado (plan anual),8228.0
+PAR-01339,EQ-08,2024-11-16,12:00,4.0,Correctiva,Atoro de mineral / obstrucción,4566.0
+PAR-01340,EQ-08,2024-11-17,15:00,2.3,Correctiva,Falla mecánica - desgaste de componente,2098.0
+PAR-01341,EQ-08,2024-11-19,06:00,0.8,Operativa,Falta de mineral en cancha,242.0
+PAR-01342,EQ-08,2024-11-19,12:00,0.8,Correctiva,Falla eléctrica - motor/tablero,649.0
+PAR-01343,EQ-08,2024-11-20,16:00,0.8,Operativa,Condiciones climáticas adversas,256.0
+PAR-01344,EQ-08,2024-11-21,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,33685.0
+PAR-01345,EQ-08,2024-12-08,00:00,6.7,Preventiva,Mantenimiento programado (plan anual),6746.0
+PAR-01346,EQ-08,2024-12-11,05:00,3.4,Correctiva,Rotura de faja/correa,6736.0
+PAR-01347,EQ-08,2024-12-17,01:00,14.1,Correctiva,Rotura de faja/correa,25150.0
+PAR-01348,EQ-08,2024-12-22,06:00,16.1,Correctiva,Rotura de faja/correa,33923.0
+PAR-01349,EQ-08,2024-12-24,07:00,5.8,Correctiva,Falla mecánica - desgaste de componente,5801.0
+PAR-01350,EQ-08,2024-12-25,21:00,0.7,Operativa,Corte de energía externo,372.0
+PAR-01351,EQ-08,2024-12-27,04:00,6.1,Correctiva,Falla eléctrica - motor/tablero,5278.0
+PAR-01352,EQ-08,2024-12-30,07:00,4.4,Preventiva,Mantenimiento programado (plan anual),7499.0
+PAR-01353,EQ-08,2024-12-31,00:00,7.5,Correctiva,Atoro de mineral / obstrucción,6821.0
+PAR-01354,EQ-08,2025-01-01,10:00,9.2,Correctiva,Rotura de faja/correa,8643.0
+PAR-01355,EQ-08,2025-01-03,03:00,0.9,Correctiva,Falla de lubricación,1956.0
+PAR-01356,EQ-08,2025-01-12,05:00,7.2,Correctiva,Atoro de mineral / obstrucción,11305.0
+PAR-01357,EQ-08,2025-01-15,03:00,5.6,Preventiva,Mantenimiento programado (plan anual),4824.0
+PAR-01358,EQ-08,2025-01-26,16:00,0.5,Correctiva,Falla mecánica - desgaste de componente,981.0
+PAR-01359,EQ-08,2025-01-29,04:00,15.8,Correctiva,Falla eléctrica - motor/tablero,18716.0
+PAR-01360,EQ-08,2025-02-07,07:00,7.0,Preventiva,Mantenimiento programado (plan anual),6475.0
+PAR-01361,EQ-08,2025-02-07,19:00,1.1,Operativa,Condiciones climáticas adversas,354.0
+PAR-01362,EQ-08,2025-02-09,07:00,2.6,Operativa,Espera de insumos (reactivos/bolas de molienda),1532.0
+PAR-01363,EQ-08,2025-02-15,14:00,4.6,Correctiva,Rotura de faja/correa,8563.0
+PAR-01364,EQ-08,2025-02-16,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,18389.0
+PAR-01365,EQ-08,2025-02-18,05:00,2.8,Correctiva,Falla de lubricación,5927.0
+PAR-01366,EQ-08,2025-02-20,03:00,11.7,Correctiva,Rotura de faja/correa,16344.0
+PAR-01367,EQ-08,2025-02-27,03:00,4.7,Correctiva,Falla eléctrica - motor/tablero,6127.0
+PAR-01368,EQ-08,2025-02-28,10:00,5.9,Preventiva,Mantenimiento programado (plan anual),11568.0
+PAR-01369,EQ-08,2025-03-07,16:00,0.9,Correctiva,Falla eléctrica - motor/tablero,945.0
+PAR-01370,EQ-08,2025-03-13,08:00,1.9,Operativa,Corte de energía externo,618.0
+PAR-01371,EQ-08,2025-03-15,01:00,5.8,Preventiva,Mantenimiento programado (plan anual),10807.0
+PAR-01372,EQ-08,2025-03-15,13:00,0.6,Operativa,Falta de mineral en cancha,146.0
+PAR-01373,EQ-08,2025-03-24,00:00,19.7,Correctiva,Falla eléctrica - motor/tablero,20954.0
+PAR-01374,EQ-08,2025-03-29,08:00,7.0,Preventiva,Mantenimiento programado (plan anual),15391.0
+PAR-01375,EQ-08,2025-03-29,05:00,15.8,Correctiva,Falla mecánica - desgaste de componente,15661.0
+PAR-01376,EQ-08,2025-03-31,12:00,1.5,Operativa,Falta de mineral en cancha,873.0
+PAR-01377,EQ-08,2025-04-04,16:00,4.2,Correctiva,Rotura de faja/correa,7502.0
+PAR-01378,EQ-08,2025-04-08,00:00,19.2,Correctiva,Falla de lubricación,33869.0
+PAR-01379,EQ-08,2025-04-09,06:00,0.8,Operativa,Condiciones climáticas adversas,198.0
+PAR-01380,EQ-08,2025-04-13,05:00,2.9,Operativa,Falta de mineral en cancha,750.0
+PAR-01381,EQ-08,2025-04-20,07:00,8.4,Preventiva,Mantenimiento programado (plan anual),15922.0
+PAR-01382,EQ-08,2025-04-23,09:00,11.3,Correctiva,Rotura de faja/correa,22130.0
+PAR-01383,EQ-08,2025-04-26,06:00,3.2,Correctiva,Falla eléctrica - motor/tablero,3813.0
+PAR-01384,EQ-08,2025-05-07,13:00,4.6,Correctiva,Falla de lubricación,3947.0
+PAR-01385,EQ-08,2025-05-08,08:00,8.3,Preventiva,Mantenimiento programado (plan anual),8013.0
+PAR-01386,EQ-08,2025-05-08,08:00,6.5,Correctiva,Falla mecánica - desgaste de componente,5539.0
+PAR-01387,EQ-08,2025-05-21,13:00,2.0,Operativa,Falta de mineral en cancha,822.0
+PAR-01388,EQ-08,2025-05-25,10:00,4.7,Correctiva,Rotura de faja/correa,8579.0
+PAR-01389,EQ-08,2025-05-28,14:00,7.9,Preventiva,Mantenimiento programado (plan anual),13779.0
+PAR-01390,EQ-08,2025-06-01,09:00,13.6,Correctiva,Rotura de faja/correa,29495.0
+PAR-01391,EQ-08,2025-06-12,03:00,20.0,Correctiva,Falla de lubricación,42438.0
+PAR-01392,EQ-08,2025-06-17,11:00,5.4,Preventiva,Mantenimiento programado (plan anual),8264.0
+PAR-01393,EQ-08,2025-06-23,16:00,2.3,Correctiva,Rotura de faja/correa,2859.0
+PAR-01394,EQ-08,2025-06-28,01:00,2.2,Correctiva,Falla mecánica - desgaste de componente,3216.0
+PAR-01395,EQ-08,2025-07-02,02:00,7.4,Preventiva,Mantenimiento programado (plan anual),9972.0
+PAR-01396,EQ-08,2025-07-05,04:00,17.2,Correctiva,Falla de lubricación,34859.0
+PAR-01397,EQ-08,2025-07-10,08:00,1.3,Operativa,Espera de insumos (reactivos/bolas de molienda),627.0
+PAR-01398,EQ-08,2025-07-13,13:00,1.0,Operativa,Corte de energía externo,456.0
+PAR-01399,EQ-08,2025-07-20,21:00,1.2,Operativa,Corte de energía externo,620.0
+PAR-01400,EQ-08,2025-07-25,02:00,4.7,Preventiva,Mantenimiento programado (plan anual),7476.0
+PAR-01401,EQ-08,2025-07-25,15:00,0.9,Operativa,Falta de mineral en cancha,279.0
+PAR-01402,EQ-08,2025-07-26,02:00,0.6,Operativa,Falta de mineral en cancha,312.0
+PAR-01403,EQ-08,2025-08-04,21:00,0.7,Operativa,Condiciones climáticas adversas,198.0
+PAR-01404,EQ-08,2025-08-11,00:00,8.1,Correctiva,Falla eléctrica - motor/tablero,10758.0
+PAR-01405,EQ-08,2025-08-12,08:00,1.6,Correctiva,Atoro de mineral / obstrucción,2170.0
+PAR-01406,EQ-08,2025-08-15,03:00,5.9,Preventiva,Mantenimiento programado (plan anual),11971.0
+PAR-01407,EQ-08,2025-08-17,11:00,2.7,Operativa,Falta de mineral en cancha,1120.0
+PAR-01408,EQ-08,2025-08-21,04:00,11.0,Correctiva,Falla eléctrica - motor/tablero,24013.0
+PAR-01409,EQ-08,2025-08-23,18:00,5.0,Correctiva,Falla eléctrica - motor/tablero,8787.0
+PAR-01410,EQ-08,2025-08-24,17:00,1.5,Operativa,Falta de mineral en cancha,395.0
+PAR-01411,EQ-08,2025-08-30,05:00,7.3,Preventiva,Mantenimiento programado (plan anual),13979.0
+PAR-01412,EQ-08,2025-08-31,09:00,0.5,Correctiva,Rotura de faja/correa,945.0
+PAR-01413,EQ-08,2025-09-02,01:00,12.5,Correctiva,Falla eléctrica - motor/tablero,14469.0
+PAR-01414,EQ-08,2025-09-04,09:00,2.0,Operativa,Condiciones climáticas adversas,1153.0
+PAR-01415,EQ-08,2025-09-11,20:00,0.6,Operativa,Corte de energía externo,275.0
+PAR-01416,EQ-08,2025-09-11,08:00,11.6,Correctiva,Falla eléctrica - motor/tablero,13070.0
+PAR-01417,EQ-08,2025-09-19,02:00,0.9,Correctiva,Falla mecánica - desgaste de componente,1777.0
+PAR-01418,EQ-08,2025-09-20,13:00,1.1,Operativa,Espera de insumos (reactivos/bolas de molienda),589.0
+PAR-01419,EQ-08,2025-09-21,00:00,2.8,Operativa,Espera de insumos (reactivos/bolas de molienda),608.0
+PAR-01420,EQ-08,2025-09-22,08:00,6.0,Preventiva,Mantenimiento programado (plan anual),10554.0
+PAR-01421,EQ-08,2025-09-22,04:00,4.9,Correctiva,Falla eléctrica - motor/tablero,7702.0
+PAR-01422,EQ-08,2025-09-24,22:00,0.7,Operativa,Condiciones climáticas adversas,392.0
+PAR-01423,EQ-08,2025-09-25,13:00,2.4,Operativa,Falta de mineral en cancha,946.0
+PAR-01424,EQ-08,2025-09-27,01:00,20.0,Correctiva,Falla eléctrica - motor/tablero,40617.0
+PAR-01425,EQ-08,2025-09-29,01:00,0.5,Correctiva,Rotura de faja/correa,533.0
+PAR-01426,EQ-08,2025-10-05,02:00,20.0,Correctiva,Rotura de faja/correa,33753.0
+PAR-01427,EQ-08,2025-10-08,05:00,4.6,Preventiva,Mantenimiento programado (plan anual),3784.0
+PAR-01428,EQ-08,2025-10-12,06:00,16.8,Correctiva,Falla de lubricación,23366.0
+PAR-01429,EQ-08,2025-10-15,07:00,1.7,Correctiva,Falla mecánica - desgaste de componente,3555.0
+PAR-01430,EQ-08,2025-10-20,03:00,2.0,Correctiva,Falla mecánica - desgaste de componente,3446.0
+PAR-01431,EQ-08,2025-10-25,01:00,7.3,Preventiva,Mantenimiento programado (plan anual),15178.0
+PAR-01432,EQ-08,2025-11-04,04:00,14.5,Correctiva,Falla eléctrica - motor/tablero,16730.0
+PAR-01433,EQ-08,2025-11-05,02:00,20.0,Correctiva,Falla de lubricación,33026.0
+PAR-01434,EQ-08,2025-11-12,10:00,7.8,Preventiva,Mantenimiento programado (plan anual),11870.0
+PAR-01435,EQ-08,2025-11-15,15:00,1.1,Correctiva,Falla de lubricación,998.0
+PAR-01436,EQ-08,2025-11-18,07:00,0.5,Correctiva,Falla de lubricación,515.0
+PAR-01437,EQ-08,2025-11-23,17:00,4.7,Correctiva,Rotura de faja/correa,7158.0
+PAR-01438,EQ-08,2025-11-26,10:00,4.2,Preventiva,Mantenimiento programado (plan anual),5250.0
+PAR-01439,EQ-08,2025-12-02,11:00,4.5,Correctiva,Atoro de mineral / obstrucción,6406.0
+PAR-01440,EQ-08,2025-12-04,04:00,19.0,Correctiva,Atoro de mineral / obstrucción,36383.0
+PAR-01441,EQ-08,2025-12-12,10:00,0.8,Operativa,Falta de mineral en cancha,196.0
+PAR-01442,EQ-08,2025-12-16,03:00,0.7,Correctiva,Falla de lubricación,1435.0
+PAR-01443,EQ-08,2025-12-17,14:00,3.5,Correctiva,Falla eléctrica - motor/tablero,6544.0
+PAR-01444,EQ-08,2025-12-18,11:00,5.9,Preventiva,Mantenimiento programado (plan anual),10481.0
+PAR-01445,EQ-08,2025-12-25,05:00,11.6,Correctiva,Falla eléctrica - motor/tablero,20456.0
+PAR-01446,EQ-09,2024-01-09,07:00,7.5,Correctiva,Falla de lubricación,9895.0
+PAR-01447,EQ-09,2024-01-16,11:00,6.3,Preventiva,Mantenimiento programado (plan anual),7337.0
+PAR-01448,EQ-09,2024-01-19,12:00,0.5,Operativa,Corte de energía externo,215.0
+PAR-01449,EQ-09,2024-01-22,06:00,1.7,Operativa,Condiciones climáticas adversas,412.0
+PAR-01450,EQ-09,2024-01-30,09:00,3.2,Correctiva,Falla eléctrica - motor/tablero,4564.0
+PAR-01451,EQ-09,2024-02-06,13:00,0.9,Operativa,Falta de mineral en cancha,506.0
+PAR-01452,EQ-09,2024-02-07,06:00,7.8,Preventiva,Mantenimiento programado (plan anual),16914.0
+PAR-01453,EQ-09,2024-02-16,19:00,2.8,Correctiva,Falla eléctrica - motor/tablero,5913.0
+PAR-01454,EQ-09,2024-02-28,03:00,5.2,Preventiva,Mantenimiento programado (plan anual),6261.0
+PAR-01455,EQ-09,2024-02-28,19:00,1.6,Operativa,Falta de mineral en cancha,957.0
+PAR-01456,EQ-09,2024-03-03,14:00,7.7,Correctiva,Falla mecánica - desgaste de componente,11226.0
+PAR-01457,EQ-09,2024-03-06,08:00,1.7,Operativa,Espera de insumos (reactivos/bolas de molienda),868.0
+PAR-01458,EQ-09,2024-03-10,14:00,4.6,Correctiva,Falla de lubricación,6843.0
+PAR-01459,EQ-09,2024-03-14,02:00,1.2,Operativa,Corte de energía externo,383.0
+PAR-01460,EQ-09,2024-03-22,02:00,7.1,Preventiva,Mantenimiento programado (plan anual),14230.0
+PAR-01461,EQ-09,2024-03-22,19:00,2.9,Correctiva,Atoro de mineral / obstrucción,3503.0
+PAR-01462,EQ-09,2024-04-01,10:00,0.6,Correctiva,Falla eléctrica - motor/tablero,1317.0
+PAR-01463,EQ-09,2024-04-11,08:00,8.8,Preventiva,Mantenimiento programado (plan anual),15044.0
+PAR-01464,EQ-09,2024-04-25,05:00,5.4,Preventiva,Mantenimiento programado (plan anual),6588.0
+PAR-01465,EQ-09,2024-04-25,01:00,9.2,Correctiva,Rotura de faja/correa,17165.0
+PAR-01466,EQ-09,2024-05-04,13:00,1.6,Operativa,Espera de insumos (reactivos/bolas de molienda),702.0
+PAR-01467,EQ-09,2024-05-05,14:00,1.7,Correctiva,Falla eléctrica - motor/tablero,3047.0
+PAR-01468,EQ-09,2024-05-12,06:00,15.6,Correctiva,Atoro de mineral / obstrucción,31681.0
+PAR-01469,EQ-09,2024-05-15,13:00,5.3,Preventiva,Mantenimiento programado (plan anual),5665.0
+PAR-01470,EQ-09,2024-05-19,09:00,9.8,Correctiva,Falla mecánica - desgaste de componente,10560.0
+PAR-01471,EQ-09,2024-05-24,10:00,0.6,Operativa,Falta de mineral en cancha,145.0
+PAR-01472,EQ-09,2024-05-30,07:00,4.1,Preventiva,Mantenimiento programado (plan anual),5314.0
+PAR-01473,EQ-09,2024-06-01,17:00,1.5,Correctiva,Falla eléctrica - motor/tablero,1890.0
+PAR-01474,EQ-09,2024-06-06,01:00,2.7,Correctiva,Falla mecánica - desgaste de componente,4091.0
+PAR-01475,EQ-09,2024-06-15,16:00,0.9,Operativa,Espera de insumos (reactivos/bolas de molienda),219.0
+PAR-01476,EQ-09,2024-06-16,14:00,8.6,Preventiva,Mantenimiento programado (plan anual),12213.0
+PAR-01477,EQ-09,2024-06-16,07:00,3.6,Correctiva,Rotura de faja/correa,5124.0
+PAR-01478,EQ-09,2024-06-18,01:00,2.9,Operativa,Corte de energía externo,1565.0
+PAR-01479,EQ-09,2024-06-26,00:00,18.7,Correctiva,Atoro de mineral / obstrucción,31126.0
+PAR-01480,EQ-09,2024-07-07,17:00,4.9,Preventiva,Mantenimiento programado (plan anual),10220.0
+PAR-01481,EQ-09,2024-07-18,17:00,5.2,Correctiva,Falla eléctrica - motor/tablero,8735.0
+PAR-01482,EQ-09,2024-07-23,07:00,0.6,Operativa,Corte de energía externo,301.0
+PAR-01483,EQ-09,2024-07-24,02:00,5.9,Preventiva,Mantenimiento programado (plan anual),11490.0
+PAR-01484,EQ-09,2024-07-26,19:00,3.4,Correctiva,Falla mecánica - desgaste de componente,4288.0
+PAR-01485,EQ-09,2024-07-28,18:00,0.5,Operativa,Corte de energía externo,295.0
+PAR-01486,EQ-09,2024-08-12,20:00,0.9,Operativa,Condiciones climáticas adversas,200.0
+PAR-01487,EQ-09,2024-08-14,17:00,5.9,Preventiva,Mantenimiento programado (plan anual),7581.0
+PAR-01488,EQ-09,2024-08-21,03:00,1.6,Correctiva,Rotura de faja/correa,2935.0
+PAR-01489,EQ-09,2024-08-22,10:00,12.7,Correctiva,Falla mecánica - desgaste de componente,14814.0
+PAR-01490,EQ-09,2024-08-24,02:00,3.8,Correctiva,Falla mecánica - desgaste de componente,7158.0
+PAR-01491,EQ-09,2024-08-30,05:00,2.1,Operativa,Corte de energía externo,502.0
+PAR-01492,EQ-09,2024-09-05,08:00,4.9,Preventiva,Mantenimiento programado (plan anual),5482.0
+PAR-01493,EQ-09,2024-09-06,01:00,19.3,Correctiva,Falla mecánica - desgaste de componente,27121.0
+PAR-01494,EQ-09,2024-09-21,12:00,7.0,Preventiva,Mantenimiento programado (plan anual),5656.0
+PAR-01495,EQ-09,2024-09-22,18:00,2.6,Operativa,Falta de mineral en cancha,1035.0
+PAR-01496,EQ-09,2024-09-24,15:00,4.8,Correctiva,Falla eléctrica - motor/tablero,4892.0
+PAR-01497,EQ-09,2024-09-28,11:00,2.3,Operativa,Condiciones climáticas adversas,1365.0
+PAR-01498,EQ-09,2024-10-12,03:00,8.2,Preventiva,Mantenimiento programado (plan anual),8707.0
+PAR-01499,EQ-09,2024-10-22,13:00,5.7,Correctiva,Falla eléctrica - motor/tablero,5539.0
+PAR-01500,EQ-09,2024-11-04,06:00,4.3,Preventiva,Mantenimiento programado (plan anual),3639.0
+PAR-01501,EQ-09,2024-11-25,01:00,5.1,Preventiva,Mantenimiento programado (plan anual),8431.0
+PAR-01502,EQ-09,2024-11-25,12:00,3.8,Correctiva,Rotura de faja/correa,5363.0
+PAR-01503,EQ-09,2024-11-28,13:00,3.3,Correctiva,Falla mecánica - desgaste de componente,5610.0
+PAR-01504,EQ-09,2024-12-04,12:00,2.7,Correctiva,Falla eléctrica - motor/tablero,4618.0
+PAR-01505,EQ-09,2024-12-06,10:00,10.0,Correctiva,Falla de lubricación,18049.0
+PAR-01506,EQ-09,2024-12-08,22:00,1.0,Correctiva,Falla eléctrica - motor/tablero,876.0
+PAR-01507,EQ-09,2024-12-10,18:00,5.0,Preventiva,Mantenimiento programado (plan anual),6026.0
+PAR-01508,EQ-09,2024-12-15,07:00,5.1,Correctiva,Falla eléctrica - motor/tablero,10379.0
+PAR-01509,EQ-09,2024-12-24,13:00,0.8,Operativa,Condiciones climáticas adversas,408.0
+PAR-01510,EQ-09,2024-12-25,16:00,1.5,Correctiva,Falla eléctrica - motor/tablero,1521.0
+PAR-01511,EQ-09,2024-12-28,04:00,7.1,Preventiva,Mantenimiento programado (plan anual),10834.0
+PAR-01512,EQ-09,2025-01-04,16:00,2.6,Operativa,Espera de insumos (reactivos/bolas de molienda),1466.0
+PAR-01513,EQ-09,2025-01-12,01:00,7.4,Correctiva,Falla eléctrica - motor/tablero,15198.0
+PAR-01514,EQ-09,2025-01-17,09:00,5.2,Preventiva,Mantenimiento programado (plan anual),8880.0
+PAR-01515,EQ-09,2025-01-28,18:00,1.5,Operativa,Condiciones climáticas adversas,815.0
+PAR-01516,EQ-09,2025-01-30,04:00,3.6,Correctiva,Falla de lubricación,7371.0
+PAR-01517,EQ-09,2025-01-31,01:00,6.9,Correctiva,Rotura de faja/correa,10765.0
+PAR-01518,EQ-09,2025-02-03,20:00,0.5,Correctiva,Falla eléctrica - motor/tablero,930.0
+PAR-01519,EQ-09,2025-02-06,11:00,2.0,Operativa,Condiciones climáticas adversas,924.0
+PAR-01520,EQ-09,2025-02-07,08:00,5.5,Preventiva,Mantenimiento programado (plan anual),7158.0
+PAR-01521,EQ-09,2025-02-16,21:00,1.7,Correctiva,Falla mecánica - desgaste de componente,3178.0
+PAR-01522,EQ-09,2025-02-17,19:00,1.3,Operativa,Falta de mineral en cancha,519.0
+PAR-01523,EQ-09,2025-02-19,07:00,14.9,Correctiva,Falla de lubricación,27668.0
+PAR-01524,EQ-09,2025-02-22,12:00,2.8,Operativa,Falta de mineral en cancha,845.0
+PAR-01525,EQ-09,2025-02-25,10:00,4.5,Preventiva,Mantenimiento programado (plan anual),9273.0
+PAR-01526,EQ-09,2025-03-03,10:00,6.9,Correctiva,Falla eléctrica - motor/tablero,11862.0
+PAR-01527,EQ-09,2025-03-16,14:00,6.4,Preventiva,Mantenimiento programado (plan anual),13447.0
+PAR-01528,EQ-09,2025-03-16,12:00,7.9,Correctiva,Rotura de faja/correa,16225.0
+PAR-01529,EQ-09,2025-03-20,07:00,0.8,Operativa,Falta de mineral en cancha,230.0
+PAR-01530,EQ-09,2025-03-24,04:00,9.3,Correctiva,Falla mecánica - desgaste de componente,13531.0
+PAR-01531,EQ-09,2025-03-26,12:00,1.5,Correctiva,Rotura de faja/correa,2275.0
+PAR-01532,EQ-09,2025-04-07,06:00,4.4,Preventiva,Mantenimiento programado (plan anual),7891.0
+PAR-01533,EQ-09,2025-04-12,17:00,1.5,Correctiva,Falla mecánica - desgaste de componente,2069.0
+PAR-01534,EQ-09,2025-04-21,01:00,1.2,Correctiva,Falla mecánica - desgaste de componente,1358.0
+PAR-01535,EQ-09,2025-04-22,10:00,1.5,Correctiva,Falla eléctrica - motor/tablero,1503.0
+PAR-01536,EQ-09,2025-04-25,15:00,6.1,Preventiva,Mantenimiento programado (plan anual),7357.0
+PAR-01537,EQ-09,2025-05-03,07:00,14.4,Correctiva,Rotura de faja/correa,23642.0
+PAR-01538,EQ-09,2025-05-18,09:00,8.9,Preventiva,Mantenimiento programado (plan anual),17752.0
+PAR-01539,EQ-09,2025-05-18,08:00,0.5,Operativa,Condiciones climáticas adversas,216.0
+PAR-01540,EQ-09,2025-05-24,00:00,12.8,Correctiva,Rotura de faja/correa,10789.0
+PAR-01541,EQ-09,2025-05-27,11:00,10.0,Correctiva,Atoro de mineral / obstrucción,8133.0
+PAR-01542,EQ-09,2025-05-31,04:00,2.4,Correctiva,Atoro de mineral / obstrucción,2015.0
+PAR-01543,EQ-09,2025-06-04,05:00,6.5,Correctiva,Falla de lubricación,11319.0
+PAR-01544,EQ-09,2025-06-06,09:00,3.2,Correctiva,Falla eléctrica - motor/tablero,3365.0
+PAR-01545,EQ-09,2025-06-07,04:00,6.3,Preventiva,Mantenimiento programado (plan anual),10862.0
+PAR-01546,EQ-09,2025-06-21,04:00,11.6,Correctiva,Atoro de mineral / obstrucción,13776.0
+PAR-01547,EQ-09,2025-06-25,08:00,6.5,Preventiva,Mantenimiento programado (plan anual),8340.0
+PAR-01548,EQ-09,2025-06-27,00:00,6.2,Correctiva,Atoro de mineral / obstrucción,11850.0
+PAR-01549,EQ-09,2025-07-15,06:00,6.2,Preventiva,Mantenimiento programado (plan anual),5857.0
+PAR-01550,EQ-09,2025-07-22,13:00,0.5,Correctiva,Falla de lubricación,440.0
+PAR-01551,EQ-09,2025-07-28,09:00,8.6,Correctiva,Atoro de mineral / obstrucción,15786.0
+PAR-01552,EQ-09,2025-07-30,12:00,2.4,Operativa,Condiciones climáticas adversas,1067.0
+PAR-01553,EQ-09,2025-08-01,04:00,8.2,Preventiva,Mantenimiento programado (plan anual),17393.0
+PAR-01554,EQ-09,2025-08-09,17:00,2.3,Operativa,Falta de mineral en cancha,596.0
+PAR-01555,EQ-09,2025-08-13,12:00,0.5,Correctiva,Falla de lubricación,1026.0
+PAR-01556,EQ-09,2025-08-17,12:00,8.3,Preventiva,Mantenimiento programado (plan anual),13579.0
+PAR-01557,EQ-09,2025-08-25,13:00,2.7,Correctiva,Falla de lubricación,3128.0
+PAR-01558,EQ-09,2025-08-30,15:00,1.3,Operativa,Condiciones climáticas adversas,495.0
+PAR-01559,EQ-09,2025-09-01,12:00,6.4,Correctiva,Falla mecánica - desgaste de componente,5396.0
+PAR-01560,EQ-09,2025-09-02,17:00,2.9,Operativa,Falta de mineral en cancha,1020.0
+PAR-01561,EQ-09,2025-09-02,13:00,4.8,Correctiva,Atoro de mineral / obstrucción,9278.0
+PAR-01562,EQ-09,2025-09-04,07:00,9.5,Correctiva,Falla de lubricación,9707.0
+PAR-01563,EQ-09,2025-09-05,11:00,8.5,Preventiva,Mantenimiento programado (plan anual),12273.0
+PAR-01564,EQ-09,2025-09-08,11:00,1.8,Operativa,Falta de mineral en cancha,942.0
+PAR-01565,EQ-09,2025-09-13,20:00,2.8,Operativa,Espera de insumos (reactivos/bolas de molienda),840.0
+PAR-01566,EQ-09,2025-09-23,01:00,7.7,Preventiva,Mantenimiento programado (plan anual),8453.0
+PAR-01567,EQ-09,2025-09-28,11:00,12.0,Correctiva,Rotura de faja/correa,25818.0
+PAR-01568,EQ-09,2025-09-30,22:00,0.5,Correctiva,Falla mecánica - desgaste de componente,851.0
+PAR-01569,EQ-09,2025-10-04,05:00,1.0,Operativa,Condiciones climáticas adversas,201.0
+PAR-01570,EQ-09,2025-10-09,02:00,4.4,Preventiva,Mantenimiento programado (plan anual),3755.0
+PAR-01571,EQ-09,2025-10-09,06:00,1.2,Operativa,Espera de insumos (reactivos/bolas de molienda),420.0
+PAR-01572,EQ-09,2025-10-17,01:00,7.7,Correctiva,Falla mecánica - desgaste de componente,14612.0
+PAR-01573,EQ-09,2025-10-23,00:00,1.5,Correctiva,Rotura de faja/correa,1748.0
+PAR-01574,EQ-09,2025-10-27,09:00,4.5,Preventiva,Mantenimiento programado (plan anual),7696.0
+PAR-01575,EQ-09,2025-10-27,06:00,2.6,Operativa,Falta de mineral en cancha,1105.0
+PAR-01576,EQ-09,2025-11-01,02:00,4.8,Correctiva,Falla de lubricación,9989.0
+PAR-01577,EQ-09,2025-11-18,12:00,5.5,Preventiva,Mantenimiento programado (plan anual),10822.0
+PAR-01578,EQ-09,2025-11-20,03:00,0.5,Correctiva,Falla mecánica - desgaste de componente,449.0
+PAR-01579,EQ-09,2025-11-30,12:00,4.7,Correctiva,Falla de lubricación,6351.0
+PAR-01580,EQ-09,2025-12-02,09:00,5.3,Correctiva,Rotura de faja/correa,10832.0
+PAR-01581,EQ-09,2025-12-05,08:00,4.2,Preventiva,Mantenimiento programado (plan anual),3995.0
+PAR-01582,EQ-09,2025-12-06,02:00,2.8,Operativa,Condiciones climáticas adversas,1493.0
+PAR-01583,EQ-09,2025-12-08,11:00,0.9,Correctiva,Rotura de faja/correa,861.0
+PAR-01584,EQ-09,2025-12-10,09:00,2.4,Operativa,Corte de energía externo,680.0
+PAR-01585,EQ-09,2025-12-23,12:00,4.0,Preventiva,Mantenimiento programado (plan anual),5221.0
+PAR-01586,EQ-09,2025-12-30,18:00,1.4,Operativa,Condiciones climáticas adversas,365.0
+PAR-01587,EQ-10,2024-01-02,01:00,20.0,Correctiva,Falla de lubricación,17806.0
+PAR-01588,EQ-10,2024-01-07,09:00,2.9,Correctiva,Atoro de mineral / obstrucción,6284.0
+PAR-01589,EQ-10,2024-01-08,00:00,14.5,Correctiva,Falla eléctrica - motor/tablero,11887.0
+PAR-01590,EQ-10,2024-01-09,17:00,1.4,Correctiva,Falla de lubricación,2531.0
+PAR-01591,EQ-10,2024-01-10,02:00,11.1,Correctiva,Atoro de mineral / obstrucción,21860.0
+PAR-01592,EQ-10,2024-01-14,12:00,9.6,Correctiva,Falla de lubricación,17135.0
+PAR-01593,EQ-10,2024-01-18,02:00,20.0,Correctiva,Rotura de faja/correa,35709.0
+PAR-01594,EQ-10,2024-01-20,09:00,6.3,Preventiva,Mantenimiento programado (plan anual),9292.0
+PAR-01595,EQ-10,2024-01-28,19:00,2.1,Operativa,Condiciones climáticas adversas,1118.0
+PAR-01596,EQ-10,2024-01-30,13:00,2.5,Operativa,Condiciones climáticas adversas,1288.0
+PAR-01597,EQ-10,2024-02-03,13:00,9.7,Correctiva,Falla de lubricación,14619.0
+PAR-01598,EQ-10,2024-02-05,03:00,3.0,Correctiva,Falla mecánica - desgaste de componente,4623.0
+PAR-01599,EQ-10,2024-02-06,10:00,0.5,Correctiva,Atoro de mineral / obstrucción,624.0
+PAR-01600,EQ-10,2024-02-12,04:00,4.2,Preventiva,Mantenimiento programado (plan anual),8752.0
+PAR-01601,EQ-10,2024-02-12,02:00,0.7,Correctiva,Falla mecánica - desgaste de componente,663.0
+PAR-01602,EQ-10,2024-02-23,01:00,20.0,Correctiva,Falla de lubricación,18334.0
+PAR-01603,EQ-10,2024-03-01,06:00,1.8,Correctiva,Falla eléctrica - motor/tablero,3842.0
+PAR-01604,EQ-10,2024-03-02,01:00,5.3,Preventiva,Mantenimiento programado (plan anual),10671.0
+PAR-01605,EQ-10,2024-03-05,19:00,1.8,Operativa,Corte de energía externo,721.0
+PAR-01606,EQ-10,2024-03-05,03:00,13.3,Correctiva,Falla eléctrica - motor/tablero,15890.0
+PAR-01607,EQ-10,2024-03-17,02:00,2.5,Operativa,Falta de mineral en cancha,744.0
+PAR-01608,EQ-10,2024-03-21,06:00,5.5,Correctiva,Falla eléctrica - motor/tablero,9137.0
+PAR-01609,EQ-10,2024-03-25,00:00,8.0,Preventiva,Mantenimiento programado (plan anual),14522.0
+PAR-01610,EQ-10,2024-04-03,00:00,0.5,Operativa,Espera de insumos (reactivos/bolas de molienda),260.0
+PAR-01611,EQ-10,2024-04-04,18:00,1.8,Correctiva,Falla mecánica - desgaste de componente,3135.0
+PAR-01612,EQ-10,2024-04-12,11:00,5.6,Preventiva,Mantenimiento programado (plan anual),4676.0
+PAR-01613,EQ-10,2024-04-18,12:00,2.8,Correctiva,Falla de lubricación,6086.0
+PAR-01614,EQ-10,2024-04-21,00:00,12.2,Correctiva,Falla de lubricación,17973.0
+PAR-01615,EQ-10,2024-04-22,07:00,2.3,Operativa,Corte de energía externo,1180.0
+PAR-01616,EQ-10,2024-04-28,07:00,9.7,Correctiva,Falla eléctrica - motor/tablero,10712.0
+PAR-01617,EQ-10,2024-05-04,17:00,5.7,Preventiva,Mantenimiento programado (plan anual),11268.0
+PAR-01618,EQ-10,2024-05-04,12:00,4.8,Correctiva,Falla de lubricación,9660.0
+PAR-01619,EQ-10,2024-05-05,01:00,19.2,Correctiva,Rotura de faja/correa,16011.0
+PAR-01620,EQ-10,2024-05-11,10:00,2.7,Operativa,Corte de energía externo,1283.0
+PAR-01621,EQ-10,2024-05-11,20:00,2.0,Correctiva,Falla de lubricación,3136.0
+PAR-01622,EQ-10,2024-05-23,10:00,5.9,Preventiva,Mantenimiento programado (plan anual),5143.0
+PAR-01623,EQ-10,2024-06-01,12:00,3.0,Operativa,Falta de mineral en cancha,1046.0
+PAR-01624,EQ-10,2024-06-01,11:00,1.6,Correctiva,Rotura de faja/correa,2853.0
+PAR-01625,EQ-10,2024-06-02,01:00,6.6,Correctiva,Falla eléctrica - motor/tablero,11452.0
+PAR-01626,EQ-10,2024-06-05,00:00,1.7,Operativa,Falta de mineral en cancha,1013.0
+PAR-01627,EQ-10,2024-06-05,08:00,0.5,Correctiva,Falla eléctrica - motor/tablero,938.0
+PAR-01628,EQ-10,2024-06-13,11:00,7.0,Preventiva,Mantenimiento programado (plan anual),7361.0
+PAR-01629,EQ-10,2024-06-13,02:00,1.8,Operativa,Falta de mineral en cancha,878.0
+PAR-01630,EQ-10,2024-06-14,12:00,9.2,Correctiva,Falla eléctrica - motor/tablero,13712.0
+PAR-01631,EQ-10,2024-06-25,08:00,1.0,Correctiva,Atoro de mineral / obstrucción,943.0
+PAR-01632,EQ-10,2024-06-26,00:00,20.0,Correctiva,Rotura de faja/correa,36303.0
+PAR-01633,EQ-10,2024-06-27,01:00,7.1,Preventiva,Mantenimiento programado (plan anual),6926.0
+PAR-01634,EQ-10,2024-07-03,12:00,2.5,Correctiva,Rotura de faja/correa,2537.0
+PAR-01635,EQ-10,2024-07-07,05:00,3.1,Correctiva,Falla mecánica - desgaste de componente,5158.0
+PAR-01636,EQ-10,2024-07-09,09:00,12.4,Correctiva,Falla mecánica - desgaste de componente,19497.0
+PAR-01637,EQ-10,2024-07-12,03:00,1.7,Operativa,Condiciones climáticas adversas,364.0
+PAR-01638,EQ-10,2024-07-19,14:00,1.4,Operativa,Condiciones climáticas adversas,346.0
+PAR-01639,EQ-10,2024-07-20,12:00,8.5,Preventiva,Mantenimiento programado (plan anual),16116.0
+PAR-01640,EQ-10,2024-07-27,03:00,19.4,Correctiva,Falla eléctrica - motor/tablero,32398.0
+PAR-01641,EQ-10,2024-08-01,17:00,1.5,Operativa,Corte de energía externo,593.0
+PAR-01642,EQ-10,2024-08-06,07:00,8.0,Preventiva,Mantenimiento programado (plan anual),12295.0
+PAR-01643,EQ-10,2024-08-12,04:00,0.6,Operativa,Condiciones climáticas adversas,168.0
+PAR-01644,EQ-10,2024-08-13,11:00,1.2,Operativa,Falta de mineral en cancha,702.0
+PAR-01645,EQ-10,2024-08-16,10:00,3.2,Correctiva,Atoro de mineral / obstrucción,6121.0
+PAR-01646,EQ-10,2024-08-18,03:00,2.8,Operativa,Falta de mineral en cancha,1381.0
+PAR-01647,EQ-10,2024-08-29,09:00,4.9,Preventiva,Mantenimiento programado (plan anual),7604.0
+PAR-01648,EQ-10,2024-08-30,00:00,4.6,Correctiva,Falla mecánica - desgaste de componente,6346.0
+PAR-01649,EQ-10,2024-09-03,04:00,2.7,Operativa,Condiciones climáticas adversas,1378.0
+PAR-01650,EQ-10,2024-09-10,02:00,19.7,Correctiva,Atoro de mineral / obstrucción,35089.0
+PAR-01651,EQ-10,2024-09-11,16:00,1.1,Operativa,Espera de insumos (reactivos/bolas de molienda),280.0
+PAR-01652,EQ-10,2024-09-15,01:00,19.3,Correctiva,Falla eléctrica - motor/tablero,28143.0
+PAR-01653,EQ-10,2024-09-21,03:00,8.8,Preventiva,Mantenimiento programado (plan anual),9986.0
+PAR-01654,EQ-10,2024-10-13,12:00,8.3,Preventiva,Mantenimiento programado (plan anual),17900.0
+PAR-01655,EQ-10,2024-10-23,07:00,5.5,Correctiva,Falla eléctrica - motor/tablero,6619.0
+PAR-01656,EQ-10,2024-10-26,05:00,12.9,Correctiva,Atoro de mineral / obstrucción,13511.0
+PAR-01657,EQ-10,2024-10-28,01:00,5.7,Preventiva,Mantenimiento programado (plan anual),5779.0
+PAR-01658,EQ-10,2024-10-30,05:00,13.1,Correctiva,Falla mecánica - desgaste de componente,18587.0
+PAR-01659,EQ-10,2024-11-02,10:00,1.1,Operativa,Condiciones climáticas adversas,460.0
+PAR-01660,EQ-10,2024-11-05,08:00,3.9,Correctiva,Falla mecánica - desgaste de componente,4470.0
+PAR-01661,EQ-10,2024-11-09,06:00,2.2,Correctiva,Rotura de faja/correa,2167.0
+PAR-01662,EQ-10,2024-11-12,12:00,9.1,Correctiva,Falla mecánica - desgaste de componente,11782.0
+PAR-01663,EQ-10,2024-11-14,04:00,16.5,Correctiva,Rotura de faja/correa,30562.0
+PAR-01664,EQ-10,2024-11-18,10:00,6.7,Preventiva,Mantenimiento programado (plan anual),13981.0
+PAR-01665,EQ-10,2024-11-20,01:00,3.6,Correctiva,Rotura de faja/correa,3432.0
+PAR-01666,EQ-10,2024-11-21,02:00,20.0,Correctiva,Falla eléctrica - motor/tablero,26685.0
+PAR-01667,EQ-10,2024-11-23,08:00,11.0,Correctiva,Falla de lubricación,10218.0
+PAR-01668,EQ-10,2024-11-25,04:00,1.6,Correctiva,Rotura de faja/correa,1326.0
+PAR-01669,EQ-10,2024-11-28,18:00,3.5,Correctiva,Rotura de faja/correa,3831.0
+PAR-01670,EQ-10,2024-12-02,05:00,8.1,Preventiva,Mantenimiento programado (plan anual),16735.0
+PAR-01671,EQ-10,2024-12-08,03:00,17.4,Correctiva,Falla mecánica - desgaste de componente,25516.0
+PAR-01672,EQ-10,2024-12-16,14:00,8.3,Preventiva,Mantenimiento programado (plan anual),9773.0
+PAR-01673,EQ-10,2024-12-21,11:00,0.5,Correctiva,Rotura de faja/correa,564.0
+PAR-01674,EQ-10,2024-12-26,04:00,4.1,Correctiva,Atoro de mineral / obstrucción,3447.0
+PAR-01675,EQ-10,2024-12-30,12:00,6.1,Preventiva,Mantenimiento programado (plan anual),4899.0
+PAR-01676,EQ-10,2025-01-02,08:00,2.6,Correctiva,Falla mecánica - desgaste de componente,4460.0
+PAR-01677,EQ-10,2025-01-03,14:00,4.2,Correctiva,Falla de lubricación,7121.0
+PAR-01678,EQ-10,2025-01-13,01:00,6.1,Correctiva,Atoro de mineral / obstrucción,10614.0
+PAR-01679,EQ-10,2025-01-15,12:00,6.5,Preventiva,Mantenimiento programado (plan anual),5954.0
+PAR-01680,EQ-10,2025-01-15,13:00,2.3,Operativa,Corte de energía externo,1148.0
+PAR-01681,EQ-10,2025-01-18,10:00,5.8,Correctiva,Rotura de faja/correa,11896.0
+PAR-01682,EQ-10,2025-01-22,08:00,0.9,Operativa,Espera de insumos (reactivos/bolas de molienda),387.0
+PAR-01683,EQ-10,2025-01-26,15:00,6.6,Correctiva,Atoro de mineral / obstrucción,5616.0
+PAR-01684,EQ-10,2025-01-29,19:00,1.7,Operativa,Falta de mineral en cancha,798.0
+PAR-01685,EQ-10,2025-01-30,14:00,1.9,Correctiva,Atoro de mineral / obstrucción,2113.0
+PAR-01686,EQ-10,2025-02-01,16:00,5.4,Preventiva,Mantenimiento programado (plan anual),11741.0
+PAR-01687,EQ-10,2025-02-04,10:00,10.6,Correctiva,Atoro de mineral / obstrucción,18839.0
+PAR-01688,EQ-10,2025-02-06,19:00,0.5,Correctiva,Rotura de faja/correa,606.0
+PAR-01689,EQ-10,2025-02-11,12:00,1.7,Operativa,Espera de insumos (reactivos/bolas de molienda),343.0
+PAR-01690,EQ-10,2025-02-17,17:00,5.1,Preventiva,Mantenimiento programado (plan anual),6915.0
+PAR-01691,EQ-10,2025-02-17,02:00,0.7,Operativa,Condiciones climáticas adversas,260.0
+PAR-01692,EQ-10,2025-02-19,05:00,1.5,Operativa,Espera de insumos (reactivos/bolas de molienda),535.0
+PAR-01693,EQ-10,2025-02-19,08:00,5.5,Correctiva,Falla mecánica - desgaste de componente,12019.0
+PAR-01694,EQ-10,2025-02-26,12:00,1.0,Correctiva,Falla mecánica - desgaste de componente,1373.0
+PAR-01695,EQ-10,2025-03-10,16:00,4.5,Preventiva,Mantenimiento programado (plan anual),9492.0
+PAR-01696,EQ-10,2025-03-13,18:00,4.8,Correctiva,Atoro de mineral / obstrucción,6885.0
+PAR-01697,EQ-10,2025-03-17,08:00,6.3,Correctiva,Atoro de mineral / obstrucción,6963.0
+PAR-01698,EQ-10,2025-03-29,02:00,2.2,Correctiva,Falla de lubricación,4254.0
+PAR-01699,EQ-10,2025-03-31,11:00,6.3,Preventiva,Mantenimiento programado (plan anual),11401.0
+PAR-01700,EQ-10,2025-03-31,02:00,20.0,Correctiva,Falla mecánica - desgaste de componente,27577.0
+PAR-01701,EQ-10,2025-04-02,14:00,2.1,Operativa,Corte de energía externo,708.0
+PAR-01702,EQ-10,2025-04-09,14:00,1.2,Correctiva,Falla eléctrica - motor/tablero,1169.0
+PAR-01703,EQ-10,2025-04-14,13:00,4.1,Correctiva,Rotura de faja/correa,6764.0
+PAR-01704,EQ-10,2025-04-17,15:00,5.9,Preventiva,Mantenimiento programado (plan anual),11897.0
+PAR-01705,EQ-10,2025-05-02,10:00,7.2,Preventiva,Mantenimiento programado (plan anual),14909.0
+PAR-01706,EQ-10,2025-05-03,00:00,14.2,Correctiva,Falla de lubricación,27610.0
+PAR-01707,EQ-10,2025-05-05,00:00,2.6,Operativa,Condiciones climáticas adversas,1287.0
+PAR-01708,EQ-10,2025-05-11,12:00,2.4,Correctiva,Falla de lubricación,4295.0
+PAR-01709,EQ-10,2025-05-14,05:00,1.7,Correctiva,Falla eléctrica - motor/tablero,1919.0
+PAR-01710,EQ-10,2025-05-23,00:00,8.8,Preventiva,Mantenimiento programado (plan anual),8531.0
+PAR-01711,EQ-10,2025-06-05,17:00,2.6,Correctiva,Falla mecánica - desgaste de componente,2747.0
+PAR-01712,EQ-10,2025-06-07,04:00,2.4,Operativa,Corte de energía externo,885.0
+PAR-01713,EQ-10,2025-06-07,07:00,8.2,Correctiva,Falla mecánica - desgaste de componente,12961.0
+PAR-01714,EQ-10,2025-06-08,10:00,5.4,Preventiva,Mantenimiento programado (plan anual),4773.0
+PAR-01715,EQ-10,2025-06-08,09:00,2.0,Operativa,Corte de energía externo,954.0
+PAR-01716,EQ-10,2025-06-19,00:00,2.6,Operativa,Condiciones climáticas adversas,1435.0
+PAR-01717,EQ-10,2025-06-20,04:00,1.4,Operativa,Corte de energía externo,777.0
+PAR-01718,EQ-10,2025-06-30,02:00,6.5,Preventiva,Mantenimiento programado (plan anual),7635.0
+PAR-01719,EQ-10,2025-07-03,16:00,3.3,Correctiva,Atoro de mineral / obstrucción,5442.0
+PAR-01720,EQ-10,2025-07-04,14:00,1.5,Operativa,Corte de energía externo,302.0
+PAR-01721,EQ-10,2025-07-04,17:00,0.5,Correctiva,Falla de lubricación,559.0
+PAR-01722,EQ-10,2025-07-07,11:00,6.4,Correctiva,Rotura de faja/correa,11356.0
+PAR-01723,EQ-10,2025-07-13,05:00,11.2,Correctiva,Falla eléctrica - motor/tablero,18641.0
+PAR-01724,EQ-10,2025-07-18,13:00,2.4,Correctiva,Falla mecánica - desgaste de componente,4277.0
+PAR-01725,EQ-10,2025-07-19,09:00,7.5,Preventiva,Mantenimiento programado (plan anual),8709.0
+PAR-01726,EQ-10,2025-07-24,00:00,4.2,Correctiva,Falla mecánica - desgaste de componente,5567.0
+PAR-01727,EQ-10,2025-07-27,16:00,4.5,Correctiva,Falla de lubricación,4150.0
+PAR-01728,EQ-10,2025-07-31,00:00,0.9,Operativa,Falta de mineral en cancha,314.0
+PAR-01729,EQ-10,2025-07-31,09:00,5.0,Correctiva,Falla mecánica - desgaste de componente,6788.0
+PAR-01730,EQ-10,2025-08-03,05:00,0.9,Operativa,Corte de energía externo,456.0
+PAR-01731,EQ-10,2025-08-04,03:00,7.1,Preventiva,Mantenimiento programado (plan anual),10786.0
+PAR-01732,EQ-10,2025-08-04,09:00,13.4,Correctiva,Atoro de mineral / obstrucción,19795.0
+PAR-01733,EQ-10,2025-08-05,20:00,1.5,Operativa,Falta de mineral en cancha,589.0
+PAR-01734,EQ-10,2025-08-05,17:00,1.3,Correctiva,Rotura de faja/correa,2050.0
+PAR-01735,EQ-10,2025-08-11,02:00,14.6,Correctiva,Rotura de faja/correa,31890.0
+PAR-01736,EQ-10,2025-08-17,02:00,6.8,Correctiva,Falla de lubricación,14839.0
+PAR-01737,EQ-10,2025-08-21,00:00,17.6,Correctiva,Rotura de faja/correa,18940.0
+PAR-01738,EQ-10,2025-08-25,05:00,4.6,Preventiva,Mantenimiento programado (plan anual),5288.0
+PAR-01739,EQ-10,2025-09-04,01:00,2.7,Correctiva,Falla eléctrica - motor/tablero,3404.0
+PAR-01740,EQ-10,2025-09-05,05:00,4.0,Correctiva,Atoro de mineral / obstrucción,7983.0
+PAR-01741,EQ-10,2025-09-10,04:00,1.2,Operativa,Corte de energía externo,520.0
+PAR-01742,EQ-10,2025-09-12,18:00,0.5,Correctiva,Falla mecánica - desgaste de componente,706.0
+PAR-01743,EQ-10,2025-09-13,04:00,6.5,Preventiva,Mantenimiento programado (plan anual),13000.0
+PAR-01744,EQ-10,2025-09-22,03:00,2.4,Correctiva,Falla de lubricación,2698.0
+PAR-01745,EQ-10,2025-09-27,05:00,4.8,Preventiva,Mantenimiento programado (plan anual),8316.0
+PAR-01746,EQ-10,2025-10-03,02:00,0.5,Correctiva,Falla mecánica - desgaste de componente,593.0
+PAR-01747,EQ-10,2025-10-14,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,22461.0
+PAR-01748,EQ-10,2025-10-17,14:00,6.3,Preventiva,Mantenimiento programado (plan anual),13539.0
+PAR-01749,EQ-10,2025-10-17,00:00,20.0,Correctiva,Atoro de mineral / obstrucción,32816.0
+PAR-01750,EQ-10,2025-10-19,10:00,9.3,Correctiva,Atoro de mineral / obstrucción,9252.0
+PAR-01751,EQ-10,2025-11-01,05:00,4.8,Correctiva,Falla eléctrica - motor/tablero,4994.0
+PAR-01752,EQ-10,2025-11-02,03:00,6.4,Preventiva,Mantenimiento programado (plan anual),7445.0
+PAR-01753,EQ-10,2025-11-03,00:00,0.8,Operativa,Falta de mineral en cancha,439.0
+PAR-01754,EQ-10,2025-11-03,13:00,5.7,Correctiva,Atoro de mineral / obstrucción,5565.0
+PAR-01755,EQ-10,2025-11-08,03:00,6.1,Correctiva,Atoro de mineral / obstrucción,11552.0
+PAR-01756,EQ-10,2025-11-11,03:00,1.3,Operativa,Corte de energía externo,463.0
+PAR-01757,EQ-10,2025-11-12,13:00,8.6,Correctiva,Atoro de mineral / obstrucción,9198.0
+PAR-01758,EQ-10,2025-11-16,07:00,1.2,Operativa,Falta de mineral en cancha,292.0
+PAR-01759,EQ-10,2025-11-17,09:00,2.4,Operativa,Condiciones climáticas adversas,747.0
+PAR-01760,EQ-10,2025-11-21,09:00,5.9,Preventiva,Mantenimiento programado (plan anual),4969.0
+PAR-01761,EQ-10,2025-11-27,03:00,20.0,Correctiva,Falla eléctrica - motor/tablero,37135.0
+PAR-01762,EQ-10,2025-12-02,18:00,2.3,Operativa,Falta de mineral en cancha,651.0
+PAR-01763,EQ-10,2025-12-03,03:00,0.8,Operativa,Espera de insumos (reactivos/bolas de molienda),165.0
+PAR-01764,EQ-10,2025-12-03,16:00,0.5,Correctiva,Falla mecánica - desgaste de componente,847.0
+PAR-01765,EQ-10,2025-12-08,13:00,6.7,Preventiva,Mantenimiento programado (plan anual),12692.0
+PAR-01766,EQ-10,2025-12-13,16:00,2.2,Correctiva,Atoro de mineral / obstrucción,4125.0
+PAR-01767,EQ-10,2025-12-15,15:00,4.1,Correctiva,Rotura de faja/correa,4703.0
+PAR-01768,EQ-10,2025-12-21,12:00,1.2,Operativa,Espera de insumos (reactivos/bolas de molienda),348.0
+PAR-01769,EQ-10,2025-12-25,18:00,1.7,Correctiva,Rotura de faja/correa,3551.0
+PAR-01770,EQ-10,2025-12-26,04:00,5.1,Preventiva,Mantenimiento programado (plan anual),6683.0
+PAR-01771,EQ-10,2025-12-28,01:00,2.1,Operativa,Espera de insumos (reactivos/bolas de molienda),1220.0
+PAR-01772,EQ-10,2025-12-28,18:00,3.0,Correctiva,Atoro de mineral / obstrucción,3114.0
+PAR-01773,EQ-10,2025-12-31,11:00,3.1,Correctiva,Rotura de faja/correa,4251.0

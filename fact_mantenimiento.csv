@@ -1,0 +1,1329 @@
+﻿orden_id,parada_id,equipo_id,fecha_apertura,tipo_orden,horas_hombre,num_tecnicos,repuesto_principal,costo_repuestos_soles
+OT-00001,PAR-00001,EQ-01,2024-01-18,Correctiva,26.7,1,Revestimiento (liner),4522.0
+OT-00002,PAR-00002,EQ-01,2024-01-20,Preventiva,10.1,1,Rodamiento,146.0
+OT-00003,PAR-00003,EQ-01,2024-01-23,Correctiva,1.0,3,Ninguno (solo mano de obra),1218.0
+OT-00004,PAR-00004,EQ-01,2024-01-25,Correctiva,5.7,3,Motor eléctrico,7753.0
+OT-00005,PAR-00005,EQ-01,2024-01-28,Correctiva,2.1,3,Revestimiento (liner),5018.0
+OT-00006,PAR-00006,EQ-01,2024-01-31,Correctiva,2.6,3,Revestimiento (liner),182.0
+OT-00007,PAR-00007,EQ-01,2024-02-01,Correctiva,6.8,2,Motor eléctrico,2136.0
+OT-00008,PAR-00009,EQ-01,2024-02-07,Preventiva,7.2,3,Ninguno (solo mano de obra),2340.0
+OT-00009,PAR-00010,EQ-01,2024-02-12,Correctiva,1.0,1,Ninguno (solo mano de obra),1434.0
+OT-00010,PAR-00012,EQ-01,2024-02-23,Correctiva,2.3,3,Sello mecánico,6375.0
+OT-00011,PAR-00013,EQ-01,2024-02-26,Preventiva,5.8,2,Ninguno (solo mano de obra),2041.0
+OT-00012,PAR-00015,EQ-01,2024-03-05,Correctiva,4.9,1,Ninguno (solo mano de obra),6668.0
+OT-00013,PAR-00017,EQ-01,2024-03-07,Correctiva,16.5,2,Sensor/instrumento,3081.0
+OT-00014,PAR-00018,EQ-01,2024-03-19,Preventiva,8.8,3,Sensor/instrumento,238.0
+OT-00015,PAR-00019,EQ-01,2024-03-20,Correctiva,9.5,2,Motor eléctrico,4797.0
+OT-00016,PAR-00020,EQ-01,2024-03-23,Correctiva,19.1,1,Sello mecánico,1182.0
+OT-00017,PAR-00021,EQ-01,2024-03-24,Correctiva,22.7,3,Rodamiento,7893.0
+OT-00018,PAR-00022,EQ-01,2024-03-29,Correctiva,4.1,1,Revestimiento (liner),6695.0
+OT-00019,PAR-00023,EQ-01,2024-03-30,Correctiva,20.2,1,Sensor/instrumento,7285.0
+OT-00020,PAR-00024,EQ-01,2024-03-31,Correctiva,0.9,3,Faja/correa,6408.0
+OT-00021,PAR-00025,EQ-01,2024-04-01,Correctiva,24.7,1,Motor eléctrico,6809.0
+OT-00022,PAR-00027,EQ-01,2024-04-06,Preventiva,13.9,2,Motor eléctrico,1445.0
+OT-00023,PAR-00028,EQ-01,2024-04-18,Correctiva,12.0,2,Faja/correa,6699.0
+OT-00024,PAR-00029,EQ-01,2024-04-20,Preventiva,6.7,2,Sensor/instrumento,2141.0
+OT-00025,PAR-00031,EQ-01,2024-05-05,Correctiva,5.6,2,Motor eléctrico,6816.0
+OT-00026,PAR-00032,EQ-01,2024-05-06,Correctiva,17.7,2,Rodamiento,7339.0
+OT-00027,PAR-00033,EQ-01,2024-05-07,Preventiva,8.3,1,Sello mecánico,1496.0
+OT-00028,PAR-00035,EQ-01,2024-05-16,Correctiva,19.1,2,Motor eléctrico,296.0
+OT-00029,PAR-00037,EQ-01,2024-05-20,Correctiva,2.4,2,Faja/correa,6822.0
+OT-00030,PAR-00038,EQ-01,2024-05-21,Correctiva,19.0,1,Revestimiento (liner),2735.0
+OT-00031,PAR-00039,EQ-01,2024-05-24,Preventiva,8.3,2,Sello mecánico,913.0
+OT-00032,PAR-00040,EQ-01,2024-05-26,Correctiva,17.9,3,Sello mecánico,1881.0
+OT-00033,PAR-00041,EQ-01,2024-05-29,Correctiva,2.0,2,Revestimiento (liner),3810.0
+OT-00034,PAR-00042,EQ-01,2024-06-01,Correctiva,16.7,3,Rodamiento,524.0
+OT-00035,PAR-00045,EQ-01,2024-06-06,Correctiva,7.6,1,Ninguno (solo mano de obra),1826.0
+OT-00036,PAR-00046,EQ-01,2024-06-07,Preventiva,4.8,3,Sello mecánico,2297.0
+OT-00037,PAR-00049,EQ-01,2024-06-20,Correctiva,0.8,3,Revestimiento (liner),7043.0
+OT-00038,PAR-00051,EQ-01,2024-06-27,Preventiva,5.3,2,Sensor/instrumento,988.0
+OT-00039,PAR-00052,EQ-01,2024-07-01,Correctiva,13.7,2,Revestimiento (liner),6385.0
+OT-00040,PAR-00054,EQ-01,2024-07-17,Correctiva,1.7,3,Motor eléctrico,2026.0
+OT-00041,PAR-00055,EQ-01,2024-07-19,Preventiva,7.4,3,Revestimiento (liner),302.0
+OT-00042,PAR-00056,EQ-01,2024-07-22,Correctiva,2.6,2,Sello mecánico,7520.0
+OT-00043,PAR-00057,EQ-01,2024-07-28,Correctiva,0.7,2,Motor eléctrico,1498.0
+OT-00044,PAR-00058,EQ-01,2024-07-31,Correctiva,1.0,3,Faja/correa,3504.0
+OT-00045,PAR-00059,EQ-01,2024-08-02,Correctiva,0.8,2,Revestimiento (liner),5809.0
+OT-00046,PAR-00060,EQ-01,2024-08-03,Preventiva,5.9,3,Rodamiento,2115.0
+OT-00047,PAR-00062,EQ-01,2024-08-06,Correctiva,13.2,2,Revestimiento (liner),3520.0
+OT-00048,PAR-00063,EQ-01,2024-08-08,Correctiva,18.3,3,Ninguno (solo mano de obra),1035.0
+OT-00049,PAR-00064,EQ-01,2024-08-09,Correctiva,4.1,1,Sensor/instrumento,4880.0
+OT-00050,PAR-00066,EQ-01,2024-08-16,Correctiva,7.4,2,Revestimiento (liner),2315.0
+OT-00051,PAR-00067,EQ-01,2024-08-20,Preventiva,12.8,1,Sello mecánico,385.0
+OT-00052,PAR-00068,EQ-01,2024-08-29,Correctiva,5.5,3,Ninguno (solo mano de obra),2572.0
+OT-00053,PAR-00069,EQ-01,2024-08-31,Correctiva,0.4,2,Faja/correa,3491.0
+OT-00054,PAR-00070,EQ-01,2024-09-09,Preventiva,6.5,3,Faja/correa,982.0
+OT-00055,PAR-00072,EQ-01,2024-09-22,Correctiva,2.4,1,Rodamiento,6882.0
+OT-00056,PAR-00073,EQ-01,2024-09-23,Preventiva,5.4,1,Sensor/instrumento,2324.0
+OT-00057,PAR-00074,EQ-01,2024-10-05,Correctiva,5.5,2,Sello mecánico,2766.0
+OT-00058,PAR-00075,EQ-01,2024-10-08,Preventiva,10.6,3,Sello mecánico,2310.0
+OT-00059,PAR-00076,EQ-01,2024-10-08,Correctiva,2.7,2,Ninguno (solo mano de obra),4501.0
+OT-00060,PAR-00078,EQ-01,2024-10-21,Correctiva,13.1,2,Ninguno (solo mano de obra),1715.0
+OT-00061,PAR-00079,EQ-01,2024-10-23,Correctiva,29.9,1,Ninguno (solo mano de obra),3432.0
+OT-00062,PAR-00080,EQ-01,2024-10-25,Preventiva,7.5,1,Sello mecánico,2094.0
+OT-00063,PAR-00081,EQ-01,2024-10-27,Correctiva,4.9,2,Sello mecánico,1515.0
+OT-00064,PAR-00083,EQ-01,2024-11-06,Correctiva,1.4,1,Ninguno (solo mano de obra),1561.0
+OT-00065,PAR-00084,EQ-01,2024-11-09,Correctiva,8.7,1,Sensor/instrumento,6166.0
+OT-00066,PAR-00085,EQ-01,2024-11-13,Correctiva,2.1,2,Rodamiento,3824.0
+OT-00067,PAR-00086,EQ-01,2024-11-14,Preventiva,9.3,1,Motor eléctrico,151.0
+OT-00068,PAR-00087,EQ-01,2024-11-14,Correctiva,28.5,3,Ninguno (solo mano de obra),5103.0
+OT-00069,PAR-00088,EQ-01,2024-12-02,Preventiva,8.5,2,Ninguno (solo mano de obra),1908.0
+OT-00070,PAR-00089,EQ-01,2024-12-04,Correctiva,21.0,1,Motor eléctrico,3259.0
+OT-00071,PAR-00090,EQ-01,2024-12-20,Preventiva,5.8,1,Sensor/instrumento,988.0
+OT-00072,PAR-00091,EQ-01,2024-12-28,Correctiva,15.7,1,Rodamiento,3216.0
+OT-00073,PAR-00094,EQ-01,2025-01-07,Preventiva,7.5,3,Sello mecánico,2402.0
+OT-00074,PAR-00095,EQ-01,2025-01-12,Correctiva,8.8,2,Ninguno (solo mano de obra),196.0
+OT-00075,PAR-00096,EQ-01,2025-01-20,Correctiva,15.3,2,Rodamiento,6494.0
+OT-00076,PAR-00097,EQ-01,2025-01-28,Preventiva,9.5,2,Sensor/instrumento,384.0
+OT-00077,PAR-00098,EQ-01,2025-02-04,Correctiva,4.3,2,Ninguno (solo mano de obra),3528.0
+OT-00078,PAR-00099,EQ-01,2025-02-19,Preventiva,8.1,2,Rodamiento,1598.0
+OT-00079,PAR-00100,EQ-01,2025-03-01,Correctiva,0.4,1,Ninguno (solo mano de obra),174.0
+OT-00080,PAR-00101,EQ-01,2025-03-06,Correctiva,1.9,3,Ninguno (solo mano de obra),2877.0
+OT-00081,PAR-00102,EQ-01,2025-03-07,Preventiva,6.6,2,Sensor/instrumento,2026.0
+OT-00082,PAR-00106,EQ-01,2025-03-25,Preventiva,5.4,2,Sello mecánico,1116.0
+OT-00083,PAR-00108,EQ-01,2025-03-31,Correctiva,4.7,2,Sensor/instrumento,4748.0
+OT-00084,PAR-00110,EQ-01,2025-04-03,Correctiva,0.9,3,Ninguno (solo mano de obra),1174.0
+OT-00085,PAR-00111,EQ-01,2025-04-05,Correctiva,2.3,2,Sensor/instrumento,2126.0
+OT-00086,PAR-00112,EQ-01,2025-04-08,Correctiva,4.2,3,Ninguno (solo mano de obra),1492.0
+OT-00087,PAR-00113,EQ-01,2025-04-15,Preventiva,6.1,3,Ninguno (solo mano de obra),1516.0
+OT-00088,PAR-00114,EQ-01,2025-04-18,Correctiva,4.5,1,Sensor/instrumento,2191.0
+OT-00089,PAR-00117,EQ-01,2025-05-01,Correctiva,22.7,1,Motor eléctrico,4021.0
+OT-00090,PAR-00118,EQ-01,2025-05-02,Correctiva,14.1,1,Motor eléctrico,6705.0
+OT-00091,PAR-00119,EQ-01,2025-05-08,Preventiva,5.6,3,Rodamiento,1795.0
+OT-00092,PAR-00120,EQ-01,2025-05-12,Correctiva,9.1,2,Motor eléctrico,2026.0
+OT-00093,PAR-00121,EQ-01,2025-05-17,Correctiva,1.9,1,Revestimiento (liner),5016.0
+OT-00094,PAR-00122,EQ-01,2025-05-22,Correctiva,16.9,1,Rodamiento,6955.0
+OT-00095,PAR-00123,EQ-01,2025-05-24,Correctiva,22.7,3,Rodamiento,2712.0
+OT-00096,PAR-00124,EQ-01,2025-05-25,Correctiva,1.9,1,Faja/correa,4884.0
+OT-00097,PAR-00125,EQ-01,2025-05-26,Correctiva,3.9,1,Sello mecánico,3773.0
+OT-00098,PAR-00126,EQ-01,2025-05-27,Correctiva,6.9,2,Sensor/instrumento,3077.0
+OT-00099,PAR-00127,EQ-01,2025-05-29,Correctiva,17.3,1,Sello mecánico,7888.0
+OT-00100,PAR-00128,EQ-01,2025-05-31,Preventiva,8.8,1,Faja/correa,924.0
+OT-00101,PAR-00130,EQ-01,2025-06-08,Correctiva,23.4,2,Faja/correa,2615.0
+OT-00102,PAR-00133,EQ-01,2025-06-16,Preventiva,6.8,3,Motor eléctrico,744.0
+OT-00103,PAR-00134,EQ-01,2025-06-18,Correctiva,6.3,1,Sensor/instrumento,991.0
+OT-00104,PAR-00135,EQ-01,2025-06-30,Correctiva,18.8,2,Sello mecánico,4738.0
+OT-00105,PAR-00136,EQ-01,2025-07-01,Preventiva,5.9,2,Sensor/instrumento,1808.0
+OT-00106,PAR-00138,EQ-01,2025-07-15,Preventiva,10.3,1,Sensor/instrumento,1565.0
+OT-00107,PAR-00139,EQ-01,2025-07-18,Correctiva,11.0,2,Sello mecánico,4078.0
+OT-00108,PAR-00141,EQ-01,2025-07-31,Preventiva,7.6,2,Faja/correa,1006.0
+OT-00109,PAR-00142,EQ-01,2025-08-03,Correctiva,5.8,3,Motor eléctrico,1153.0
+OT-00110,PAR-00143,EQ-01,2025-08-15,Correctiva,23.5,1,Ninguno (solo mano de obra),5317.0
+OT-00111,PAR-00144,EQ-01,2025-08-19,Preventiva,5.4,2,Motor eléctrico,2238.0
+OT-00112,PAR-00145,EQ-01,2025-08-23,Correctiva,11.9,3,Revestimiento (liner),5913.0
+OT-00113,PAR-00146,EQ-01,2025-08-26,Correctiva,21.4,1,Sensor/instrumento,4262.0
+OT-00114,PAR-00149,EQ-01,2025-09-06,Correctiva,0.7,2,Sensor/instrumento,3976.0
+OT-00115,PAR-00151,EQ-01,2025-09-09,Preventiva,6.3,1,Revestimiento (liner),1113.0
+OT-00116,PAR-00153,EQ-01,2025-09-17,Correctiva,32.0,3,Rodamiento,490.0
+OT-00117,PAR-00155,EQ-01,2025-09-23,Preventiva,6.2,2,Motor eléctrico,555.0
+OT-00118,PAR-00156,EQ-01,2025-09-27,Correctiva,8.3,2,Rodamiento,3012.0
+OT-00119,PAR-00158,EQ-01,2025-10-12,Preventiva,8.2,2,Sello mecánico,948.0
+OT-00120,PAR-00159,EQ-01,2025-10-14,Correctiva,3.0,3,Sensor/instrumento,6835.0
+OT-00121,PAR-00164,EQ-01,2025-10-28,Preventiva,7.1,3,Faja/correa,1775.0
+OT-00122,PAR-00165,EQ-01,2025-11-07,Correctiva,26.1,1,Motor eléctrico,2229.0
+OT-00123,PAR-00166,EQ-01,2025-11-09,Correctiva,2.2,2,Sello mecánico,6877.0
+OT-00124,PAR-00168,EQ-01,2025-11-20,Preventiva,4.8,3,Motor eléctrico,2039.0
+OT-00125,PAR-00169,EQ-01,2025-11-26,Correctiva,6.3,3,Faja/correa,3122.0
+OT-00126,PAR-00170,EQ-01,2025-12-06,Correctiva,6.2,2,Revestimiento (liner),5771.0
+OT-00127,PAR-00171,EQ-01,2025-12-08,Correctiva,6.9,3,Rodamiento,6867.0
+OT-00128,PAR-00172,EQ-01,2025-12-09,Correctiva,0.4,1,Sensor/instrumento,7328.0
+OT-00129,PAR-00173,EQ-01,2025-12-13,Preventiva,5.9,3,Sello mecánico,2168.0
+OT-00130,PAR-00174,EQ-01,2025-12-27,Preventiva,5.6,3,Faja/correa,2020.0
+OT-00131,PAR-00176,EQ-02,2024-01-08,Correctiva,21.5,1,Revestimiento (liner),5133.0
+OT-00132,PAR-00177,EQ-02,2024-01-10,Correctiva,2.8,3,Revestimiento (liner),5028.0
+OT-00133,PAR-00178,EQ-02,2024-01-11,Correctiva,0.7,3,Motor eléctrico,3834.0
+OT-00134,PAR-00181,EQ-02,2024-01-15,Preventiva,10.5,1,Sensor/instrumento,1511.0
+OT-00135,PAR-00182,EQ-02,2024-01-20,Correctiva,2.6,2,Revestimiento (liner),6364.0
+OT-00136,PAR-00184,EQ-02,2024-01-25,Correctiva,8.4,1,Ninguno (solo mano de obra),290.0
+OT-00137,PAR-00185,EQ-02,2024-01-31,Correctiva,1.4,3,Ninguno (solo mano de obra),598.0
+OT-00138,PAR-00186,EQ-02,2024-02-02,Correctiva,2.2,3,Motor eléctrico,806.0
+OT-00139,PAR-00188,EQ-02,2024-02-06,Preventiva,11.2,2,Sensor/instrumento,1406.0
+OT-00140,PAR-00190,EQ-02,2024-02-11,Correctiva,8.8,2,Sensor/instrumento,7501.0
+OT-00141,PAR-00191,EQ-02,2024-02-21,Preventiva,9.5,3,Rodamiento,2140.0
+OT-00142,PAR-00193,EQ-02,2024-02-25,Correctiva,11.1,1,Ninguno (solo mano de obra),7351.0
+OT-00143,PAR-00194,EQ-02,2024-03-01,Correctiva,5.6,1,Sensor/instrumento,1826.0
+OT-00144,PAR-00195,EQ-02,2024-03-02,Correctiva,2.3,2,Motor eléctrico,3841.0
+OT-00145,PAR-00196,EQ-02,2024-03-07,Preventiva,9.6,3,Ninguno (solo mano de obra),1207.0
+OT-00146,PAR-00197,EQ-02,2024-03-26,Preventiva,6.5,3,Ninguno (solo mano de obra),1497.0
+OT-00147,PAR-00198,EQ-02,2024-04-06,Correctiva,3.0,3,Revestimiento (liner),2370.0
+OT-00148,PAR-00200,EQ-02,2024-04-12,Preventiva,10.5,1,Rodamiento,1435.0
+OT-00149,PAR-00201,EQ-02,2024-04-12,Correctiva,13.3,1,Faja/correa,2650.0
+OT-00150,PAR-00202,EQ-02,2024-04-22,Correctiva,19.0,1,Sensor/instrumento,4086.0
+OT-00151,PAR-00203,EQ-02,2024-04-25,Correctiva,6.4,1,Ninguno (solo mano de obra),1321.0
+OT-00152,PAR-00204,EQ-02,2024-05-02,Preventiva,9.5,3,Ninguno (solo mano de obra),2401.0
+OT-00153,PAR-00205,EQ-02,2024-05-05,Correctiva,3.8,1,Faja/correa,2499.0
+OT-00154,PAR-00206,EQ-02,2024-05-16,Correctiva,6.5,3,Revestimiento (liner),5221.0
+OT-00155,PAR-00207,EQ-02,2024-05-17,Preventiva,7.2,2,Sello mecánico,694.0
+OT-00156,PAR-00209,EQ-02,2024-05-23,Correctiva,1.9,1,Rodamiento,3349.0
+OT-00157,PAR-00210,EQ-02,2024-05-24,Correctiva,7.9,2,Faja/correa,1140.0
+OT-00158,PAR-00211,EQ-02,2024-05-31,Preventiva,8.0,3,Motor eléctrico,1651.0
+OT-00159,PAR-00212,EQ-02,2024-06-11,Correctiva,15.3,1,Ninguno (solo mano de obra),848.0
+OT-00160,PAR-00213,EQ-02,2024-06-14,Preventiva,4.1,3,Motor eléctrico,492.0
+OT-00161,PAR-00216,EQ-02,2024-07-02,Preventiva,6.7,2,Motor eléctrico,338.0
+OT-00162,PAR-00217,EQ-02,2024-07-02,Correctiva,0.7,2,Faja/correa,1932.0
+OT-00163,PAR-00218,EQ-02,2024-07-08,Correctiva,7.7,2,Revestimiento (liner),3357.0
+OT-00164,PAR-00219,EQ-02,2024-07-09,Correctiva,0.8,2,Faja/correa,5834.0
+OT-00165,PAR-00220,EQ-02,2024-07-17,Correctiva,1.9,3,Sensor/instrumento,4003.0
+OT-00166,PAR-00221,EQ-02,2024-07-20,Correctiva,3.2,2,Sensor/instrumento,7269.0
+OT-00167,PAR-00222,EQ-02,2024-07-23,Preventiva,5.4,1,Sello mecánico,1186.0
+OT-00168,PAR-00223,EQ-02,2024-07-30,Correctiva,0.8,1,Sello mecánico,6312.0
+OT-00169,PAR-00224,EQ-02,2024-08-06,Preventiva,7.2,3,Faja/correa,2016.0
+OT-00170,PAR-00225,EQ-02,2024-08-14,Correctiva,10.0,3,Rodamiento,5859.0
+OT-00171,PAR-00226,EQ-02,2024-08-22,Correctiva,0.5,2,Sensor/instrumento,5487.0
+OT-00172,PAR-00227,EQ-02,2024-08-29,Preventiva,4.1,1,Rodamiento,1475.0
+OT-00173,PAR-00229,EQ-02,2024-09-21,Preventiva,6.4,3,Revestimiento (liner),424.0
+OT-00174,PAR-00231,EQ-02,2024-09-28,Correctiva,1.8,3,Revestimiento (liner),7354.0
+OT-00175,PAR-00234,EQ-02,2024-10-09,Preventiva,6.6,2,Ninguno (solo mano de obra),1634.0
+OT-00176,PAR-00235,EQ-02,2024-10-13,Correctiva,9.7,1,Ninguno (solo mano de obra),2229.0
+OT-00177,PAR-00236,EQ-02,2024-10-15,Correctiva,3.7,3,Faja/correa,6916.0
+OT-00178,PAR-00238,EQ-02,2024-10-22,Correctiva,2.8,2,Rodamiento,2403.0
+OT-00179,PAR-00239,EQ-02,2024-10-25,Correctiva,9.7,3,Sensor/instrumento,2537.0
+OT-00180,PAR-00240,EQ-02,2024-11-01,Preventiva,10.2,2,Rodamiento,1759.0
+OT-00181,PAR-00241,EQ-02,2024-11-07,Correctiva,22.2,3,Ninguno (solo mano de obra),5376.0
+OT-00182,PAR-00242,EQ-02,2024-11-14,Correctiva,11.2,2,Sello mecánico,5401.0
+OT-00183,PAR-00243,EQ-02,2024-11-17,Preventiva,8.6,1,Sensor/instrumento,827.0
+OT-00184,PAR-00245,EQ-02,2024-11-26,Correctiva,1.6,2,Revestimiento (liner),3268.0
+OT-00185,PAR-00246,EQ-02,2024-11-28,Correctiva,0.4,3,Ninguno (solo mano de obra),7553.0
+OT-00186,PAR-00248,EQ-02,2024-12-03,Preventiva,6.0,3,Sello mecánico,216.0
+OT-00187,PAR-00249,EQ-02,2024-12-08,Correctiva,5.0,3,Sello mecánico,2532.0
+OT-00188,PAR-00250,EQ-02,2024-12-09,Correctiva,3.1,1,Revestimiento (liner),1675.0
+OT-00189,PAR-00252,EQ-02,2024-12-25,Preventiva,6.2,2,Motor eléctrico,2107.0
+OT-00190,PAR-00254,EQ-02,2024-12-27,Correctiva,24.1,2,Ninguno (solo mano de obra),3424.0
+OT-00191,PAR-00256,EQ-02,2025-01-07,Correctiva,7.3,2,Motor eléctrico,5042.0
+OT-00192,PAR-00258,EQ-02,2025-01-16,Preventiva,9.5,2,Faja/correa,1730.0
+OT-00193,PAR-00259,EQ-02,2025-01-21,Correctiva,16.8,1,Sensor/instrumento,5991.0
+OT-00194,PAR-00260,EQ-02,2025-01-24,Correctiva,1.5,3,Revestimiento (liner),6301.0
+OT-00195,PAR-00261,EQ-02,2025-01-28,Correctiva,27.1,2,Faja/correa,5935.0
+OT-00196,PAR-00262,EQ-02,2025-02-07,Preventiva,9.2,2,Revestimiento (liner),474.0
+OT-00197,PAR-00263,EQ-02,2025-02-16,Correctiva,9.5,2,Ninguno (solo mano de obra),6719.0
+OT-00198,PAR-00264,EQ-02,2025-02-18,Correctiva,6.0,3,Motor eléctrico,4920.0
+OT-00199,PAR-00265,EQ-02,2025-02-22,Preventiva,4.7,2,Motor eléctrico,687.0
+OT-00200,PAR-00266,EQ-02,2025-02-22,Correctiva,3.7,3,Revestimiento (liner),444.0
+OT-00201,PAR-00267,EQ-02,2025-02-24,Correctiva,19.2,2,Sello mecánico,3622.0
+OT-00202,PAR-00268,EQ-02,2025-03-09,Preventiva,12.6,1,Revestimiento (liner),1917.0
+OT-00203,PAR-00270,EQ-02,2025-03-11,Correctiva,0.8,2,Faja/correa,3822.0
+OT-00204,PAR-00272,EQ-02,2025-03-13,Correctiva,23.7,2,Ninguno (solo mano de obra),2214.0
+OT-00205,PAR-00273,EQ-02,2025-03-18,Correctiva,9.3,2,Sensor/instrumento,5005.0
+OT-00206,PAR-00276,EQ-02,2025-03-23,Correctiva,8.6,3,Sensor/instrumento,4343.0
+OT-00207,PAR-00277,EQ-02,2025-03-26,Preventiva,6.8,3,Ninguno (solo mano de obra),1012.0
+OT-00208,PAR-00279,EQ-02,2025-04-04,Correctiva,1.5,1,Motor eléctrico,497.0
+OT-00209,PAR-00280,EQ-02,2025-04-11,Correctiva,2.5,3,Faja/correa,5851.0
+OT-00210,PAR-00281,EQ-02,2025-04-12,Preventiva,12.6,2,Motor eléctrico,768.0
+OT-00211,PAR-00283,EQ-02,2025-04-19,Correctiva,6.4,1,Sello mecánico,2625.0
+OT-00212,PAR-00285,EQ-02,2025-04-24,Correctiva,9.0,3,Revestimiento (liner),2385.0
+OT-00213,PAR-00286,EQ-02,2025-04-29,Preventiva,9.3,2,Ninguno (solo mano de obra),2380.0
+OT-00214,PAR-00287,EQ-02,2025-05-07,Correctiva,15.0,1,Sello mecánico,2606.0
+OT-00215,PAR-00288,EQ-02,2025-05-09,Correctiva,3.4,2,Sensor/instrumento,2141.0
+OT-00216,PAR-00290,EQ-02,2025-05-15,Correctiva,1.9,2,Faja/correa,7552.0
+OT-00217,PAR-00291,EQ-02,2025-05-19,Preventiva,6.3,3,Rodamiento,480.0
+OT-00218,PAR-00293,EQ-02,2025-05-24,Correctiva,5.3,3,Rodamiento,3.0
+OT-00219,PAR-00294,EQ-02,2025-05-28,Correctiva,1.9,2,Faja/correa,1370.0
+OT-00220,PAR-00295,EQ-02,2025-06-08,Preventiva,12.9,2,Motor eléctrico,1496.0
+OT-00221,PAR-00296,EQ-02,2025-06-18,Correctiva,0.7,1,Sensor/instrumento,6017.0
+OT-00222,PAR-00297,EQ-02,2025-06-25,Preventiva,8.5,2,Motor eléctrico,144.0
+OT-00223,PAR-00299,EQ-02,2025-06-28,Correctiva,2.3,3,Rodamiento,4862.0
+OT-00224,PAR-00300,EQ-02,2025-06-30,Correctiva,4.0,1,Revestimiento (liner),385.0
+OT-00225,PAR-00301,EQ-02,2025-07-07,Correctiva,6.1,2,Ninguno (solo mano de obra),5257.0
+OT-00226,PAR-00302,EQ-02,2025-07-13,Correctiva,0.4,1,Motor eléctrico,6845.0
+OT-00227,PAR-00303,EQ-02,2025-07-14,Preventiva,11.2,1,Rodamiento,158.0
+OT-00228,PAR-00304,EQ-02,2025-07-15,Correctiva,0.7,3,Motor eléctrico,7864.0
+OT-00229,PAR-00305,EQ-02,2025-07-20,Correctiva,7.0,3,Ninguno (solo mano de obra),1247.0
+OT-00230,PAR-00307,EQ-02,2025-07-28,Preventiva,5.6,2,Sello mecánico,1866.0
+OT-00231,PAR-00308,EQ-02,2025-08-10,Correctiva,10.8,2,Sensor/instrumento,2402.0
+OT-00232,PAR-00309,EQ-02,2025-08-11,Correctiva,10.5,2,Faja/correa,5494.0
+OT-00233,PAR-00310,EQ-02,2025-08-17,Preventiva,4.8,3,Sensor/instrumento,2487.0
+OT-00234,PAR-00312,EQ-02,2025-08-24,Correctiva,4.1,1,Sello mecánico,1788.0
+OT-00235,PAR-00315,EQ-02,2025-08-30,Correctiva,11.9,2,Rodamiento,4232.0
+OT-00236,PAR-00316,EQ-02,2025-09-06,Preventiva,5.8,2,Revestimiento (liner),2090.0
+OT-00237,PAR-00318,EQ-02,2025-09-14,Correctiva,0.9,3,Motor eléctrico,7963.0
+OT-00238,PAR-00320,EQ-02,2025-09-20,Correctiva,23.4,2,Motor eléctrico,951.0
+OT-00239,PAR-00321,EQ-02,2025-09-23,Correctiva,3.1,3,Faja/correa,6586.0
+OT-00240,PAR-00322,EQ-02,2025-09-28,Preventiva,8.9,1,Faja/correa,550.0
+OT-00241,PAR-00323,EQ-02,2025-10-02,Correctiva,10.8,1,Sensor/instrumento,7094.0
+OT-00242,PAR-00324,EQ-02,2025-10-03,Correctiva,6.3,1,Sello mecánico,1092.0
+OT-00243,PAR-00325,EQ-02,2025-10-12,Preventiva,11.1,3,Faja/correa,2112.0
+OT-00244,PAR-00326,EQ-02,2025-10-15,Correctiva,0.6,3,Rodamiento,6905.0
+OT-00245,PAR-00328,EQ-02,2025-10-19,Correctiva,7.6,3,Faja/correa,1254.0
+OT-00246,PAR-00329,EQ-02,2025-10-24,Correctiva,0.9,3,Sello mecánico,4564.0
+OT-00247,PAR-00330,EQ-02,2025-10-25,Correctiva,3.5,2,Sello mecánico,3425.0
+OT-00248,PAR-00331,EQ-02,2025-10-27,Correctiva,3.2,1,Sensor/instrumento,5756.0
+OT-00249,PAR-00332,EQ-02,2025-10-28,Correctiva,3.1,1,Sello mecánico,6306.0
+OT-00250,PAR-00333,EQ-02,2025-10-30,Correctiva,2.5,3,Rodamiento,6768.0
+OT-00251,PAR-00335,EQ-02,2025-11-01,Correctiva,15.0,2,Motor eléctrico,907.0
+OT-00252,PAR-00336,EQ-02,2025-11-02,Preventiva,9.3,3,Faja/correa,880.0
+OT-00253,PAR-00337,EQ-02,2025-11-07,Correctiva,7.8,2,Ninguno (solo mano de obra),5207.0
+OT-00254,PAR-00339,EQ-02,2025-11-17,Preventiva,14.0,2,Rodamiento,1990.0
+OT-00255,PAR-00340,EQ-02,2025-11-29,Correctiva,12.4,3,Ninguno (solo mano de obra),7046.0
+OT-00256,PAR-00341,EQ-02,2025-12-03,Preventiva,5.8,1,Revestimiento (liner),1300.0
+OT-00257,PAR-00342,EQ-02,2025-12-10,Correctiva,5.8,2,Faja/correa,1093.0
+OT-00258,PAR-00343,EQ-02,2025-12-11,Correctiva,1.2,2,Sensor/instrumento,1289.0
+OT-00259,PAR-00346,EQ-02,2025-12-20,Correctiva,7.6,1,Revestimiento (liner),3959.0
+OT-00260,PAR-00347,EQ-02,2025-12-25,Preventiva,7.4,3,Faja/correa,1847.0
+OT-00261,PAR-00349,EQ-03,2024-01-10,Correctiva,1.7,3,Ninguno (solo mano de obra),2739.0
+OT-00262,PAR-00350,EQ-03,2024-01-14,Preventiva,9.4,2,Faja/correa,2307.0
+OT-00263,PAR-00353,EQ-03,2024-01-30,Preventiva,4.9,1,Sensor/instrumento,264.0
+OT-00264,PAR-00356,EQ-03,2024-02-15,Preventiva,13.0,3,Ninguno (solo mano de obra),1789.0
+OT-00265,PAR-00358,EQ-03,2024-03-02,Preventiva,7.9,2,Rodamiento,1046.0
+OT-00266,PAR-00360,EQ-03,2024-03-05,Correctiva,4.8,2,Sello mecánico,2897.0
+OT-00267,PAR-00361,EQ-03,2024-03-06,Correctiva,0.7,2,Faja/correa,2168.0
+OT-00268,PAR-00362,EQ-03,2024-03-08,Correctiva,14.7,1,Ninguno (solo mano de obra),2538.0
+OT-00269,PAR-00363,EQ-03,2024-03-21,Preventiva,7.4,2,Sensor/instrumento,420.0
+OT-00270,PAR-00365,EQ-03,2024-04-06,Correctiva,1.7,2,Motor eléctrico,4508.0
+OT-00271,PAR-00366,EQ-03,2024-04-08,Correctiva,1.4,3,Ninguno (solo mano de obra),3182.0
+OT-00272,PAR-00367,EQ-03,2024-04-10,Preventiva,5.2,2,Sensor/instrumento,386.0
+OT-00273,PAR-00368,EQ-03,2024-04-23,Correctiva,3.7,1,Ninguno (solo mano de obra),4388.0
+OT-00274,PAR-00369,EQ-03,2024-04-30,Preventiva,4.6,2,Motor eléctrico,1418.0
+OT-00275,PAR-00373,EQ-03,2024-05-18,Preventiva,3.5,1,Sensor/instrumento,2218.0
+OT-00276,PAR-00374,EQ-03,2024-05-22,Correctiva,3.4,2,Sello mecánico,1123.0
+OT-00277,PAR-00376,EQ-03,2024-06-04,Preventiva,4.3,3,Revestimiento (liner),1420.0
+OT-00278,PAR-00378,EQ-03,2024-06-08,Correctiva,4.1,1,Sensor/instrumento,6810.0
+OT-00279,PAR-00379,EQ-03,2024-06-09,Correctiva,3.6,1,Motor eléctrico,5691.0
+OT-00280,PAR-00382,EQ-03,2024-06-26,Preventiva,8.8,3,Rodamiento,860.0
+OT-00281,PAR-00384,EQ-03,2024-06-27,Correctiva,7.6,2,Ninguno (solo mano de obra),6522.0
+OT-00282,PAR-00385,EQ-03,2024-07-11,Correctiva,1.3,1,Ninguno (solo mano de obra),179.0
+OT-00283,PAR-00386,EQ-03,2024-07-13,Preventiva,7.0,3,Sensor/instrumento,1892.0
+OT-00284,PAR-00387,EQ-03,2024-07-16,Correctiva,3.6,1,Faja/correa,2137.0
+OT-00285,PAR-00388,EQ-03,2024-08-01,Preventiva,5.4,1,Sello mecánico,1342.0
+OT-00286,PAR-00389,EQ-03,2024-08-05,Correctiva,15.0,2,Sello mecánico,1474.0
+OT-00287,PAR-00390,EQ-03,2024-08-10,Correctiva,1.0,3,Faja/correa,4395.0
+OT-00288,PAR-00391,EQ-03,2024-08-18,Preventiva,9.1,1,Rodamiento,264.0
+OT-00289,PAR-00392,EQ-03,2024-08-18,Correctiva,0.6,1,Faja/correa,1494.0
+OT-00290,PAR-00395,EQ-03,2024-09-08,Preventiva,7.5,3,Ninguno (solo mano de obra),1839.0
+OT-00291,PAR-00397,EQ-03,2024-09-11,Correctiva,1.6,1,Ninguno (solo mano de obra),1515.0
+OT-00292,PAR-00399,EQ-03,2024-09-29,Preventiva,6.4,3,Rodamiento,2494.0
+OT-00293,PAR-00400,EQ-03,2024-10-15,Preventiva,7.6,3,Rodamiento,2287.0
+OT-00294,PAR-00401,EQ-03,2024-10-18,Correctiva,7.0,1,Faja/correa,6211.0
+OT-00295,PAR-00402,EQ-03,2024-10-30,Preventiva,5.3,1,Faja/correa,400.0
+OT-00296,PAR-00404,EQ-03,2024-11-14,Correctiva,16.4,1,Ninguno (solo mano de obra),7272.0
+OT-00297,PAR-00406,EQ-03,2024-11-20,Preventiva,10.4,1,Faja/correa,1262.0
+OT-00298,PAR-00407,EQ-03,2024-11-25,Correctiva,4.3,1,Revestimiento (liner),1783.0
+OT-00299,PAR-00408,EQ-03,2024-12-10,Preventiva,6.4,3,Rodamiento,1980.0
+OT-00300,PAR-00409,EQ-03,2024-12-12,Correctiva,1.0,1,Revestimiento (liner),267.0
+OT-00301,PAR-00411,EQ-03,2024-12-13,Correctiva,0.6,3,Rodamiento,5668.0
+OT-00302,PAR-00413,EQ-03,2024-12-15,Correctiva,8.4,2,Sensor/instrumento,2441.0
+OT-00303,PAR-00414,EQ-03,2024-12-24,Correctiva,3.0,3,Sensor/instrumento,1365.0
+OT-00304,PAR-00415,EQ-03,2024-12-28,Preventiva,6.8,3,Faja/correa,146.0
+OT-00305,PAR-00416,EQ-03,2025-01-01,Correctiva,3.9,1,Faja/correa,4200.0
+OT-00306,PAR-00418,EQ-03,2025-01-11,Preventiva,10.3,2,Rodamiento,904.0
+OT-00307,PAR-00420,EQ-03,2025-01-13,Correctiva,8.6,2,Sello mecánico,4734.0
+OT-00308,PAR-00421,EQ-03,2025-02-03,Preventiva,4.9,1,Sensor/instrumento,1130.0
+OT-00309,PAR-00423,EQ-03,2025-02-19,Correctiva,3.4,2,Sello mecánico,6971.0
+OT-00310,PAR-00424,EQ-03,2025-02-22,Correctiva,5.7,1,Revestimiento (liner),4738.0
+OT-00311,PAR-00425,EQ-03,2025-02-26,Preventiva,8.7,3,Sensor/instrumento,285.0
+OT-00312,PAR-00427,EQ-03,2025-03-09,Correctiva,0.7,2,Ninguno (solo mano de obra),4160.0
+OT-00313,PAR-00428,EQ-03,2025-03-12,Correctiva,0.5,1,Sensor/instrumento,6667.0
+OT-00314,PAR-00429,EQ-03,2025-03-18,Preventiva,8.0,3,Ninguno (solo mano de obra),804.0
+OT-00315,PAR-00430,EQ-03,2025-03-18,Correctiva,2.5,2,Rodamiento,846.0
+OT-00316,PAR-00433,EQ-03,2025-04-08,Preventiva,4.6,1,Sensor/instrumento,2253.0
+OT-00317,PAR-00434,EQ-03,2025-04-21,Correctiva,29.2,3,Sello mecánico,5701.0
+OT-00318,PAR-00435,EQ-03,2025-04-30,Preventiva,13.0,2,Faja/correa,1910.0
+OT-00319,PAR-00436,EQ-03,2025-05-03,Correctiva,4.6,1,Motor eléctrico,7618.0
+OT-00320,PAR-00437,EQ-03,2025-05-15,Preventiva,4.6,2,Faja/correa,1392.0
+OT-00321,PAR-00439,EQ-03,2025-05-28,Correctiva,1.7,2,Ninguno (solo mano de obra),5949.0
+OT-00322,PAR-00440,EQ-03,2025-05-29,Preventiva,10.1,2,Sello mecánico,2186.0
+OT-00323,PAR-00441,EQ-03,2025-05-29,Correctiva,1.8,1,Faja/correa,3324.0
+OT-00324,PAR-00443,EQ-03,2025-06-06,Correctiva,4.0,3,Revestimiento (liner),3284.0
+OT-00325,PAR-00444,EQ-03,2025-06-07,Correctiva,1.7,2,Revestimiento (liner),1299.0
+OT-00326,PAR-00446,EQ-03,2025-06-17,Preventiva,7.3,1,Rodamiento,1151.0
+OT-00327,PAR-00447,EQ-03,2025-06-18,Correctiva,1.6,2,Revestimiento (liner),4511.0
+OT-00328,PAR-00451,EQ-03,2025-07-09,Preventiva,5.7,3,Sello mecánico,1962.0
+OT-00329,PAR-00452,EQ-03,2025-07-09,Correctiva,1.7,2,Revestimiento (liner),5796.0
+OT-00330,PAR-00453,EQ-03,2025-07-16,Correctiva,3.6,3,Ninguno (solo mano de obra),7748.0
+OT-00331,PAR-00454,EQ-03,2025-07-26,Correctiva,1.0,3,Rodamiento,7276.0
+OT-00332,PAR-00455,EQ-03,2025-07-30,Preventiva,11.9,2,Revestimiento (liner),1803.0
+OT-00333,PAR-00456,EQ-03,2025-08-08,Correctiva,3.0,3,Sello mecánico,1711.0
+OT-00334,PAR-00460,EQ-03,2025-08-20,Preventiva,9.5,2,Faja/correa,1552.0
+OT-00335,PAR-00461,EQ-03,2025-08-21,Correctiva,5.4,3,Revestimiento (liner),56.0
+OT-00336,PAR-00462,EQ-03,2025-08-24,Correctiva,10.4,3,Ninguno (solo mano de obra),3498.0
+OT-00337,PAR-00465,EQ-03,2025-08-31,Correctiva,4.0,2,Ninguno (solo mano de obra),452.0
+OT-00338,PAR-00466,EQ-03,2025-09-05,Preventiva,4.9,3,Sensor/instrumento,1070.0
+OT-00339,PAR-00467,EQ-03,2025-09-07,Correctiva,11.5,1,Sensor/instrumento,4382.0
+OT-00340,PAR-00468,EQ-03,2025-09-23,Correctiva,2.8,1,Motor eléctrico,3825.0
+OT-00341,PAR-00469,EQ-03,2025-09-27,Preventiva,6.0,3,Ninguno (solo mano de obra),1167.0
+OT-00342,PAR-00471,EQ-03,2025-09-30,Correctiva,3.9,2,Faja/correa,7761.0
+OT-00343,PAR-00472,EQ-03,2025-10-01,Correctiva,11.9,3,Sello mecánico,3052.0
+OT-00344,PAR-00473,EQ-03,2025-10-07,Correctiva,1.5,3,Rodamiento,5564.0
+OT-00345,PAR-00474,EQ-03,2025-10-08,Correctiva,2.5,3,Motor eléctrico,5745.0
+OT-00346,PAR-00475,EQ-03,2025-10-20,Preventiva,6.7,3,Motor eléctrico,1520.0
+OT-00347,PAR-00476,EQ-03,2025-10-23,Correctiva,0.8,2,Sensor/instrumento,2818.0
+OT-00348,PAR-00478,EQ-03,2025-11-03,Preventiva,7.4,2,Ninguno (solo mano de obra),1485.0
+OT-00349,PAR-00479,EQ-03,2025-11-04,Correctiva,0.7,2,Sello mecánico,1675.0
+OT-00350,PAR-00481,EQ-03,2025-11-19,Preventiva,8.9,2,Motor eléctrico,1606.0
+OT-00351,PAR-00483,EQ-03,2025-11-28,Correctiva,5.4,1,Rodamiento,6668.0
+OT-00352,PAR-00484,EQ-03,2025-12-01,Correctiva,3.6,1,Rodamiento,4102.0
+OT-00353,PAR-00485,EQ-03,2025-12-11,Correctiva,14.8,2,Ninguno (solo mano de obra),5318.0
+OT-00354,PAR-00486,EQ-03,2025-12-12,Preventiva,6.6,2,Sello mecánico,1615.0
+OT-00355,PAR-00487,EQ-03,2025-12-15,Correctiva,4.9,1,Faja/correa,6251.0
+OT-00356,PAR-00488,EQ-03,2025-12-30,Correctiva,4.9,1,Sensor/instrumento,6038.0
+OT-00357,PAR-00489,EQ-04,2024-01-04,Correctiva,27.0,2,Faja/correa,5527.0
+OT-00358,PAR-00490,EQ-04,2024-01-07,Correctiva,18.8,2,Ninguno (solo mano de obra),7077.0
+OT-00359,PAR-00491,EQ-04,2024-01-11,Correctiva,1.7,1,Ninguno (solo mano de obra),2839.0
+OT-00360,PAR-00492,EQ-04,2024-01-13,Correctiva,26.8,3,Revestimiento (liner),4201.0
+OT-00361,PAR-00494,EQ-04,2024-01-17,Correctiva,0.4,1,Revestimiento (liner),963.0
+OT-00362,PAR-00495,EQ-04,2024-01-19,Preventiva,5.9,1,Rodamiento,561.0
+OT-00363,PAR-00496,EQ-04,2024-01-24,Correctiva,7.7,3,Sello mecánico,1462.0
+OT-00364,PAR-00498,EQ-04,2024-02-02,Preventiva,4.8,1,Ninguno (solo mano de obra),252.0
+OT-00365,PAR-00499,EQ-04,2024-02-02,Correctiva,0.7,2,Motor eléctrico,4005.0
+OT-00366,PAR-00500,EQ-04,2024-02-07,Correctiva,20.5,1,Ninguno (solo mano de obra),7423.0
+OT-00367,PAR-00502,EQ-04,2024-02-12,Correctiva,1.5,3,Motor eléctrico,3398.0
+OT-00368,PAR-00503,EQ-04,2024-02-13,Correctiva,11.3,2,Sensor/instrumento,7393.0
+OT-00369,PAR-00504,EQ-04,2024-02-14,Correctiva,19.4,1,Faja/correa,690.0
+OT-00370,PAR-00505,EQ-04,2024-02-16,Correctiva,25.7,3,Ninguno (solo mano de obra),2388.0
+OT-00371,PAR-00506,EQ-04,2024-02-23,Preventiva,5.4,3,Sensor/instrumento,1311.0
+OT-00372,PAR-00508,EQ-04,2024-02-27,Correctiva,17.9,3,Revestimiento (liner),6516.0
+OT-00373,PAR-00511,EQ-04,2024-03-04,Correctiva,23.1,1,Sensor/instrumento,2487.0
+OT-00374,PAR-00513,EQ-04,2024-03-10,Preventiva,6.0,1,Sensor/instrumento,2413.0
+OT-00375,PAR-00515,EQ-04,2024-03-16,Correctiva,19.6,2,Rodamiento,6289.0
+OT-00376,PAR-00516,EQ-04,2024-03-25,Correctiva,9.4,2,Faja/correa,5700.0
+OT-00377,PAR-00517,EQ-04,2024-03-30,Preventiva,6.7,2,Revestimiento (liner),102.0
+OT-00378,PAR-00519,EQ-04,2024-04-03,Correctiva,13.6,2,Sello mecánico,284.0
+OT-00379,PAR-00520,EQ-04,2024-04-06,Correctiva,10.0,1,Motor eléctrico,3604.0
+OT-00380,PAR-00522,EQ-04,2024-04-11,Correctiva,3.6,3,Ninguno (solo mano de obra),6656.0
+OT-00381,PAR-00523,EQ-04,2024-04-14,Correctiva,10.6,1,Revestimiento (liner),1622.0
+OT-00382,PAR-00525,EQ-04,2024-04-16,Preventiva,4.9,3,Revestimiento (liner),1981.0
+OT-00383,PAR-00526,EQ-04,2024-04-17,Correctiva,8.3,1,Ninguno (solo mano de obra),1295.0
+OT-00384,PAR-00527,EQ-04,2024-04-19,Correctiva,16.2,1,Motor eléctrico,4990.0
+OT-00385,PAR-00528,EQ-04,2024-05-02,Correctiva,6.4,3,Sensor/instrumento,1300.0
+OT-00386,PAR-00529,EQ-04,2024-05-04,Preventiva,4.3,2,Faja/correa,2437.0
+OT-00387,PAR-00530,EQ-04,2024-05-05,Correctiva,15.2,1,Sello mecánico,2986.0
+OT-00388,PAR-00534,EQ-04,2024-05-14,Correctiva,0.4,1,Sello mecánico,2811.0
+OT-00389,PAR-00535,EQ-04,2024-05-16,Correctiva,31.3,3,Ninguno (solo mano de obra),6611.0
+OT-00390,PAR-00537,EQ-04,2024-05-23,Preventiva,7.8,2,Rodamiento,1706.0
+OT-00391,PAR-00538,EQ-04,2024-05-25,Correctiva,3.3,1,Sello mecánico,74.0
+OT-00392,PAR-00540,EQ-04,2024-06-01,Correctiva,2.5,3,Sello mecánico,27.0
+OT-00393,PAR-00542,EQ-04,2024-06-05,Correctiva,12.3,1,Rodamiento,1947.0
+OT-00394,PAR-00543,EQ-04,2024-06-07,Preventiva,6.0,2,Faja/correa,336.0
+OT-00395,PAR-00544,EQ-04,2024-06-09,Correctiva,16.5,1,Ninguno (solo mano de obra),3992.0
+OT-00396,PAR-00545,EQ-04,2024-06-13,Correctiva,24.1,2,Rodamiento,5626.0
+OT-00397,PAR-00546,EQ-04,2024-06-15,Correctiva,24.4,3,Faja/correa,4643.0
+OT-00398,PAR-00547,EQ-04,2024-06-17,Correctiva,3.1,2,Ninguno (solo mano de obra),4833.0
+OT-00399,PAR-00548,EQ-04,2024-06-21,Correctiva,9.9,1,Motor eléctrico,5442.0
+OT-00400,PAR-00549,EQ-04,2024-06-26,Preventiva,9.0,3,Sensor/instrumento,1414.0
+OT-00401,PAR-00550,EQ-04,2024-07-09,Correctiva,11.8,2,Faja/correa,4933.0
+OT-00402,PAR-00551,EQ-04,2024-07-10,Preventiva,6.6,1,Motor eléctrico,577.0
+OT-00403,PAR-00552,EQ-04,2024-07-10,Correctiva,26.2,3,Sello mecánico,2432.0
+OT-00404,PAR-00553,EQ-04,2024-07-12,Correctiva,1.1,1,Sensor/instrumento,1581.0
+OT-00405,PAR-00554,EQ-04,2024-07-13,Correctiva,26.6,1,Rodamiento,5640.0
+OT-00406,PAR-00555,EQ-04,2024-07-14,Correctiva,25.2,1,Sensor/instrumento,6680.0
+OT-00407,PAR-00556,EQ-04,2024-07-15,Correctiva,1.3,2,Sensor/instrumento,5166.0
+OT-00408,PAR-00557,EQ-04,2024-07-21,Correctiva,11.1,3,Rodamiento,138.0
+OT-00409,PAR-00558,EQ-04,2024-07-22,Correctiva,16.1,2,Revestimiento (liner),4756.0
+OT-00410,PAR-00559,EQ-04,2024-07-24,Correctiva,27.1,3,Rodamiento,2757.0
+OT-00411,PAR-00560,EQ-04,2024-07-28,Preventiva,6.0,2,Motor eléctrico,2312.0
+OT-00412,PAR-00561,EQ-04,2024-07-30,Correctiva,20.7,1,Sensor/instrumento,1536.0
+OT-00413,PAR-00562,EQ-04,2024-07-31,Correctiva,23.4,2,Sello mecánico,3205.0
+OT-00414,PAR-00563,EQ-04,2024-08-02,Correctiva,11.0,1,Revestimiento (liner),4870.0
+OT-00415,PAR-00564,EQ-04,2024-08-06,Correctiva,10.7,3,Motor eléctrico,949.0
+OT-00416,PAR-00565,EQ-04,2024-08-09,Correctiva,1.6,3,Motor eléctrico,3526.0
+OT-00417,PAR-00566,EQ-04,2024-08-16,Correctiva,19.3,1,Faja/correa,1851.0
+OT-00418,PAR-00567,EQ-04,2024-08-20,Preventiva,8.3,2,Sello mecánico,75.0
+OT-00419,PAR-00568,EQ-04,2024-08-21,Correctiva,4.5,1,Motor eléctrico,6001.0
+OT-00420,PAR-00569,EQ-04,2024-08-31,Correctiva,24.0,3,Faja/correa,4917.0
+OT-00421,PAR-00571,EQ-04,2024-09-09,Preventiva,4.7,2,Faja/correa,782.0
+OT-00422,PAR-00572,EQ-04,2024-09-11,Correctiva,14.0,2,Faja/correa,6586.0
+OT-00423,PAR-00574,EQ-04,2024-09-14,Correctiva,8.3,3,Revestimiento (liner),2075.0
+OT-00424,PAR-00575,EQ-04,2024-09-19,Correctiva,1.4,1,Rodamiento,4401.0
+OT-00425,PAR-00576,EQ-04,2024-09-28,Preventiva,8.5,1,Ninguno (solo mano de obra),1812.0
+OT-00426,PAR-00579,EQ-04,2024-10-11,Correctiva,19.7,1,Sello mecánico,483.0
+OT-00427,PAR-00580,EQ-04,2024-10-12,Preventiva,5.7,1,Sensor/instrumento,57.0
+OT-00428,PAR-00581,EQ-04,2024-10-23,Correctiva,8.4,2,Revestimiento (liner),3015.0
+OT-00429,PAR-00582,EQ-04,2024-10-26,Preventiva,13.6,3,Sello mecánico,1892.0
+OT-00430,PAR-00583,EQ-04,2024-11-02,Correctiva,3.3,1,Sello mecánico,2177.0
+OT-00431,PAR-00584,EQ-04,2024-11-04,Correctiva,1.6,2,Faja/correa,6776.0
+OT-00432,PAR-00586,EQ-04,2024-11-08,Correctiva,5.8,1,Motor eléctrico,4134.0
+OT-00433,PAR-00588,EQ-04,2024-11-15,Preventiva,8.8,2,Sensor/instrumento,2216.0
+OT-00434,PAR-00589,EQ-04,2024-11-23,Correctiva,3.8,3,Rodamiento,4160.0
+OT-00435,PAR-00590,EQ-04,2024-11-24,Correctiva,32.0,1,Sensor/instrumento,4723.0
+OT-00436,PAR-00591,EQ-04,2024-11-25,Correctiva,16.8,3,Revestimiento (liner),1254.0
+OT-00437,PAR-00592,EQ-04,2024-11-28,Correctiva,3.7,1,Motor eléctrico,1327.0
+OT-00438,PAR-00593,EQ-04,2024-11-30,Correctiva,19.6,1,Rodamiento,6320.0
+OT-00439,PAR-00594,EQ-04,2024-12-01,Correctiva,11.3,2,Motor eléctrico,1364.0
+OT-00440,PAR-00595,EQ-04,2024-12-03,Preventiva,5.5,2,Rodamiento,366.0
+OT-00441,PAR-00597,EQ-04,2024-12-09,Correctiva,14.6,1,Ninguno (solo mano de obra),4798.0
+OT-00442,PAR-00598,EQ-04,2024-12-14,Correctiva,18.0,1,Rodamiento,5346.0
+OT-00443,PAR-00599,EQ-04,2024-12-15,Correctiva,1.4,3,Sensor/instrumento,2499.0
+OT-00444,PAR-00600,EQ-04,2024-12-19,Correctiva,9.5,1,Rodamiento,7951.0
+OT-00445,PAR-00602,EQ-04,2024-12-23,Correctiva,18.4,1,Faja/correa,1600.0
+OT-00446,PAR-00603,EQ-04,2024-12-24,Preventiva,8.0,3,Ninguno (solo mano de obra),1359.0
+OT-00447,PAR-00604,EQ-04,2024-12-28,Correctiva,3.7,3,Rodamiento,4834.0
+OT-00448,PAR-00605,EQ-04,2025-01-01,Correctiva,8.9,1,Revestimiento (liner),4001.0
+OT-00449,PAR-00606,EQ-04,2025-01-06,Correctiva,4.0,2,Sello mecánico,4095.0
+OT-00450,PAR-00608,EQ-04,2025-01-12,Correctiva,13.0,1,Ninguno (solo mano de obra),429.0
+OT-00451,PAR-00609,EQ-04,2025-01-14,Preventiva,9.2,3,Motor eléctrico,2207.0
+OT-00452,PAR-00610,EQ-04,2025-01-15,Correctiva,1.1,3,Motor eléctrico,1031.0
+OT-00453,PAR-00611,EQ-04,2025-01-18,Correctiva,7.6,3,Revestimiento (liner),1346.0
+OT-00454,PAR-00612,EQ-04,2025-01-20,Correctiva,17.9,3,Sensor/instrumento,4582.0
+OT-00455,PAR-00613,EQ-04,2025-01-27,Correctiva,14.3,3,Ninguno (solo mano de obra),1058.0
+OT-00456,PAR-00615,EQ-04,2025-01-28,Correctiva,13.0,2,Faja/correa,405.0
+OT-00457,PAR-00616,EQ-04,2025-01-30,Correctiva,11.9,2,Rodamiento,1784.0
+OT-00458,PAR-00618,EQ-04,2025-02-04,Preventiva,5.6,2,Revestimiento (liner),310.0
+OT-00459,PAR-00620,EQ-04,2025-02-08,Correctiva,19.6,3,Revestimiento (liner),7085.0
+OT-00460,PAR-00621,EQ-04,2025-02-09,Correctiva,17.6,1,Rodamiento,2124.0
+OT-00461,PAR-00623,EQ-04,2025-02-18,Correctiva,15.7,2,Rodamiento,6881.0
+OT-00462,PAR-00624,EQ-04,2025-02-21,Preventiva,7.0,3,Motor eléctrico,1140.0
+OT-00463,PAR-00625,EQ-04,2025-02-24,Correctiva,15.5,3,Sensor/instrumento,2666.0
+OT-00464,PAR-00626,EQ-04,2025-02-28,Correctiva,8.3,1,Sensor/instrumento,1020.0
+OT-00465,PAR-00627,EQ-04,2025-03-02,Correctiva,6.4,3,Sensor/instrumento,6860.0
+OT-00466,PAR-00628,EQ-04,2025-03-03,Correctiva,13.3,3,Revestimiento (liner),6578.0
+OT-00467,PAR-00629,EQ-04,2025-03-08,Correctiva,22.3,1,Faja/correa,4664.0
+OT-00468,PAR-00630,EQ-04,2025-03-16,Preventiva,9.8,1,Faja/correa,911.0
+OT-00469,PAR-00631,EQ-04,2025-03-16,Correctiva,3.7,1,Ninguno (solo mano de obra),7699.0
+OT-00470,PAR-00632,EQ-04,2025-03-21,Correctiva,12.0,1,Rodamiento,3414.0
+OT-00471,PAR-00633,EQ-04,2025-03-25,Correctiva,11.2,1,Sello mecánico,376.0
+OT-00472,PAR-00635,EQ-04,2025-04-04,Preventiva,8.7,2,Rodamiento,371.0
+OT-00473,PAR-00636,EQ-04,2025-04-05,Correctiva,3.0,2,Sello mecánico,5192.0
+OT-00474,PAR-00638,EQ-04,2025-04-11,Correctiva,1.0,2,Sensor/instrumento,3275.0
+OT-00475,PAR-00639,EQ-04,2025-04-17,Correctiva,1.5,3,Sello mecánico,3760.0
+OT-00476,PAR-00640,EQ-04,2025-04-21,Preventiva,10.2,2,Sensor/instrumento,1283.0
+OT-00477,PAR-00643,EQ-04,2025-04-25,Correctiva,2.2,3,Faja/correa,310.0
+OT-00478,PAR-00644,EQ-04,2025-04-26,Correctiva,8.2,3,Revestimiento (liner),4733.0
+OT-00479,PAR-00645,EQ-04,2025-05-03,Correctiva,14.7,1,Revestimiento (liner),7149.0
+OT-00480,PAR-00646,EQ-04,2025-05-05,Preventiva,12.4,3,Revestimiento (liner),1830.0
+OT-00481,PAR-00647,EQ-04,2025-05-07,Correctiva,26.2,3,Ninguno (solo mano de obra),5145.0
+OT-00482,PAR-00648,EQ-04,2025-05-12,Correctiva,4.4,2,Faja/correa,3912.0
+OT-00483,PAR-00649,EQ-04,2025-05-26,Preventiva,6.5,2,Ninguno (solo mano de obra),1909.0
+OT-00484,PAR-00651,EQ-04,2025-06-15,Preventiva,11.5,2,Motor eléctrico,2475.0
+OT-00485,PAR-00652,EQ-04,2025-06-24,Correctiva,16.3,3,Motor eléctrico,3435.0
+OT-00486,PAR-00653,EQ-04,2025-06-29,Correctiva,11.7,2,Sello mecánico,6406.0
+OT-00487,PAR-00654,EQ-04,2025-07-02,Correctiva,12.2,3,Faja/correa,4335.0
+OT-00488,PAR-00656,EQ-04,2025-07-03,Correctiva,16.4,1,Revestimiento (liner),1374.0
+OT-00489,PAR-00657,EQ-04,2025-07-05,Correctiva,23.0,1,Ninguno (solo mano de obra),2660.0
+OT-00490,PAR-00658,EQ-04,2025-07-08,Preventiva,5.5,2,Rodamiento,956.0
+OT-00491,PAR-00659,EQ-04,2025-07-09,Correctiva,13.0,2,Revestimiento (liner),7261.0
+OT-00492,PAR-00661,EQ-04,2025-07-12,Correctiva,4.5,1,Revestimiento (liner),5781.0
+OT-00493,PAR-00662,EQ-04,2025-07-14,Correctiva,30.7,3,Ninguno (solo mano de obra),5464.0
+OT-00494,PAR-00663,EQ-04,2025-07-19,Correctiva,0.7,3,Rodamiento,2496.0
+OT-00495,PAR-00664,EQ-04,2025-07-23,Preventiva,5.8,2,Motor eléctrico,2359.0
+OT-00496,PAR-00666,EQ-04,2025-07-26,Correctiva,26.1,1,Revestimiento (liner),6113.0
+OT-00497,PAR-00667,EQ-04,2025-07-30,Correctiva,3.9,1,Motor eléctrico,5398.0
+OT-00498,PAR-00668,EQ-04,2025-08-03,Correctiva,6.6,2,Revestimiento (liner),2410.0
+OT-00499,PAR-00669,EQ-04,2025-08-04,Correctiva,22.9,2,Rodamiento,7040.0
+OT-00500,PAR-00670,EQ-04,2025-08-06,Preventiva,6.2,2,Faja/correa,1071.0
+OT-00501,PAR-00671,EQ-04,2025-08-07,Correctiva,9.2,1,Ninguno (solo mano de obra),7399.0
+OT-00502,PAR-00673,EQ-04,2025-08-19,Correctiva,26.9,1,Sensor/instrumento,7320.0
+OT-00503,PAR-00674,EQ-04,2025-08-23,Correctiva,0.6,1,Faja/correa,6825.0
+OT-00504,PAR-00675,EQ-04,2025-08-24,Correctiva,20.1,3,Sensor/instrumento,5138.0
+OT-00505,PAR-00676,EQ-04,2025-08-26,Preventiva,7.1,2,Revestimiento (liner),1767.0
+OT-00506,PAR-00678,EQ-04,2025-09-05,Correctiva,7.5,3,Sensor/instrumento,5146.0
+OT-00507,PAR-00680,EQ-04,2025-09-12,Preventiva,10.2,3,Faja/correa,1665.0
+OT-00508,PAR-00681,EQ-04,2025-09-18,Correctiva,16.0,2,Rodamiento,3124.0
+OT-00509,PAR-00682,EQ-04,2025-09-19,Correctiva,9.0,3,Revestimiento (liner),2048.0
+OT-00510,PAR-00683,EQ-04,2025-09-23,Correctiva,12.2,1,Ninguno (solo mano de obra),2229.0
+OT-00511,PAR-00684,EQ-04,2025-09-25,Correctiva,28.3,1,Revestimiento (liner),6970.0
+OT-00512,PAR-00685,EQ-04,2025-09-27,Preventiva,7.4,3,Ninguno (solo mano de obra),1578.0
+OT-00513,PAR-00686,EQ-04,2025-09-27,Correctiva,12.9,1,Sensor/instrumento,5470.0
+OT-00514,PAR-00687,EQ-04,2025-09-29,Correctiva,28.4,2,Sensor/instrumento,4672.0
+OT-00515,PAR-00689,EQ-04,2025-10-07,Correctiva,8.1,1,Faja/correa,5842.0
+OT-00516,PAR-00690,EQ-04,2025-10-09,Correctiva,13.6,2,Ninguno (solo mano de obra),2192.0
+OT-00517,PAR-00691,EQ-04,2025-10-11,Correctiva,0.7,3,Rodamiento,1143.0
+OT-00518,PAR-00692,EQ-04,2025-10-17,Correctiva,3.1,3,Sello mecánico,2031.0
+OT-00519,PAR-00693,EQ-04,2025-10-18,Preventiva,8.9,3,Sensor/instrumento,996.0
+OT-00520,PAR-00695,EQ-04,2025-10-26,Correctiva,25.2,2,Faja/correa,7429.0
+OT-00521,PAR-00696,EQ-04,2025-10-30,Correctiva,0.7,1,Rodamiento,3752.0
+OT-00522,PAR-00698,EQ-04,2025-11-01,Correctiva,23.9,1,Faja/correa,5231.0
+OT-00523,PAR-00699,EQ-04,2025-11-05,Preventiva,11.2,2,Ninguno (solo mano de obra),732.0
+OT-00524,PAR-00700,EQ-04,2025-11-11,Correctiva,5.2,3,Faja/correa,1020.0
+OT-00525,PAR-00701,EQ-04,2025-11-12,Correctiva,5.4,2,Sello mecánico,6376.0
+OT-00526,PAR-00703,EQ-04,2025-11-17,Correctiva,26.6,1,Rodamiento,195.0
+OT-00527,PAR-00704,EQ-04,2025-11-19,Correctiva,10.6,2,Ninguno (solo mano de obra),6792.0
+OT-00528,PAR-00705,EQ-04,2025-11-20,Correctiva,1.0,1,Revestimiento (liner),4722.0
+OT-00529,PAR-00706,EQ-04,2025-11-24,Preventiva,7.7,1,Faja/correa,1260.0
+OT-00530,PAR-00707,EQ-04,2025-11-24,Correctiva,9.8,2,Revestimiento (liner),4453.0
+OT-00531,PAR-00708,EQ-04,2025-11-25,Correctiva,4.6,2,Revestimiento (liner),4411.0
+OT-00532,PAR-00709,EQ-04,2025-12-02,Correctiva,4.9,2,Sello mecánico,7742.0
+OT-00533,PAR-00710,EQ-04,2025-12-04,Correctiva,8.5,3,Rodamiento,3160.0
+OT-00534,PAR-00711,EQ-04,2025-12-06,Correctiva,28.0,3,Revestimiento (liner),3156.0
+OT-00535,PAR-00712,EQ-04,2025-12-09,Correctiva,5.4,3,Motor eléctrico,3085.0
+OT-00536,PAR-00713,EQ-04,2025-12-10,Preventiva,8.6,1,Sensor/instrumento,999.0
+OT-00537,PAR-00715,EQ-04,2025-12-28,Correctiva,0.5,3,Motor eléctrico,1946.0
+OT-00538,PAR-00717,EQ-04,2025-12-31,Correctiva,17.4,2,Revestimiento (liner),3939.0
+OT-00539,PAR-00718,EQ-05,2024-01-05,Correctiva,17.7,1,Motor eléctrico,4349.0
+OT-00540,PAR-00719,EQ-05,2024-01-07,Correctiva,8.9,1,Rodamiento,995.0
+OT-00541,PAR-00720,EQ-05,2024-01-10,Correctiva,0.7,1,Sensor/instrumento,210.0
+OT-00542,PAR-00721,EQ-05,2024-01-13,Correctiva,13.6,2,Rodamiento,1646.0
+OT-00543,PAR-00722,EQ-05,2024-01-18,Correctiva,9.9,3,Rodamiento,1468.0
+OT-00544,PAR-00723,EQ-05,2024-01-19,Preventiva,7.2,1,Faja/correa,458.0
+OT-00545,PAR-00725,EQ-05,2024-01-21,Correctiva,16.5,2,Revestimiento (liner),5814.0
+OT-00546,PAR-00726,EQ-05,2024-01-24,Correctiva,6.5,2,Rodamiento,5096.0
+OT-00547,PAR-00727,EQ-05,2024-01-26,Correctiva,11.2,1,Faja/correa,917.0
+OT-00548,PAR-00728,EQ-05,2024-01-29,Correctiva,4.2,1,Ninguno (solo mano de obra),128.0
+OT-00549,PAR-00729,EQ-05,2024-02-03,Preventiva,7.9,3,Ninguno (solo mano de obra),1324.0
+OT-00550,PAR-00731,EQ-05,2024-02-06,Correctiva,6.7,1,Sello mecánico,4112.0
+OT-00551,PAR-00732,EQ-05,2024-02-07,Correctiva,31.1,2,Ninguno (solo mano de obra),1211.0
+OT-00552,PAR-00735,EQ-05,2024-02-12,Correctiva,0.7,2,Motor eléctrico,904.0
+OT-00553,PAR-00736,EQ-05,2024-02-13,Correctiva,6.6,1,Ninguno (solo mano de obra),6626.0
+OT-00554,PAR-00737,EQ-05,2024-02-14,Correctiva,21.9,3,Faja/correa,1704.0
+OT-00555,PAR-00738,EQ-05,2024-02-17,Correctiva,4.3,3,Ninguno (solo mano de obra),290.0
+OT-00556,PAR-00739,EQ-05,2024-02-19,Correctiva,4.7,2,Sello mecánico,3452.0
+OT-00557,PAR-00740,EQ-05,2024-02-24,Preventiva,4.8,1,Sello mecánico,291.0
+OT-00558,PAR-00741,EQ-05,2024-03-04,Correctiva,13.2,1,Faja/correa,3187.0
+OT-00559,PAR-00742,EQ-05,2024-03-07,Correctiva,2.4,1,Rodamiento,4670.0
+OT-00560,PAR-00743,EQ-05,2024-03-11,Correctiva,5.4,2,Motor eléctrico,7596.0
+OT-00561,PAR-00744,EQ-05,2024-03-12,Correctiva,2.1,3,Rodamiento,7936.0
+OT-00562,PAR-00745,EQ-05,2024-03-15,Preventiva,6.6,3,Ninguno (solo mano de obra),319.0
+OT-00563,PAR-00746,EQ-05,2024-03-19,Correctiva,29.4,2,Rodamiento,1790.0
+OT-00564,PAR-00747,EQ-05,2024-03-22,Correctiva,2.9,2,Faja/correa,7212.0
+OT-00565,PAR-00748,EQ-05,2024-03-23,Correctiva,20.8,3,Rodamiento,2232.0
+OT-00566,PAR-00749,EQ-05,2024-03-25,Correctiva,16.4,3,Revestimiento (liner),6352.0
+OT-00567,PAR-00750,EQ-05,2024-03-26,Correctiva,12.6,2,Rodamiento,7673.0
+OT-00568,PAR-00751,EQ-05,2024-03-27,Correctiva,7.3,3,Sello mecánico,5275.0
+OT-00569,PAR-00752,EQ-05,2024-04-03,Preventiva,5.3,3,Ninguno (solo mano de obra),1217.0
+OT-00570,PAR-00753,EQ-05,2024-04-14,Correctiva,8.8,3,Rodamiento,2667.0
+OT-00571,PAR-00754,EQ-05,2024-04-19,Preventiva,8.2,3,Sello mecánico,2489.0
+OT-00572,PAR-00755,EQ-05,2024-04-20,Correctiva,27.6,1,Faja/correa,1348.0
+OT-00573,PAR-00756,EQ-05,2024-05-06,Preventiva,10.2,2,Ninguno (solo mano de obra),1496.0
+OT-00574,PAR-00757,EQ-05,2024-05-09,Correctiva,11.0,1,Ninguno (solo mano de obra),3407.0
+OT-00575,PAR-00758,EQ-05,2024-05-10,Correctiva,6.7,1,Rodamiento,3018.0
+OT-00576,PAR-00760,EQ-05,2024-05-16,Correctiva,22.5,3,Sello mecánico,5091.0
+OT-00577,PAR-00763,EQ-05,2024-05-20,Correctiva,10.3,2,Rodamiento,7972.0
+OT-00578,PAR-00764,EQ-05,2024-05-23,Preventiva,10.7,1,Sello mecánico,1972.0
+OT-00579,PAR-00765,EQ-05,2024-05-29,Correctiva,12.7,1,Rodamiento,6650.0
+OT-00580,PAR-00766,EQ-05,2024-05-30,Correctiva,22.8,3,Motor eléctrico,7170.0
+OT-00581,PAR-00767,EQ-05,2024-06-03,Correctiva,16.3,3,Motor eléctrico,7094.0
+OT-00582,PAR-00768,EQ-05,2024-06-06,Correctiva,22.6,1,Motor eléctrico,3648.0
+OT-00583,PAR-00769,EQ-05,2024-06-14,Preventiva,9.3,3,Ninguno (solo mano de obra),1923.0
+OT-00584,PAR-00771,EQ-05,2024-06-28,Correctiva,22.6,3,Sello mecánico,4462.0
+OT-00585,PAR-00772,EQ-05,2024-07-01,Correctiva,8.2,1,Revestimiento (liner),7678.0
+OT-00586,PAR-00773,EQ-05,2024-07-02,Preventiva,8.2,3,Ninguno (solo mano de obra),729.0
+OT-00587,PAR-00774,EQ-05,2024-07-03,Correctiva,5.8,2,Motor eléctrico,6025.0
+OT-00588,PAR-00775,EQ-05,2024-07-08,Correctiva,16.8,3,Sensor/instrumento,6689.0
+OT-00589,PAR-00777,EQ-05,2024-07-24,Correctiva,27.2,1,Sensor/instrumento,3514.0
+OT-00590,PAR-00778,EQ-05,2024-07-25,Preventiva,8.8,3,Sello mecánico,1190.0
+OT-00591,PAR-00779,EQ-05,2024-07-29,Correctiva,31.6,2,Rodamiento,6340.0
+OT-00592,PAR-00780,EQ-05,2024-08-03,Correctiva,6.5,3,Faja/correa,4994.0
+OT-00593,PAR-00781,EQ-05,2024-08-04,Correctiva,23.0,3,Faja/correa,2121.0
+OT-00594,PAR-00782,EQ-05,2024-08-06,Correctiva,25.1,2,Sensor/instrumento,7368.0
+OT-00595,PAR-00784,EQ-05,2024-08-14,Correctiva,22.6,3,Ninguno (solo mano de obra),3420.0
+OT-00596,PAR-00785,EQ-05,2024-08-15,Correctiva,27.8,1,Faja/correa,7368.0
+OT-00597,PAR-00786,EQ-05,2024-08-17,Preventiva,4.2,2,Faja/correa,2049.0
+OT-00598,PAR-00787,EQ-05,2024-08-20,Correctiva,11.9,3,Sensor/instrumento,3311.0
+OT-00599,PAR-00788,EQ-05,2024-08-22,Correctiva,1.5,3,Revestimiento (liner),6410.0
+OT-00600,PAR-00789,EQ-05,2024-08-30,Correctiva,13.2,2,Sello mecánico,3772.0
+OT-00601,PAR-00790,EQ-05,2024-08-31,Correctiva,23.7,1,Ninguno (solo mano de obra),671.0
+OT-00602,PAR-00791,EQ-05,2024-09-03,Preventiva,13.1,1,Ninguno (solo mano de obra),582.0
+OT-00603,PAR-00792,EQ-05,2024-09-06,Correctiva,1.9,2,Ninguno (solo mano de obra),89.0
+OT-00604,PAR-00794,EQ-05,2024-09-08,Correctiva,18.5,1,Ninguno (solo mano de obra),7742.0
+OT-00605,PAR-00796,EQ-05,2024-09-21,Correctiva,27.2,2,Rodamiento,11.0
+OT-00606,PAR-00797,EQ-05,2024-09-23,Correctiva,22.5,3,Faja/correa,1720.0
+OT-00607,PAR-00798,EQ-05,2024-09-26,Preventiva,8.2,3,Revestimiento (liner),314.0
+OT-00608,PAR-00800,EQ-05,2024-10-01,Correctiva,6.4,2,Ninguno (solo mano de obra),1045.0
+OT-00609,PAR-00802,EQ-05,2024-10-05,Correctiva,18.7,2,Sello mecánico,2492.0
+OT-00610,PAR-00803,EQ-05,2024-10-12,Correctiva,16.3,2,Rodamiento,4897.0
+OT-00611,PAR-00805,EQ-05,2024-10-19,Preventiva,7.5,2,Ninguno (solo mano de obra),1256.0
+OT-00612,PAR-00808,EQ-05,2024-10-22,Correctiva,3.3,3,Faja/correa,2154.0
+OT-00613,PAR-00809,EQ-05,2024-10-27,Correctiva,21.0,3,Rodamiento,7413.0
+OT-00614,PAR-00810,EQ-05,2024-11-01,Correctiva,4.5,3,Sello mecánico,2739.0
+OT-00615,PAR-00811,EQ-05,2024-11-05,Preventiva,12.2,3,Revestimiento (liner),531.0
+OT-00616,PAR-00813,EQ-05,2024-11-08,Correctiva,29.4,3,Sello mecánico,5210.0
+OT-00617,PAR-00814,EQ-05,2024-11-12,Correctiva,4.6,1,Ninguno (solo mano de obra),909.0
+OT-00618,PAR-00815,EQ-05,2024-11-14,Correctiva,4.5,3,Revestimiento (liner),6300.0
+OT-00619,PAR-00816,EQ-05,2024-11-22,Preventiva,5.3,1,Ninguno (solo mano de obra),463.0
+OT-00620,PAR-00817,EQ-05,2024-11-22,Correctiva,0.6,2,Ninguno (solo mano de obra),272.0
+OT-00621,PAR-00818,EQ-05,2024-11-24,Correctiva,17.9,1,Sello mecánico,1742.0
+OT-00622,PAR-00819,EQ-05,2024-11-25,Correctiva,28.6,2,Motor eléctrico,4058.0
+OT-00623,PAR-00820,EQ-05,2024-12-03,Correctiva,15.6,1,Motor eléctrico,2396.0
+OT-00624,PAR-00821,EQ-05,2024-12-04,Correctiva,2.6,2,Motor eléctrico,3324.0
+OT-00625,PAR-00822,EQ-05,2024-12-06,Correctiva,23.7,2,Motor eléctrico,6573.0
+OT-00626,PAR-00823,EQ-05,2024-12-11,Correctiva,15.0,3,Faja/correa,356.0
+OT-00627,PAR-00824,EQ-05,2024-12-12,Correctiva,5.4,3,Rodamiento,3396.0
+OT-00628,PAR-00825,EQ-05,2024-12-14,Preventiva,7.2,2,Motor eléctrico,837.0
+OT-00629,PAR-00826,EQ-05,2024-12-22,Correctiva,6.7,1,Sello mecánico,4611.0
+OT-00630,PAR-00827,EQ-05,2024-12-24,Correctiva,7.0,1,Sello mecánico,4495.0
+OT-00631,PAR-00828,EQ-05,2025-01-01,Correctiva,8.1,1,Faja/correa,6542.0
+OT-00632,PAR-00829,EQ-05,2025-01-05,Preventiva,7.7,3,Rodamiento,1949.0
+OT-00633,PAR-00830,EQ-05,2025-01-05,Correctiva,1.2,1,Rodamiento,1427.0
+OT-00634,PAR-00832,EQ-05,2025-01-17,Correctiva,5.4,3,Rodamiento,7283.0
+OT-00635,PAR-00833,EQ-05,2025-01-21,Preventiva,6.3,1,Sello mecánico,383.0
+OT-00636,PAR-00834,EQ-05,2025-01-23,Correctiva,23.3,2,Ninguno (solo mano de obra),5359.0
+OT-00637,PAR-00835,EQ-05,2025-01-26,Correctiva,6.7,1,Revestimiento (liner),6401.0
+OT-00638,PAR-00836,EQ-05,2025-01-27,Correctiva,21.4,3,Faja/correa,7839.0
+OT-00639,PAR-00837,EQ-05,2025-01-28,Correctiva,11.5,3,Ninguno (solo mano de obra),910.0
+OT-00640,PAR-00838,EQ-05,2025-02-07,Correctiva,6.6,2,Ninguno (solo mano de obra),6633.0
+OT-00641,PAR-00839,EQ-05,2025-02-12,Preventiva,8.9,2,Revestimiento (liner),1046.0
+OT-00642,PAR-00840,EQ-05,2025-02-19,Correctiva,21.0,3,Motor eléctrico,281.0
+OT-00643,PAR-00841,EQ-05,2025-02-20,Correctiva,26.1,1,Faja/correa,946.0
+OT-00644,PAR-00842,EQ-05,2025-02-22,Correctiva,2.3,3,Revestimiento (liner),6768.0
+OT-00645,PAR-00844,EQ-05,2025-02-25,Correctiva,17.1,1,Sello mecánico,2609.0
+OT-00646,PAR-00845,EQ-05,2025-02-28,Correctiva,5.5,2,Revestimiento (liner),6016.0
+OT-00647,PAR-00846,EQ-05,2025-03-02,Correctiva,26.3,2,Revestimiento (liner),4009.0
+OT-00648,PAR-00847,EQ-05,2025-03-04,Preventiva,9.3,3,Ninguno (solo mano de obra),2281.0
+OT-00649,PAR-00848,EQ-05,2025-03-10,Correctiva,19.2,3,Sensor/instrumento,2446.0
+OT-00650,PAR-00849,EQ-05,2025-03-13,Correctiva,0.6,1,Ninguno (solo mano de obra),1472.0
+OT-00651,PAR-00850,EQ-05,2025-03-15,Correctiva,2.1,3,Motor eléctrico,5790.0
+OT-00652,PAR-00851,EQ-05,2025-03-24,Preventiva,8.6,1,Motor eléctrico,191.0
+OT-00653,PAR-00852,EQ-05,2025-04-11,Preventiva,8.3,1,Revestimiento (liner),1450.0
+OT-00654,PAR-00855,EQ-05,2025-04-26,Correctiva,23.1,2,Rodamiento,2129.0
+OT-00655,PAR-00856,EQ-05,2025-04-28,Preventiva,9.1,2,Sello mecánico,894.0
+OT-00656,PAR-00857,EQ-05,2025-04-28,Correctiva,1.0,2,Sensor/instrumento,433.0
+OT-00657,PAR-00860,EQ-05,2025-05-07,Correctiva,22.7,1,Motor eléctrico,7970.0
+OT-00658,PAR-00861,EQ-05,2025-05-16,Correctiva,8.9,3,Revestimiento (liner),280.0
+OT-00659,PAR-00862,EQ-05,2025-05-19,Preventiva,10.9,3,Revestimiento (liner),1498.0
+OT-00660,PAR-00863,EQ-05,2025-05-24,Correctiva,20.4,1,Revestimiento (liner),4068.0
+OT-00661,PAR-00864,EQ-05,2025-05-26,Correctiva,23.7,1,Revestimiento (liner),2295.0
+OT-00662,PAR-00865,EQ-05,2025-05-27,Correctiva,10.3,2,Sensor/instrumento,2795.0
+OT-00663,PAR-00866,EQ-05,2025-05-30,Correctiva,15.6,2,Faja/correa,254.0
+OT-00664,PAR-00867,EQ-05,2025-06-01,Correctiva,2.5,1,Revestimiento (liner),3602.0
+OT-00665,PAR-00868,EQ-05,2025-06-03,Correctiva,18.4,3,Rodamiento,3095.0
+OT-00666,PAR-00870,EQ-05,2025-06-04,Correctiva,13.7,2,Faja/correa,6838.0
+OT-00667,PAR-00871,EQ-05,2025-06-07,Preventiva,11.4,2,Faja/correa,2445.0
+OT-00668,PAR-00872,EQ-05,2025-06-08,Correctiva,11.9,2,Revestimiento (liner),124.0
+OT-00669,PAR-00873,EQ-05,2025-06-11,Correctiva,9.7,3,Revestimiento (liner),6301.0
+OT-00670,PAR-00877,EQ-05,2025-06-28,Preventiva,8.9,1,Sensor/instrumento,746.0
+OT-00671,PAR-00878,EQ-05,2025-07-01,Correctiva,2.7,3,Faja/correa,572.0
+OT-00672,PAR-00882,EQ-05,2025-07-10,Correctiva,3.9,3,Revestimiento (liner),5822.0
+OT-00673,PAR-00883,EQ-05,2025-07-12,Correctiva,9.4,3,Rodamiento,7485.0
+OT-00674,PAR-00884,EQ-05,2025-07-14,Preventiva,5.4,2,Faja/correa,2322.0
+OT-00675,PAR-00885,EQ-05,2025-07-23,Correctiva,8.3,2,Ninguno (solo mano de obra),6258.0
+OT-00676,PAR-00888,EQ-05,2025-07-31,Preventiva,6.3,2,Faja/correa,148.0
+OT-00677,PAR-00890,EQ-05,2025-08-22,Preventiva,5.1,1,Sensor/instrumento,270.0
+OT-00678,PAR-00891,EQ-05,2025-08-25,Correctiva,7.2,3,Sensor/instrumento,2820.0
+OT-00679,PAR-00892,EQ-05,2025-08-26,Correctiva,16.7,1,Sello mecánico,1448.0
+OT-00680,PAR-00893,EQ-05,2025-08-29,Correctiva,20.2,1,Motor eléctrico,1866.0
+OT-00681,PAR-00894,EQ-05,2025-09-01,Correctiva,27.5,3,Sello mecánico,7849.0
+OT-00682,PAR-00895,EQ-05,2025-09-03,Correctiva,11.7,1,Revestimiento (liner),7586.0
+OT-00683,PAR-00897,EQ-05,2025-09-05,Correctiva,5.8,2,Ninguno (solo mano de obra),5605.0
+OT-00684,PAR-00898,EQ-05,2025-09-07,Correctiva,4.6,1,Ninguno (solo mano de obra),7595.0
+OT-00685,PAR-00899,EQ-05,2025-09-08,Correctiva,13.3,3,Rodamiento,4890.0
+OT-00686,PAR-00900,EQ-05,2025-09-09,Correctiva,3.1,3,Sello mecánico,187.0
+OT-00687,PAR-00901,EQ-05,2025-09-10,Preventiva,9.5,3,Motor eléctrico,470.0
+OT-00688,PAR-00903,EQ-05,2025-09-19,Correctiva,30.5,1,Sensor/instrumento,1448.0
+OT-00689,PAR-00904,EQ-05,2025-09-21,Correctiva,1.1,3,Revestimiento (liner),544.0
+OT-00690,PAR-00905,EQ-05,2025-09-24,Correctiva,28.8,1,Sensor/instrumento,1403.0
+OT-00691,PAR-00906,EQ-05,2025-10-03,Preventiva,7.4,2,Sello mecánico,1286.0
+OT-00692,PAR-00907,EQ-05,2025-10-04,Correctiva,7.0,1,Ninguno (solo mano de obra),1467.0
+OT-00693,PAR-00908,EQ-05,2025-10-10,Correctiva,18.2,1,Revestimiento (liner),699.0
+OT-00694,PAR-00909,EQ-05,2025-10-13,Correctiva,7.2,3,Rodamiento,5264.0
+OT-00695,PAR-00910,EQ-05,2025-10-18,Correctiva,10.9,1,Sensor/instrumento,1273.0
+OT-00696,PAR-00911,EQ-05,2025-10-20,Correctiva,19.6,3,Ninguno (solo mano de obra),7652.0
+OT-00697,PAR-00912,EQ-05,2025-10-23,Correctiva,18.4,2,Faja/correa,3975.0
+OT-00698,PAR-00913,EQ-05,2025-10-26,Preventiva,10.4,1,Sello mecánico,1337.0
+OT-00699,PAR-00914,EQ-05,2025-10-27,Correctiva,2.4,2,Faja/correa,161.0
+OT-00700,PAR-00915,EQ-05,2025-10-28,Correctiva,3.4,3,Ninguno (solo mano de obra),1601.0
+OT-00701,PAR-00916,EQ-05,2025-11-10,Preventiva,8.0,3,Rodamiento,760.0
+OT-00702,PAR-00917,EQ-05,2025-11-12,Correctiva,26.9,2,Revestimiento (liner),1103.0
+OT-00703,PAR-00918,EQ-05,2025-11-26,Correctiva,21.9,3,Sensor/instrumento,2207.0
+OT-00704,PAR-00919,EQ-05,2025-11-27,Correctiva,23.7,3,Rodamiento,2918.0
+OT-00705,PAR-00920,EQ-05,2025-11-28,Correctiva,16.3,3,Motor eléctrico,3004.0
+OT-00706,PAR-00921,EQ-05,2025-12-03,Preventiva,5.8,1,Revestimiento (liner),697.0
+OT-00707,PAR-00922,EQ-05,2025-12-06,Correctiva,11.4,3,Faja/correa,1581.0
+OT-00708,PAR-00923,EQ-05,2025-12-11,Correctiva,20.9,3,Ninguno (solo mano de obra),1754.0
+OT-00709,PAR-00924,EQ-05,2025-12-17,Correctiva,2.8,3,Rodamiento,2578.0
+OT-00710,PAR-00927,EQ-05,2025-12-22,Preventiva,7.0,3,Sensor/instrumento,320.0
+OT-00711,PAR-00928,EQ-05,2025-12-23,Correctiva,1.3,1,Rodamiento,949.0
+OT-00712,PAR-00929,EQ-05,2025-12-24,Correctiva,13.0,2,Faja/correa,5509.0
+OT-00713,PAR-00931,EQ-05,2025-12-29,Correctiva,15.6,3,Revestimiento (liner),2316.0
+OT-00714,PAR-00932,EQ-06,2024-01-01,Correctiva,10.8,3,Motor eléctrico,5338.0
+OT-00715,PAR-00933,EQ-06,2024-01-21,Preventiva,7.4,3,Faja/correa,1239.0
+OT-00716,PAR-00934,EQ-06,2024-01-21,Correctiva,3.6,3,Revestimiento (liner),7727.0
+OT-00717,PAR-00936,EQ-06,2024-02-06,Preventiva,5.2,3,Revestimiento (liner),1431.0
+OT-00718,PAR-00937,EQ-06,2024-02-08,Correctiva,19.0,2,Rodamiento,5272.0
+OT-00719,PAR-00938,EQ-06,2024-02-10,Correctiva,18.1,2,Sello mecánico,7983.0
+OT-00720,PAR-00939,EQ-06,2024-02-14,Correctiva,0.5,2,Ninguno (solo mano de obra),2439.0
+OT-00721,PAR-00940,EQ-06,2024-02-19,Correctiva,16.2,2,Ninguno (solo mano de obra),716.0
+OT-00722,PAR-00941,EQ-06,2024-02-21,Correctiva,11.3,2,Revestimiento (liner),456.0
+OT-00723,PAR-00942,EQ-06,2024-02-26,Preventiva,3.8,1,Sensor/instrumento,1984.0
+OT-00724,PAR-00943,EQ-06,2024-03-03,Correctiva,13.7,1,Faja/correa,5520.0
+OT-00725,PAR-00944,EQ-06,2024-03-11,Correctiva,27.9,2,Sensor/instrumento,7848.0
+OT-00726,PAR-00945,EQ-06,2024-03-13,Preventiva,5.0,2,Ninguno (solo mano de obra),1497.0
+OT-00727,PAR-00950,EQ-06,2024-03-26,Correctiva,1.7,3,Rodamiento,365.0
+OT-00728,PAR-00951,EQ-06,2024-04-03,Preventiva,9.2,3,Revestimiento (liner),720.0
+OT-00729,PAR-00952,EQ-06,2024-04-07,Correctiva,15.0,3,Faja/correa,159.0
+OT-00730,PAR-00953,EQ-06,2024-04-11,Correctiva,26.9,1,Rodamiento,7359.0
+OT-00731,PAR-00955,EQ-06,2024-04-17,Correctiva,5.5,3,Ninguno (solo mano de obra),6244.0
+OT-00732,PAR-00956,EQ-06,2024-04-26,Preventiva,7.5,2,Revestimiento (liner),918.0
+OT-00733,PAR-00958,EQ-06,2024-05-03,Correctiva,12.2,3,Rodamiento,4409.0
+OT-00734,PAR-00959,EQ-06,2024-05-11,Preventiva,10.2,3,Ninguno (solo mano de obra),501.0
+OT-00735,PAR-00962,EQ-06,2024-05-29,Preventiva,6.0,1,Rodamiento,2329.0
+OT-00736,PAR-00963,EQ-06,2024-06-05,Correctiva,8.5,2,Ninguno (solo mano de obra),5651.0
+OT-00737,PAR-00965,EQ-06,2024-06-14,Correctiva,5.2,1,Revestimiento (liner),3640.0
+OT-00738,PAR-00966,EQ-06,2024-06-19,Preventiva,13.2,1,Rodamiento,1506.0
+OT-00739,PAR-00967,EQ-06,2024-06-23,Correctiva,2.2,1,Sensor/instrumento,5487.0
+OT-00740,PAR-00970,EQ-06,2024-07-04,Preventiva,8.9,1,Ninguno (solo mano de obra),2091.0
+OT-00741,PAR-00971,EQ-06,2024-07-04,Correctiva,0.6,2,Faja/correa,7007.0
+OT-00742,PAR-00973,EQ-06,2024-07-13,Correctiva,7.2,3,Revestimiento (liner),5949.0
+OT-00743,PAR-00974,EQ-06,2024-07-18,Preventiva,7.8,1,Ninguno (solo mano de obra),1957.0
+OT-00744,PAR-00975,EQ-06,2024-08-05,Preventiva,8.7,2,Rodamiento,1542.0
+OT-00745,PAR-00977,EQ-06,2024-08-08,Correctiva,2.6,1,Ninguno (solo mano de obra),3231.0
+OT-00746,PAR-00979,EQ-06,2024-08-23,Preventiva,14.1,1,Revestimiento (liner),490.0
+OT-00747,PAR-00980,EQ-06,2024-08-26,Correctiva,3.9,1,Sensor/instrumento,1615.0
+OT-00748,PAR-00981,EQ-06,2024-09-03,Correctiva,10.4,2,Revestimiento (liner),3593.0
+OT-00749,PAR-00983,EQ-06,2024-09-08,Preventiva,7.1,1,Ninguno (solo mano de obra),1277.0
+OT-00750,PAR-00984,EQ-06,2024-09-11,Correctiva,0.8,2,Ninguno (solo mano de obra),3665.0
+OT-00751,PAR-00985,EQ-06,2024-09-12,Correctiva,3.8,3,Motor eléctrico,4329.0
+OT-00752,PAR-00986,EQ-06,2024-09-15,Correctiva,5.8,2,Sello mecánico,6226.0
+OT-00753,PAR-00988,EQ-06,2024-09-19,Correctiva,5.2,1,Revestimiento (liner),2402.0
+OT-00754,PAR-00989,EQ-06,2024-09-21,Correctiva,2.1,1,Rodamiento,6988.0
+OT-00755,PAR-00991,EQ-06,2024-09-27,Preventiva,8.3,3,Motor eléctrico,924.0
+OT-00756,PAR-00992,EQ-06,2024-10-01,Correctiva,7.3,2,Motor eléctrico,3942.0
+OT-00757,PAR-00993,EQ-06,2024-10-03,Correctiva,5.1,3,Motor eléctrico,5108.0
+OT-00758,PAR-00994,EQ-06,2024-10-09,Correctiva,5.7,2,Rodamiento,572.0
+OT-00759,PAR-00996,EQ-06,2024-10-16,Preventiva,10.2,3,Revestimiento (liner),1884.0
+OT-00760,PAR-00997,EQ-06,2024-10-18,Correctiva,12.0,1,Ninguno (solo mano de obra),7423.0
+OT-00761,PAR-00998,EQ-06,2024-10-23,Correctiva,4.3,1,Sensor/instrumento,6628.0
+OT-00762,PAR-00999,EQ-06,2024-10-31,Preventiva,10.3,3,Sello mecánico,2441.0
+OT-00763,PAR-01001,EQ-06,2024-11-01,Correctiva,16.4,3,Faja/correa,5487.0
+OT-00764,PAR-01003,EQ-06,2024-11-10,Correctiva,26.8,1,Sensor/instrumento,7442.0
+OT-00765,PAR-01005,EQ-06,2024-11-16,Preventiva,13.5,2,Rodamiento,296.0
+OT-00766,PAR-01006,EQ-06,2024-11-18,Correctiva,3.9,1,Faja/correa,4123.0
+OT-00767,PAR-01007,EQ-06,2024-11-19,Correctiva,1.1,3,Faja/correa,7907.0
+OT-00768,PAR-01008,EQ-06,2024-11-22,Correctiva,10.2,1,Sello mecánico,1011.0
+OT-00769,PAR-01009,EQ-06,2024-11-26,Correctiva,0.7,3,Sello mecánico,1854.0
+OT-00770,PAR-01011,EQ-06,2024-12-04,Preventiva,5.7,1,Sensor/instrumento,2119.0
+OT-00771,PAR-01012,EQ-06,2024-12-11,Correctiva,6.7,1,Sello mecánico,248.0
+OT-00772,PAR-01014,EQ-06,2024-12-16,Correctiva,3.8,3,Rodamiento,6593.0
+OT-00773,PAR-01016,EQ-06,2024-12-21,Correctiva,8.9,3,Rodamiento,2885.0
+OT-00774,PAR-01017,EQ-06,2024-12-22,Preventiva,5.4,2,Revestimiento (liner),1628.0
+OT-00775,PAR-01018,EQ-06,2025-01-06,Preventiva,6.2,2,Motor eléctrico,2060.0
+OT-00776,PAR-01020,EQ-06,2025-01-28,Preventiva,4.7,2,Sello mecánico,365.0
+OT-00777,PAR-01022,EQ-06,2025-01-30,Correctiva,10.9,3,Motor eléctrico,7425.0
+OT-00778,PAR-01025,EQ-06,2025-02-15,Preventiva,6.4,1,Ninguno (solo mano de obra),534.0
+OT-00779,PAR-01026,EQ-06,2025-02-20,Correctiva,9.1,2,Sello mecánico,3730.0
+OT-00780,PAR-01027,EQ-06,2025-03-02,Correctiva,0.8,1,Motor eléctrico,2897.0
+OT-00781,PAR-01028,EQ-06,2025-03-09,Preventiva,7.3,1,Faja/correa,2415.0
+OT-00782,PAR-01029,EQ-06,2025-03-09,Correctiva,3.1,2,Ninguno (solo mano de obra),2629.0
+OT-00783,PAR-01030,EQ-06,2025-03-12,Correctiva,12.5,1,Revestimiento (liner),5401.0
+OT-00784,PAR-01032,EQ-06,2025-03-19,Correctiva,11.5,1,Faja/correa,6174.0
+OT-00785,PAR-01033,EQ-06,2025-03-23,Correctiva,1.9,2,Sello mecánico,7378.0
+OT-00786,PAR-01034,EQ-06,2025-03-26,Correctiva,24.8,3,Sello mecánico,76.0
+OT-00787,PAR-01035,EQ-06,2025-03-29,Preventiva,10.0,3,Faja/correa,1842.0
+OT-00788,PAR-01036,EQ-06,2025-04-05,Correctiva,3.1,1,Sello mecánico,4199.0
+OT-00789,PAR-01037,EQ-06,2025-04-09,Correctiva,18.5,3,Faja/correa,6532.0
+OT-00790,PAR-01039,EQ-06,2025-04-15,Correctiva,6.6,3,Motor eléctrico,4374.0
+OT-00791,PAR-01040,EQ-06,2025-04-18,Preventiva,6.2,1,Ninguno (solo mano de obra),1983.0
+OT-00792,PAR-01041,EQ-06,2025-04-22,Correctiva,7.6,2,Rodamiento,6104.0
+OT-00793,PAR-01044,EQ-06,2025-04-29,Correctiva,3.0,3,Motor eléctrico,4745.0
+OT-00794,PAR-01047,EQ-06,2025-05-06,Correctiva,4.6,1,Rodamiento,6729.0
+OT-00795,PAR-01048,EQ-06,2025-05-07,Preventiva,10.5,3,Sensor/instrumento,241.0
+OT-00796,PAR-01049,EQ-06,2025-05-10,Correctiva,2.7,2,Sensor/instrumento,4209.0
+OT-00797,PAR-01050,EQ-06,2025-05-13,Correctiva,9.6,1,Ninguno (solo mano de obra),802.0
+OT-00798,PAR-01051,EQ-06,2025-05-14,Correctiva,7.1,3,Faja/correa,6430.0
+OT-00799,PAR-01052,EQ-06,2025-05-25,Preventiva,12.7,1,Revestimiento (liner),1761.0
+OT-00800,PAR-01053,EQ-06,2025-05-30,Correctiva,5.4,3,Rodamiento,7250.0
+OT-00801,PAR-01054,EQ-06,2025-06-02,Correctiva,6.7,2,Ninguno (solo mano de obra),2087.0
+OT-00802,PAR-01056,EQ-06,2025-06-11,Preventiva,6.8,1,Rodamiento,1517.0
+OT-00803,PAR-01057,EQ-06,2025-06-20,Correctiva,0.8,3,Revestimiento (liner),152.0
+OT-00804,PAR-01058,EQ-06,2025-07-03,Preventiva,7.3,2,Rodamiento,1342.0
+OT-00805,PAR-01059,EQ-06,2025-07-04,Correctiva,5.1,1,Sello mecánico,5594.0
+OT-00806,PAR-01061,EQ-06,2025-07-08,Correctiva,0.8,2,Revestimiento (liner),4353.0
+OT-00807,PAR-01062,EQ-06,2025-07-09,Correctiva,8.6,2,Motor eléctrico,3892.0
+OT-00808,PAR-01064,EQ-06,2025-07-19,Preventiva,5.3,3,Sensor/instrumento,2165.0
+OT-00809,PAR-01065,EQ-06,2025-07-23,Correctiva,26.2,3,Ninguno (solo mano de obra),7160.0
+OT-00810,PAR-01066,EQ-06,2025-07-24,Correctiva,12.6,3,Revestimiento (liner),3941.0
+OT-00811,PAR-01067,EQ-06,2025-08-02,Correctiva,14.3,1,Sensor/instrumento,2989.0
+OT-00812,PAR-01069,EQ-06,2025-08-07,Preventiva,9.3,1,Revestimiento (liner),763.0
+OT-00813,PAR-01070,EQ-06,2025-08-10,Correctiva,4.3,3,Revestimiento (liner),5698.0
+OT-00814,PAR-01071,EQ-06,2025-08-28,Preventiva,10.7,3,Motor eléctrico,2303.0
+OT-00815,PAR-01072,EQ-06,2025-08-28,Correctiva,5.1,1,Faja/correa,1321.0
+OT-00816,PAR-01073,EQ-06,2025-09-01,Correctiva,14.9,2,Rodamiento,7303.0
+OT-00817,PAR-01075,EQ-06,2025-09-08,Correctiva,10.4,2,Faja/correa,336.0
+OT-00818,PAR-01076,EQ-06,2025-09-09,Correctiva,1.3,1,Faja/correa,7148.0
+OT-00819,PAR-01077,EQ-06,2025-09-13,Preventiva,12.1,1,Rodamiento,2235.0
+OT-00820,PAR-01079,EQ-06,2025-10-02,Correctiva,8.7,3,Faja/correa,4554.0
+OT-00821,PAR-01080,EQ-06,2025-10-03,Preventiva,12.3,1,Motor eléctrico,182.0
+OT-00822,PAR-01081,EQ-06,2025-10-10,Correctiva,30.5,3,Motor eléctrico,6426.0
+OT-00823,PAR-01084,EQ-06,2025-10-21,Preventiva,11.0,3,Sensor/instrumento,1956.0
+OT-00824,PAR-01085,EQ-06,2025-10-22,Correctiva,0.9,3,Ninguno (solo mano de obra),4767.0
+OT-00825,PAR-01086,EQ-06,2025-10-23,Correctiva,11.3,2,Faja/correa,114.0
+OT-00826,PAR-01089,EQ-06,2025-10-30,Correctiva,5.2,2,Motor eléctrico,305.0
+OT-00827,PAR-01090,EQ-06,2025-11-04,Correctiva,0.5,2,Sensor/instrumento,3920.0
+OT-00828,PAR-01091,EQ-06,2025-11-05,Preventiva,7.8,3,Revestimiento (liner),1788.0
+OT-00829,PAR-01093,EQ-06,2025-11-09,Correctiva,13.1,1,Faja/correa,1236.0
+OT-00830,PAR-01095,EQ-06,2025-11-16,Correctiva,21.4,3,Faja/correa,5814.0
+OT-00831,PAR-01096,EQ-06,2025-11-20,Correctiva,1.1,1,Revestimiento (liner),4019.0
+OT-00832,PAR-01098,EQ-06,2025-11-23,Correctiva,2.0,2,Rodamiento,4880.0
+OT-00833,PAR-01099,EQ-06,2025-11-25,Preventiva,10.2,2,Sensor/instrumento,796.0
+OT-00834,PAR-01100,EQ-06,2025-11-25,Correctiva,9.7,2,Revestimiento (liner),1752.0
+OT-00835,PAR-01102,EQ-06,2025-12-06,Correctiva,3.3,1,Revestimiento (liner),83.0
+OT-00836,PAR-01103,EQ-06,2025-12-13,Preventiva,4.4,1,Motor eléctrico,1500.0
+OT-00837,PAR-01104,EQ-06,2025-12-25,Correctiva,1.4,3,Sello mecánico,6800.0
+OT-00838,PAR-01105,EQ-06,2025-12-27,Preventiva,7.3,3,Sello mecánico,1269.0
+OT-00839,PAR-01106,EQ-06,2025-12-27,Correctiva,22.4,2,Ninguno (solo mano de obra),3920.0
+OT-00840,PAR-01107,EQ-06,2025-12-28,Correctiva,4.2,1,Rodamiento,5865.0
+OT-00841,PAR-01109,EQ-06,2025-12-31,Correctiva,2.8,2,Motor eléctrico,5689.0
+OT-00842,PAR-01112,EQ-07,2024-01-15,Preventiva,9.2,3,Rodamiento,2482.0
+OT-00843,PAR-01113,EQ-07,2024-01-17,Correctiva,0.7,3,Sensor/instrumento,32.0
+OT-00844,PAR-01114,EQ-07,2024-01-19,Correctiva,1.1,1,Ninguno (solo mano de obra),4145.0
+OT-00845,PAR-01116,EQ-07,2024-01-24,Correctiva,14.2,1,Motor eléctrico,4691.0
+OT-00846,PAR-01117,EQ-07,2024-01-26,Correctiva,4.5,2,Rodamiento,7042.0
+OT-00847,PAR-01118,EQ-07,2024-02-04,Preventiva,9.2,2,Faja/correa,192.0
+OT-00848,PAR-01119,EQ-07,2024-02-05,Correctiva,0.4,3,Sensor/instrumento,166.0
+OT-00849,PAR-01120,EQ-07,2024-02-14,Correctiva,10.9,1,Sensor/instrumento,943.0
+OT-00850,PAR-01121,EQ-07,2024-02-24,Preventiva,9.5,1,Faja/correa,15.0
+OT-00851,PAR-01125,EQ-07,2024-03-11,Preventiva,6.4,2,Rodamiento,1344.0
+OT-00852,PAR-01126,EQ-07,2024-03-12,Correctiva,7.9,2,Faja/correa,1953.0
+OT-00853,PAR-01128,EQ-07,2024-03-21,Correctiva,1.1,2,Rodamiento,4298.0
+OT-00854,PAR-01131,EQ-07,2024-03-31,Preventiva,9.6,2,Ninguno (solo mano de obra),997.0
+OT-00855,PAR-01133,EQ-07,2024-04-17,Preventiva,4.4,3,Sello mecánico,1227.0
+OT-00856,PAR-01135,EQ-07,2024-04-25,Correctiva,19.6,3,Sello mecánico,7483.0
+OT-00857,PAR-01137,EQ-07,2024-05-10,Preventiva,11.8,2,Rodamiento,57.0
+OT-00858,PAR-01138,EQ-07,2024-05-24,Correctiva,0.6,3,Ninguno (solo mano de obra),1408.0
+OT-00859,PAR-01139,EQ-07,2024-05-26,Preventiva,8.4,1,Rodamiento,293.0
+OT-00860,PAR-01140,EQ-07,2024-05-29,Correctiva,0.5,3,Revestimiento (liner),7718.0
+OT-00861,PAR-01141,EQ-07,2024-05-30,Correctiva,5.9,2,Faja/correa,3116.0
+OT-00862,PAR-01142,EQ-07,2024-06-01,Correctiva,1.6,2,Sello mecánico,2969.0
+OT-00863,PAR-01144,EQ-07,2024-06-14,Preventiva,8.2,1,Ninguno (solo mano de obra),82.0
+OT-00864,PAR-01146,EQ-07,2024-06-19,Correctiva,1.1,2,Rodamiento,2686.0
+OT-00865,PAR-01147,EQ-07,2024-07-01,Preventiva,4.9,2,Ninguno (solo mano de obra),809.0
+OT-00866,PAR-01148,EQ-07,2024-07-05,Correctiva,1.7,3,Sello mecánico,7313.0
+OT-00867,PAR-01149,EQ-07,2024-07-17,Preventiva,10.2,2,Rodamiento,662.0
+OT-00868,PAR-01150,EQ-07,2024-07-19,Correctiva,4.3,2,Motor eléctrico,6590.0
+OT-00869,PAR-01151,EQ-07,2024-07-25,Correctiva,9.2,1,Sello mecánico,707.0
+OT-00870,PAR-01152,EQ-07,2024-07-26,Correctiva,9.9,3,Faja/correa,6427.0
+OT-00871,PAR-01153,EQ-07,2024-07-31,Correctiva,11.5,1,Sello mecánico,4537.0
+OT-00872,PAR-01154,EQ-07,2024-08-06,Preventiva,11.2,2,Ninguno (solo mano de obra),1999.0
+OT-00873,PAR-01156,EQ-07,2024-08-17,Correctiva,10.1,3,Sello mecánico,1122.0
+OT-00874,PAR-01158,EQ-07,2024-08-26,Preventiva,9.6,3,Sello mecánico,1547.0
+OT-00875,PAR-01160,EQ-07,2024-09-12,Preventiva,6.5,1,Sello mecánico,1129.0
+OT-00876,PAR-01161,EQ-07,2024-09-22,Correctiva,10.9,1,Faja/correa,2981.0
+OT-00877,PAR-01162,EQ-07,2024-09-26,Correctiva,3.2,3,Rodamiento,2091.0
+OT-00878,PAR-01163,EQ-07,2024-09-29,Preventiva,10.2,2,Motor eléctrico,1995.0
+OT-00879,PAR-01164,EQ-07,2024-09-30,Correctiva,8.7,2,Faja/correa,1578.0
+OT-00880,PAR-01166,EQ-07,2024-10-07,Correctiva,1.5,3,Ninguno (solo mano de obra),5083.0
+OT-00881,PAR-01167,EQ-07,2024-10-10,Correctiva,3.1,3,Sello mecánico,2772.0
+OT-00882,PAR-01170,EQ-07,2024-10-21,Preventiva,8.2,3,Motor eléctrico,1885.0
+OT-00883,PAR-01173,EQ-07,2024-11-13,Preventiva,6.2,1,Faja/correa,1829.0
+OT-00884,PAR-01175,EQ-07,2024-12-02,Preventiva,8.2,1,Revestimiento (liner),1224.0
+OT-00885,PAR-01176,EQ-07,2024-12-08,Correctiva,10.8,2,Sensor/instrumento,6658.0
+OT-00886,PAR-01178,EQ-07,2024-12-11,Correctiva,10.5,2,Rodamiento,6330.0
+OT-00887,PAR-01179,EQ-07,2024-12-19,Preventiva,5.1,2,Revestimiento (liner),2239.0
+OT-00888,PAR-01180,EQ-07,2024-12-21,Correctiva,1.5,3,Faja/correa,7917.0
+OT-00889,PAR-01182,EQ-07,2025-01-02,Correctiva,2.1,3,Ninguno (solo mano de obra),5254.0
+OT-00890,PAR-01183,EQ-07,2025-01-06,Preventiva,3.9,3,Motor eléctrico,980.0
+OT-00891,PAR-01184,EQ-07,2025-01-09,Correctiva,0.7,1,Revestimiento (liner),1046.0
+OT-00892,PAR-01185,EQ-07,2025-01-25,Preventiva,9.5,1,Motor eléctrico,924.0
+OT-00893,PAR-01186,EQ-07,2025-01-31,Correctiva,4.0,2,Faja/correa,4684.0
+OT-00894,PAR-01189,EQ-07,2025-02-05,Correctiva,6.6,1,Faja/correa,1008.0
+OT-00895,PAR-01190,EQ-07,2025-02-13,Preventiva,7.4,1,Revestimiento (liner),2161.0
+OT-00896,PAR-01194,EQ-07,2025-02-26,Correctiva,3.4,2,Sello mecánico,3504.0
+OT-00897,PAR-01195,EQ-07,2025-02-28,Preventiva,4.4,3,Rodamiento,1148.0
+OT-00898,PAR-01196,EQ-07,2025-02-28,Correctiva,19.5,2,Rodamiento,4767.0
+OT-00899,PAR-01197,EQ-07,2025-03-04,Correctiva,2.4,1,Revestimiento (liner),6587.0
+OT-00900,PAR-01198,EQ-07,2025-03-09,Correctiva,2.1,2,Revestimiento (liner),4163.0
+OT-00901,PAR-01199,EQ-07,2025-03-14,Correctiva,3.9,2,Sello mecánico,89.0
+OT-00902,PAR-01200,EQ-07,2025-03-16,Correctiva,12.0,3,Revestimiento (liner),364.0
+OT-00903,PAR-01202,EQ-07,2025-03-18,Correctiva,8.8,3,Motor eléctrico,5259.0
+OT-00904,PAR-01203,EQ-07,2025-03-19,Preventiva,13.3,3,Sello mecánico,186.0
+OT-00905,PAR-01205,EQ-07,2025-03-25,Correctiva,2.2,2,Revestimiento (liner),3944.0
+OT-00906,PAR-01206,EQ-07,2025-04-02,Preventiva,11.5,3,Rodamiento,1383.0
+OT-00907,PAR-01207,EQ-07,2025-04-21,Preventiva,7.0,2,Ninguno (solo mano de obra),520.0
+OT-00908,PAR-01208,EQ-07,2025-04-23,Correctiva,2.5,3,Motor eléctrico,7483.0
+OT-00909,PAR-01209,EQ-07,2025-05-05,Preventiva,6.3,1,Revestimiento (liner),1500.0
+OT-00910,PAR-01210,EQ-07,2025-05-06,Correctiva,4.1,3,Faja/correa,1545.0
+OT-00911,PAR-01213,EQ-07,2025-05-15,Correctiva,3.1,1,Rodamiento,479.0
+OT-00912,PAR-01215,EQ-07,2025-05-25,Correctiva,4.6,2,Revestimiento (liner),6237.0
+OT-00913,PAR-01216,EQ-07,2025-05-28,Preventiva,6.9,1,Motor eléctrico,198.0
+OT-00914,PAR-01217,EQ-07,2025-06-16,Preventiva,9.9,1,Faja/correa,1996.0
+OT-00915,PAR-01219,EQ-07,2025-06-29,Correctiva,3.8,3,Faja/correa,1886.0
+OT-00916,PAR-01221,EQ-07,2025-07-08,Preventiva,4.2,2,Faja/correa,186.0
+OT-00917,PAR-01223,EQ-07,2025-07-11,Correctiva,1.3,1,Revestimiento (liner),1487.0
+OT-00918,PAR-01226,EQ-07,2025-07-23,Preventiva,6.1,2,Rodamiento,1281.0
+OT-00919,PAR-01228,EQ-07,2025-08-07,Correctiva,1.9,1,Ninguno (solo mano de obra),4986.0
+OT-00920,PAR-01229,EQ-07,2025-08-14,Preventiva,6.3,1,Faja/correa,2176.0
+OT-00921,PAR-01231,EQ-07,2025-08-30,Preventiva,10.5,2,Rodamiento,1895.0
+OT-00922,PAR-01233,EQ-07,2025-09-05,Correctiva,29.6,3,Sello mecánico,5491.0
+OT-00923,PAR-01238,EQ-07,2025-09-21,Preventiva,10.2,2,Revestimiento (liner),1334.0
+OT-00924,PAR-01239,EQ-07,2025-10-09,Preventiva,7.4,2,Faja/correa,1888.0
+OT-00925,PAR-01240,EQ-07,2025-10-19,Correctiva,4.6,2,Rodamiento,4451.0
+OT-00926,PAR-01241,EQ-07,2025-10-22,Correctiva,0.6,2,Sensor/instrumento,6143.0
+OT-00927,PAR-01243,EQ-07,2025-10-26,Preventiva,6.7,3,Rodamiento,584.0
+OT-00928,PAR-01244,EQ-07,2025-11-10,Preventiva,8.4,2,Motor eléctrico,1151.0
+OT-00929,PAR-01247,EQ-07,2025-11-29,Preventiva,6.4,2,Faja/correa,2189.0
+OT-00930,PAR-01249,EQ-07,2025-12-08,Correctiva,5.8,1,Rodamiento,7832.0
+OT-00931,PAR-01250,EQ-07,2025-12-17,Preventiva,6.3,3,Revestimiento (liner),73.0
+OT-00932,PAR-01251,EQ-07,2025-12-31,Preventiva,7.8,2,Revestimiento (liner),2481.0
+OT-00933,PAR-01252,EQ-08,2024-01-08,Correctiva,2.8,3,Sello mecánico,4279.0
+OT-00934,PAR-01253,EQ-08,2024-01-15,Preventiva,7.2,3,Sello mecánico,171.0
+OT-00935,PAR-01255,EQ-08,2024-01-17,Correctiva,9.0,2,Sensor/instrumento,7039.0
+OT-00936,PAR-01256,EQ-08,2024-01-27,Correctiva,12.1,1,Sello mecánico,4205.0
+OT-00937,PAR-01257,EQ-08,2024-02-05,Preventiva,7.5,1,Revestimiento (liner),1600.0
+OT-00938,PAR-01258,EQ-08,2024-02-16,Correctiva,21.5,3,Sensor/instrumento,1586.0
+OT-00939,PAR-01259,EQ-08,2024-02-17,Correctiva,18.3,3,Sello mecánico,1304.0
+OT-00940,PAR-01260,EQ-08,2024-02-18,Correctiva,11.2,1,Rodamiento,585.0
+OT-00941,PAR-01261,EQ-08,2024-02-20,Correctiva,10.1,3,Sensor/instrumento,2300.0
+OT-00942,PAR-01262,EQ-08,2024-02-23,Preventiva,4.3,2,Ninguno (solo mano de obra),2189.0
+OT-00943,PAR-01264,EQ-08,2024-02-23,Correctiva,0.8,1,Sello mecánico,785.0
+OT-00944,PAR-01265,EQ-08,2024-02-25,Correctiva,13.5,2,Motor eléctrico,2807.0
+OT-00945,PAR-01266,EQ-08,2024-02-29,Correctiva,9.8,1,Ninguno (solo mano de obra),135.0
+OT-00946,PAR-01267,EQ-08,2024-03-01,Correctiva,2.6,3,Faja/correa,2885.0
+OT-00947,PAR-01268,EQ-08,2024-03-04,Correctiva,25.9,1,Faja/correa,2644.0
+OT-00948,PAR-01269,EQ-08,2024-03-05,Correctiva,12.5,3,Motor eléctrico,2582.0
+OT-00949,PAR-01270,EQ-08,2024-03-13,Preventiva,5.2,2,Sensor/instrumento,98.0
+OT-00950,PAR-01271,EQ-08,2024-03-14,Correctiva,3.3,1,Sello mecánico,6185.0
+OT-00951,PAR-01273,EQ-08,2024-03-29,Preventiva,5.7,1,Faja/correa,600.0
+OT-00952,PAR-01274,EQ-08,2024-04-02,Correctiva,9.1,1,Motor eléctrico,4655.0
+OT-00953,PAR-01277,EQ-08,2024-04-19,Preventiva,12.1,1,Rodamiento,270.0
+OT-00954,PAR-01278,EQ-08,2024-04-23,Correctiva,1.8,3,Sello mecánico,6704.0
+OT-00955,PAR-01279,EQ-08,2024-04-24,Correctiva,0.6,2,Sello mecánico,3125.0
+OT-00956,PAR-01280,EQ-08,2024-04-25,Correctiva,25.9,2,Ninguno (solo mano de obra),6770.0
+OT-00957,PAR-01281,EQ-08,2024-04-27,Correctiva,2.2,3,Revestimiento (liner),4006.0
+OT-00958,PAR-01282,EQ-08,2024-04-30,Correctiva,17.3,3,Revestimiento (liner),2638.0
+OT-00959,PAR-01283,EQ-08,2024-05-03,Correctiva,9.9,1,Sello mecánico,3645.0
+OT-00960,PAR-01284,EQ-08,2024-05-05,Preventiva,6.6,1,Ninguno (solo mano de obra),1885.0
+OT-00961,PAR-01286,EQ-08,2024-05-26,Preventiva,11.4,1,Motor eléctrico,1730.0
+OT-00962,PAR-01292,EQ-08,2024-06-08,Correctiva,3.9,2,Sello mecánico,4772.0
+OT-00963,PAR-01293,EQ-08,2024-06-09,Preventiva,4.6,1,Ninguno (solo mano de obra),2115.0
+OT-00964,PAR-01296,EQ-08,2024-06-23,Correctiva,3.2,2,Sello mecánico,1768.0
+OT-00965,PAR-01297,EQ-08,2024-06-24,Preventiva,7.0,1,Motor eléctrico,1353.0
+OT-00966,PAR-01298,EQ-08,2024-06-24,Correctiva,26.5,3,Faja/correa,7689.0
+OT-00967,PAR-01299,EQ-08,2024-07-08,Correctiva,1.3,3,Sello mecánico,5539.0
+OT-00968,PAR-01300,EQ-08,2024-07-09,Preventiva,10.3,3,Faja/correa,1316.0
+OT-00969,PAR-01301,EQ-08,2024-07-11,Correctiva,27.1,3,Motor eléctrico,492.0
+OT-00970,PAR-01302,EQ-08,2024-07-14,Correctiva,3.3,3,Sello mecánico,484.0
+OT-00971,PAR-01303,EQ-08,2024-07-19,Correctiva,12.8,1,Sello mecánico,5207.0
+OT-00972,PAR-01304,EQ-08,2024-07-20,Correctiva,1.8,1,Sello mecánico,2678.0
+OT-00973,PAR-01305,EQ-08,2024-07-23,Preventiva,4.8,3,Revestimiento (liner),113.0
+OT-00974,PAR-01306,EQ-08,2024-07-23,Correctiva,1.8,1,Revestimiento (liner),3524.0
+OT-00975,PAR-01308,EQ-08,2024-08-09,Preventiva,5.0,1,Sensor/instrumento,383.0
+OT-00976,PAR-01309,EQ-08,2024-08-18,Correctiva,24.1,1,Sello mecánico,2905.0
+OT-00977,PAR-01310,EQ-08,2024-08-22,Correctiva,28.2,3,Rodamiento,1923.0
+OT-00978,PAR-01312,EQ-08,2024-08-26,Preventiva,8.0,1,Sensor/instrumento,1482.0
+OT-00979,PAR-01313,EQ-08,2024-08-28,Correctiva,0.9,2,Ninguno (solo mano de obra),1096.0
+OT-00980,PAR-01314,EQ-08,2024-08-31,Correctiva,5.2,2,Sensor/instrumento,4450.0
+OT-00981,PAR-01315,EQ-08,2024-09-04,Correctiva,11.7,1,Sello mecánico,7762.0
+OT-00982,PAR-01316,EQ-08,2024-09-05,Correctiva,27.0,2,Faja/correa,4077.0
+OT-00983,PAR-01317,EQ-08,2024-09-12,Preventiva,5.0,1,Sello mecánico,627.0
+OT-00984,PAR-01319,EQ-08,2024-09-19,Correctiva,7.1,3,Motor eléctrico,4730.0
+OT-00985,PAR-01320,EQ-08,2024-09-23,Correctiva,18.1,3,Sensor/instrumento,7309.0
+OT-00986,PAR-01322,EQ-08,2024-09-29,Preventiva,8.6,1,Sello mecánico,515.0
+OT-00987,PAR-01324,EQ-08,2024-10-05,Correctiva,5.2,1,Sensor/instrumento,2430.0
+OT-00988,PAR-01325,EQ-08,2024-10-11,Correctiva,2.5,2,Ninguno (solo mano de obra),5209.0
+OT-00989,PAR-01326,EQ-08,2024-10-12,Correctiva,8.2,3,Ninguno (solo mano de obra),1063.0
+OT-00990,PAR-01327,EQ-08,2024-10-14,Preventiva,7.9,2,Ninguno (solo mano de obra),1406.0
+OT-00991,PAR-01328,EQ-08,2024-10-16,Correctiva,1.4,1,Sello mecánico,4405.0
+OT-00992,PAR-01331,EQ-08,2024-10-22,Correctiva,12.9,3,Motor eléctrico,5095.0
+OT-00993,PAR-01332,EQ-08,2024-10-27,Correctiva,0.5,2,Sello mecánico,4729.0
+OT-00994,PAR-01333,EQ-08,2024-11-01,Preventiva,5.3,2,Revestimiento (liner),2225.0
+OT-00995,PAR-01334,EQ-08,2024-11-06,Correctiva,14.2,2,Revestimiento (liner),5880.0
+OT-00996,PAR-01335,EQ-08,2024-11-08,Correctiva,24.8,1,Revestimiento (liner),1274.0
+OT-00997,PAR-01336,EQ-08,2024-11-10,Correctiva,5.9,2,Sensor/instrumento,976.0
+OT-00998,PAR-01337,EQ-08,2024-11-13,Correctiva,5.2,1,Sello mecánico,4840.0
+OT-00999,PAR-01338,EQ-08,2024-11-16,Preventiva,7.2,1,Sello mecánico,256.0
+OT-01000,PAR-01339,EQ-08,2024-11-16,Correctiva,4.4,2,Rodamiento,6784.0
+OT-01001,PAR-01340,EQ-08,2024-11-17,Correctiva,2.9,3,Motor eléctrico,5347.0
+OT-01002,PAR-01342,EQ-08,2024-11-19,Correctiva,1.1,1,Sensor/instrumento,7780.0
+OT-01003,PAR-01344,EQ-08,2024-11-21,Correctiva,28.7,2,Motor eléctrico,7667.0
+OT-01004,PAR-01345,EQ-08,2024-12-08,Preventiva,9.9,3,Motor eléctrico,1397.0
+OT-01005,PAR-01346,EQ-08,2024-12-11,Correctiva,4.2,2,Ninguno (solo mano de obra),672.0
+OT-01006,PAR-01347,EQ-08,2024-12-17,Correctiva,21.3,1,Sensor/instrumento,6597.0
+OT-01007,PAR-01348,EQ-08,2024-12-22,Correctiva,20.8,3,Faja/correa,4001.0
+OT-01008,PAR-01349,EQ-08,2024-12-24,Correctiva,6.0,2,Sensor/instrumento,7262.0
+OT-01009,PAR-01351,EQ-08,2024-12-27,Correctiva,7.8,3,Revestimiento (liner),1607.0
+OT-01010,PAR-01352,EQ-08,2024-12-30,Preventiva,4.0,2,Revestimiento (liner),1809.0
+OT-01011,PAR-01353,EQ-08,2024-12-31,Correctiva,9.4,2,Ninguno (solo mano de obra),6375.0
+OT-01012,PAR-01354,EQ-08,2025-01-01,Correctiva,11.5,1,Motor eléctrico,951.0
+OT-01013,PAR-01355,EQ-08,2025-01-03,Correctiva,1.1,2,Revestimiento (liner),5126.0
+OT-01014,PAR-01356,EQ-08,2025-01-12,Correctiva,11.4,3,Ninguno (solo mano de obra),6350.0
+OT-01015,PAR-01357,EQ-08,2025-01-15,Preventiva,7.8,2,Rodamiento,1023.0
+OT-01016,PAR-01358,EQ-08,2025-01-26,Correctiva,0.8,3,Rodamiento,2160.0
+OT-01017,PAR-01359,EQ-08,2025-01-29,Correctiva,21.6,2,Faja/correa,1945.0
+OT-01018,PAR-01360,EQ-08,2025-02-07,Preventiva,6.2,3,Motor eléctrico,502.0
+OT-01019,PAR-01363,EQ-08,2025-02-15,Correctiva,6.6,3,Sensor/instrumento,7797.0
+OT-01020,PAR-01364,EQ-08,2025-02-16,Correctiva,20.8,1,Sello mecánico,5671.0
+OT-01021,PAR-01365,EQ-08,2025-02-18,Correctiva,2.8,1,Sensor/instrumento,84.0
+OT-01022,PAR-01366,EQ-08,2025-02-20,Correctiva,11.1,1,Faja/correa,1241.0
+OT-01023,PAR-01367,EQ-08,2025-02-27,Correctiva,7.2,3,Sensor/instrumento,5779.0
+OT-01024,PAR-01368,EQ-08,2025-02-28,Preventiva,8.0,2,Sello mecánico,1649.0
+OT-01025,PAR-01369,EQ-08,2025-03-07,Correctiva,1.3,1,Revestimiento (liner),7134.0
+OT-01026,PAR-01371,EQ-08,2025-03-15,Preventiva,4.7,3,Motor eléctrico,26.0
+OT-01027,PAR-01373,EQ-08,2025-03-24,Correctiva,21.9,3,Revestimiento (liner),4077.0
+OT-01028,PAR-01374,EQ-08,2025-03-29,Preventiva,8.4,2,Sensor/instrumento,1984.0
+OT-01029,PAR-01375,EQ-08,2025-03-29,Correctiva,13.2,3,Ninguno (solo mano de obra),5858.0
+OT-01030,PAR-01377,EQ-08,2025-04-04,Correctiva,3.8,3,Faja/correa,6310.0
+OT-01031,PAR-01378,EQ-08,2025-04-08,Correctiva,22.8,2,Ninguno (solo mano de obra),1669.0
+OT-01032,PAR-01381,EQ-08,2025-04-20,Preventiva,11.1,2,Sensor/instrumento,387.0
+OT-01033,PAR-01382,EQ-08,2025-04-23,Correctiva,13.6,1,Motor eléctrico,907.0
+OT-01034,PAR-01383,EQ-08,2025-04-26,Correctiva,3.5,3,Revestimiento (liner),2163.0
+OT-01035,PAR-01384,EQ-08,2025-05-07,Correctiva,6.7,2,Ninguno (solo mano de obra),6111.0
+OT-01036,PAR-01385,EQ-08,2025-05-08,Preventiva,9.4,1,Revestimiento (liner),2458.0
+OT-01037,PAR-01386,EQ-08,2025-05-08,Correctiva,8.3,3,Motor eléctrico,183.0
+OT-01038,PAR-01388,EQ-08,2025-05-25,Correctiva,4.1,3,Motor eléctrico,7656.0
+OT-01039,PAR-01389,EQ-08,2025-05-28,Preventiva,11.9,2,Motor eléctrico,784.0
+OT-01040,PAR-01390,EQ-08,2025-06-01,Correctiva,14.1,1,Sensor/instrumento,3321.0
+OT-01041,PAR-01391,EQ-08,2025-06-12,Correctiva,26.3,1,Sello mecánico,113.0
+OT-01042,PAR-01392,EQ-08,2025-06-17,Preventiva,8.4,1,Motor eléctrico,2144.0
+OT-01043,PAR-01393,EQ-08,2025-06-23,Correctiva,2.7,3,Revestimiento (liner),713.0
+OT-01044,PAR-01394,EQ-08,2025-06-28,Correctiva,2.1,1,Ninguno (solo mano de obra),4111.0
+OT-01045,PAR-01395,EQ-08,2025-07-02,Preventiva,9.6,3,Sello mecánico,1394.0
+OT-01046,PAR-01396,EQ-08,2025-07-05,Correctiva,24.3,1,Sensor/instrumento,5841.0
+OT-01047,PAR-01400,EQ-08,2025-07-25,Preventiva,6.6,1,Faja/correa,2471.0
+OT-01048,PAR-01404,EQ-08,2025-08-11,Correctiva,10.1,1,Sensor/instrumento,5645.0
+OT-01049,PAR-01405,EQ-08,2025-08-12,Correctiva,1.9,1,Rodamiento,2384.0
+OT-01050,PAR-01406,EQ-08,2025-08-15,Preventiva,8.0,1,Faja/correa,1208.0
+OT-01051,PAR-01408,EQ-08,2025-08-21,Correctiva,13.0,3,Sensor/instrumento,3728.0
+OT-01052,PAR-01409,EQ-08,2025-08-23,Correctiva,4.9,2,Faja/correa,4417.0
+OT-01053,PAR-01411,EQ-08,2025-08-30,Preventiva,7.6,2,Faja/correa,1696.0
+OT-01054,PAR-01412,EQ-08,2025-08-31,Correctiva,0.7,3,Sensor/instrumento,7922.0
+OT-01055,PAR-01413,EQ-08,2025-09-02,Correctiva,14.9,1,Ninguno (solo mano de obra),5413.0
+OT-01056,PAR-01416,EQ-08,2025-09-11,Correctiva,12.3,1,Revestimiento (liner),283.0
+OT-01057,PAR-01417,EQ-08,2025-09-19,Correctiva,1.4,2,Faja/correa,4023.0
+OT-01058,PAR-01420,EQ-08,2025-09-22,Preventiva,8.6,1,Ninguno (solo mano de obra),189.0
+OT-01059,PAR-01421,EQ-08,2025-09-22,Correctiva,6.6,3,Sensor/instrumento,2182.0
+OT-01060,PAR-01424,EQ-08,2025-09-27,Correctiva,30.2,3,Motor eléctrico,2136.0
+OT-01061,PAR-01425,EQ-08,2025-09-29,Correctiva,0.6,2,Sensor/instrumento,869.0
+OT-01062,PAR-01426,EQ-08,2025-10-05,Correctiva,28.0,1,Sensor/instrumento,2463.0
+OT-01063,PAR-01427,EQ-08,2025-10-08,Preventiva,5.5,3,Rodamiento,703.0
+OT-01064,PAR-01428,EQ-08,2025-10-12,Correctiva,17.1,1,Ninguno (solo mano de obra),818.0
+OT-01065,PAR-01429,EQ-08,2025-10-15,Correctiva,1.8,1,Ninguno (solo mano de obra),6407.0
+OT-01066,PAR-01430,EQ-08,2025-10-20,Correctiva,2.6,3,Faja/correa,693.0
+OT-01067,PAR-01431,EQ-08,2025-10-25,Preventiva,7.5,2,Sello mecánico,1769.0
+OT-01068,PAR-01432,EQ-08,2025-11-04,Correctiva,14.0,1,Motor eléctrico,857.0
+OT-01069,PAR-01433,EQ-08,2025-11-05,Correctiva,30.1,1,Motor eléctrico,1658.0
+OT-01070,PAR-01434,EQ-08,2025-11-12,Preventiva,11.2,3,Sensor/instrumento,799.0
+OT-01071,PAR-01435,EQ-08,2025-11-15,Correctiva,1.4,1,Motor eléctrico,1098.0
+OT-01072,PAR-01436,EQ-08,2025-11-18,Correctiva,0.5,1,Sensor/instrumento,7401.0
+OT-01073,PAR-01437,EQ-08,2025-11-23,Correctiva,5.0,1,Sello mecánico,1565.0
+OT-01074,PAR-01438,EQ-08,2025-11-26,Preventiva,4.8,3,Rodamiento,594.0
+OT-01075,PAR-01439,EQ-08,2025-12-02,Correctiva,4.4,2,Ninguno (solo mano de obra),3076.0
+OT-01076,PAR-01440,EQ-08,2025-12-04,Correctiva,19.4,1,Sensor/instrumento,3774.0
+OT-01077,PAR-01442,EQ-08,2025-12-16,Correctiva,0.9,3,Ninguno (solo mano de obra),7526.0
+OT-01078,PAR-01443,EQ-08,2025-12-17,Correctiva,4.8,1,Faja/correa,6649.0
+OT-01079,PAR-01444,EQ-08,2025-12-18,Preventiva,5.9,3,Faja/correa,317.0
+OT-01080,PAR-01445,EQ-08,2025-12-25,Correctiva,10.5,3,Sensor/instrumento,3388.0
+OT-01081,PAR-01446,EQ-09,2024-01-09,Correctiva,11.9,2,Sensor/instrumento,4019.0
+OT-01082,PAR-01447,EQ-09,2024-01-16,Preventiva,5.7,2,Sello mecánico,2150.0
+OT-01083,PAR-01450,EQ-09,2024-01-30,Correctiva,3.0,3,Sensor/instrumento,410.0
+OT-01084,PAR-01452,EQ-09,2024-02-07,Preventiva,9.3,3,Motor eléctrico,905.0
+OT-01085,PAR-01453,EQ-09,2024-02-16,Correctiva,3.1,3,Sensor/instrumento,3766.0
+OT-01086,PAR-01454,EQ-09,2024-02-28,Preventiva,7.4,3,Motor eléctrico,1257.0
+OT-01087,PAR-01456,EQ-09,2024-03-03,Correctiva,9.5,3,Ninguno (solo mano de obra),2259.0
+OT-01088,PAR-01458,EQ-09,2024-03-10,Correctiva,5.0,3,Sensor/instrumento,7263.0
+OT-01089,PAR-01460,EQ-09,2024-03-22,Preventiva,9.7,2,Ninguno (solo mano de obra),673.0
+OT-01090,PAR-01461,EQ-09,2024-03-22,Correctiva,3.9,1,Sensor/instrumento,707.0
+OT-01091,PAR-01462,EQ-09,2024-04-01,Correctiva,0.5,3,Ninguno (solo mano de obra),6280.0
+OT-01092,PAR-01463,EQ-09,2024-04-11,Preventiva,10.2,3,Motor eléctrico,1951.0
+OT-01093,PAR-01464,EQ-09,2024-04-25,Preventiva,7.4,2,Sello mecánico,628.0
+OT-01094,PAR-01465,EQ-09,2024-04-25,Correctiva,12.6,2,Faja/correa,859.0
+OT-01095,PAR-01467,EQ-09,2024-05-05,Correctiva,2.3,3,Sensor/instrumento,6540.0
+OT-01096,PAR-01468,EQ-09,2024-05-12,Correctiva,20.1,3,Revestimiento (liner),5442.0
+OT-01097,PAR-01469,EQ-09,2024-05-15,Preventiva,5.4,2,Sello mecánico,893.0
+OT-01098,PAR-01470,EQ-09,2024-05-19,Correctiva,8.2,3,Sello mecánico,7980.0
+OT-01099,PAR-01472,EQ-09,2024-05-30,Preventiva,4.6,3,Ninguno (solo mano de obra),1054.0
+OT-01100,PAR-01473,EQ-09,2024-06-01,Correctiva,2.3,1,Motor eléctrico,1924.0
+OT-01101,PAR-01474,EQ-09,2024-06-06,Correctiva,3.8,2,Revestimiento (liner),2637.0
+OT-01102,PAR-01476,EQ-09,2024-06-16,Preventiva,7.9,1,Faja/correa,1710.0
+OT-01103,PAR-01477,EQ-09,2024-06-16,Correctiva,4.5,3,Faja/correa,6764.0
+OT-01104,PAR-01479,EQ-09,2024-06-26,Correctiva,20.2,3,Faja/correa,4921.0
+OT-01105,PAR-01480,EQ-09,2024-07-07,Preventiva,6.0,1,Sello mecánico,997.0
+OT-01106,PAR-01481,EQ-09,2024-07-18,Correctiva,8.1,1,Revestimiento (liner),2978.0
+OT-01107,PAR-01483,EQ-09,2024-07-24,Preventiva,7.0,3,Motor eléctrico,835.0
+OT-01108,PAR-01484,EQ-09,2024-07-26,Correctiva,3.7,1,Revestimiento (liner),500.0
+OT-01109,PAR-01487,EQ-09,2024-08-14,Preventiva,8.5,2,Sensor/instrumento,772.0
+OT-01110,PAR-01488,EQ-09,2024-08-21,Correctiva,1.8,1,Revestimiento (liner),5150.0
+OT-01111,PAR-01489,EQ-09,2024-08-22,Correctiva,14.8,2,Sello mecánico,5742.0
+OT-01112,PAR-01490,EQ-09,2024-08-24,Correctiva,4.0,2,Rodamiento,7175.0
+OT-01113,PAR-01492,EQ-09,2024-09-05,Preventiva,5.6,3,Motor eléctrico,1718.0
+OT-01114,PAR-01493,EQ-09,2024-09-06,Correctiva,21.2,3,Revestimiento (liner),7644.0
+OT-01115,PAR-01494,EQ-09,2024-09-21,Preventiva,6.8,2,Ninguno (solo mano de obra),1426.0
+OT-01116,PAR-01496,EQ-09,2024-09-24,Correctiva,6.2,2,Motor eléctrico,4577.0
+OT-01117,PAR-01498,EQ-09,2024-10-12,Preventiva,11.8,3,Rodamiento,112.0
+OT-01118,PAR-01499,EQ-09,2024-10-22,Correctiva,5.8,2,Rodamiento,5657.0
+OT-01119,PAR-01500,EQ-09,2024-11-04,Preventiva,5.9,1,Sello mecánico,1095.0
+OT-01120,PAR-01501,EQ-09,2024-11-25,Preventiva,4.3,1,Ninguno (solo mano de obra),1119.0
+OT-01121,PAR-01502,EQ-09,2024-11-25,Correctiva,4.9,1,Faja/correa,2401.0
+OT-01122,PAR-01503,EQ-09,2024-11-28,Correctiva,2.7,2,Sensor/instrumento,1954.0
+OT-01123,PAR-01504,EQ-09,2024-12-04,Correctiva,2.7,3,Rodamiento,7589.0
+OT-01124,PAR-01505,EQ-09,2024-12-06,Correctiva,8.2,2,Revestimiento (liner),2090.0
+OT-01125,PAR-01506,EQ-09,2024-12-08,Correctiva,0.8,3,Revestimiento (liner),3055.0
+OT-01126,PAR-01507,EQ-09,2024-12-10,Preventiva,5.3,2,Rodamiento,1478.0
+OT-01127,PAR-01508,EQ-09,2024-12-15,Correctiva,6.8,2,Sello mecánico,5457.0
+OT-01128,PAR-01510,EQ-09,2024-12-25,Correctiva,2.4,3,Ninguno (solo mano de obra),7323.0
+OT-01129,PAR-01511,EQ-09,2024-12-28,Preventiva,7.0,3,Faja/correa,2444.0
+OT-01130,PAR-01513,EQ-09,2025-01-12,Correctiva,10.7,1,Revestimiento (liner),4699.0
+OT-01131,PAR-01514,EQ-09,2025-01-17,Preventiva,5.3,1,Rodamiento,1298.0
+OT-01132,PAR-01516,EQ-09,2025-01-30,Correctiva,4.9,2,Ninguno (solo mano de obra),1199.0
+OT-01133,PAR-01517,EQ-09,2025-01-31,Correctiva,11.0,3,Ninguno (solo mano de obra),7537.0
+OT-01134,PAR-01518,EQ-09,2025-02-03,Correctiva,0.5,1,Revestimiento (liner),4335.0
+OT-01135,PAR-01520,EQ-09,2025-02-07,Preventiva,4.8,3,Motor eléctrico,1786.0
+OT-01136,PAR-01521,EQ-09,2025-02-16,Correctiva,2.5,2,Revestimiento (liner),4738.0
+OT-01137,PAR-01523,EQ-09,2025-02-19,Correctiva,15.5,1,Faja/correa,3451.0
+OT-01138,PAR-01525,EQ-09,2025-02-25,Preventiva,4.8,1,Revestimiento (liner),249.0
+OT-01139,PAR-01526,EQ-09,2025-03-03,Correctiva,9.4,3,Faja/correa,5871.0
+OT-01140,PAR-01527,EQ-09,2025-03-16,Preventiva,5.7,2,Faja/correa,1417.0
+OT-01141,PAR-01528,EQ-09,2025-03-16,Correctiva,10.8,2,Faja/correa,6966.0
+OT-01142,PAR-01530,EQ-09,2025-03-24,Correctiva,8.5,2,Motor eléctrico,3186.0
+OT-01143,PAR-01531,EQ-09,2025-03-26,Correctiva,1.5,3,Rodamiento,3903.0
+OT-01144,PAR-01532,EQ-09,2025-04-07,Preventiva,5.5,1,Motor eléctrico,1898.0
+OT-01145,PAR-01533,EQ-09,2025-04-12,Correctiva,2.4,2,Sensor/instrumento,3319.0
+OT-01146,PAR-01534,EQ-09,2025-04-21,Correctiva,1.5,2,Faja/correa,6334.0
+OT-01147,PAR-01535,EQ-09,2025-04-22,Correctiva,1.5,3,Motor eléctrico,7683.0
+OT-01148,PAR-01536,EQ-09,2025-04-25,Preventiva,5.1,3,Sensor/instrumento,743.0
+OT-01149,PAR-01537,EQ-09,2025-05-03,Correctiva,16.0,1,Ninguno (solo mano de obra),6302.0
+OT-01150,PAR-01538,EQ-09,2025-05-18,Preventiva,8.3,3,Revestimiento (liner),2330.0
+OT-01151,PAR-01540,EQ-09,2025-05-24,Correctiva,18.1,1,Sello mecánico,2004.0
+OT-01152,PAR-01541,EQ-09,2025-05-27,Correctiva,12.2,3,Ninguno (solo mano de obra),6030.0
+OT-01153,PAR-01542,EQ-09,2025-05-31,Correctiva,3.1,1,Sello mecánico,2447.0
+OT-01154,PAR-01543,EQ-09,2025-06-04,Correctiva,6.5,1,Sello mecánico,3246.0
+OT-01155,PAR-01544,EQ-09,2025-06-06,Correctiva,4.9,3,Revestimiento (liner),5369.0
+OT-01156,PAR-01545,EQ-09,2025-06-07,Preventiva,7.4,3,Ninguno (solo mano de obra),652.0
+OT-01157,PAR-01546,EQ-09,2025-06-21,Correctiva,14.4,1,Rodamiento,2922.0
+OT-01158,PAR-01547,EQ-09,2025-06-25,Preventiva,7.3,2,Motor eléctrico,999.0
+OT-01159,PAR-01548,EQ-09,2025-06-27,Correctiva,8.5,1,Sello mecánico,6190.0
+OT-01160,PAR-01549,EQ-09,2025-07-15,Preventiva,5.6,1,Sensor/instrumento,2367.0
+OT-01161,PAR-01550,EQ-09,2025-07-22,Correctiva,0.7,3,Motor eléctrico,130.0
+OT-01162,PAR-01551,EQ-09,2025-07-28,Correctiva,9.3,3,Motor eléctrico,3329.0
+OT-01163,PAR-01553,EQ-09,2025-08-01,Preventiva,12.2,1,Ninguno (solo mano de obra),144.0
+OT-01164,PAR-01555,EQ-09,2025-08-13,Correctiva,0.7,3,Motor eléctrico,1384.0
+OT-01165,PAR-01556,EQ-09,2025-08-17,Preventiva,8.6,1,Ninguno (solo mano de obra),1235.0
+OT-01166,PAR-01557,EQ-09,2025-08-25,Correctiva,2.5,2,Rodamiento,4103.0
+OT-01167,PAR-01559,EQ-09,2025-09-01,Correctiva,5.6,2,Motor eléctrico,5758.0
+OT-01168,PAR-01561,EQ-09,2025-09-02,Correctiva,6.3,2,Motor eléctrico,692.0
+OT-01169,PAR-01562,EQ-09,2025-09-04,Correctiva,12.6,1,Ninguno (solo mano de obra),2796.0
+OT-01170,PAR-01563,EQ-09,2025-09-05,Preventiva,9.6,1,Rodamiento,1896.0
+OT-01171,PAR-01566,EQ-09,2025-09-23,Preventiva,11.9,1,Motor eléctrico,2369.0
+OT-01172,PAR-01567,EQ-09,2025-09-28,Correctiva,13.2,2,Sello mecánico,381.0
+OT-01173,PAR-01568,EQ-09,2025-09-30,Correctiva,0.5,3,Sello mecánico,2557.0
+OT-01174,PAR-01570,EQ-09,2025-10-09,Preventiva,4.7,2,Sensor/instrumento,1384.0
+OT-01175,PAR-01572,EQ-09,2025-10-17,Correctiva,10.4,3,Revestimiento (liner),3536.0
+OT-01176,PAR-01573,EQ-09,2025-10-23,Correctiva,2.0,1,Faja/correa,190.0
+OT-01177,PAR-01574,EQ-09,2025-10-27,Preventiva,4.0,2,Motor eléctrico,277.0
+OT-01178,PAR-01576,EQ-09,2025-11-01,Correctiva,4.4,2,Revestimiento (liner),5371.0
+OT-01179,PAR-01577,EQ-09,2025-11-18,Preventiva,7.0,1,Sello mecánico,1884.0
+OT-01180,PAR-01578,EQ-09,2025-11-20,Correctiva,0.6,3,Sensor/instrumento,7382.0
+OT-01181,PAR-01579,EQ-09,2025-11-30,Correctiva,5.0,1,Faja/correa,7112.0
+OT-01182,PAR-01580,EQ-09,2025-12-02,Correctiva,5.6,2,Rodamiento,7783.0
+OT-01183,PAR-01581,EQ-09,2025-12-05,Preventiva,4.4,3,Sensor/instrumento,1128.0
+OT-01184,PAR-01583,EQ-09,2025-12-08,Correctiva,1.4,2,Rodamiento,1578.0
+OT-01185,PAR-01585,EQ-09,2025-12-23,Preventiva,5.9,2,Motor eléctrico,1501.0
+OT-01186,PAR-01587,EQ-10,2024-01-02,Correctiva,30.5,1,Faja/correa,2873.0
+OT-01187,PAR-01588,EQ-10,2024-01-07,Correctiva,2.4,1,Sensor/instrumento,2301.0
+OT-01188,PAR-01589,EQ-10,2024-01-08,Correctiva,22.8,3,Revestimiento (liner),87.0
+OT-01189,PAR-01590,EQ-10,2024-01-09,Correctiva,1.7,3,Sensor/instrumento,1714.0
+OT-01190,PAR-01591,EQ-10,2024-01-10,Correctiva,16.4,1,Sello mecánico,1430.0
+OT-01191,PAR-01592,EQ-10,2024-01-14,Correctiva,11.4,1,Sello mecánico,2414.0
+OT-01192,PAR-01593,EQ-10,2024-01-18,Correctiva,17.1,2,Revestimiento (liner),757.0
+OT-01193,PAR-01594,EQ-10,2024-01-20,Preventiva,7.9,2,Ninguno (solo mano de obra),880.0
+OT-01194,PAR-01597,EQ-10,2024-02-03,Correctiva,15.5,3,Motor eléctrico,5026.0
+OT-01195,PAR-01598,EQ-10,2024-02-05,Correctiva,4.3,1,Ninguno (solo mano de obra),5920.0
+OT-01196,PAR-01599,EQ-10,2024-02-06,Correctiva,0.5,2,Sensor/instrumento,7925.0
+OT-01197,PAR-01600,EQ-10,2024-02-12,Preventiva,4.8,2,Revestimiento (liner),1491.0
+OT-01198,PAR-01601,EQ-10,2024-02-12,Correctiva,0.9,3,Ninguno (solo mano de obra),5402.0
+OT-01199,PAR-01602,EQ-10,2024-02-23,Correctiva,23.4,2,Faja/correa,7295.0
+OT-01200,PAR-01603,EQ-10,2024-03-01,Correctiva,2.0,1,Revestimiento (liner),7484.0
+OT-01201,PAR-01604,EQ-10,2024-03-02,Preventiva,6.8,2,Motor eléctrico,1201.0
+OT-01202,PAR-01606,EQ-10,2024-03-05,Correctiva,16.5,1,Sello mecánico,6470.0
+OT-01203,PAR-01608,EQ-10,2024-03-21,Correctiva,7.6,2,Rodamiento,6084.0
+OT-01204,PAR-01609,EQ-10,2024-03-25,Preventiva,11.2,2,Ninguno (solo mano de obra),1789.0
+OT-01205,PAR-01611,EQ-10,2024-04-04,Correctiva,2.2,3,Ninguno (solo mano de obra),2832.0
+OT-01206,PAR-01612,EQ-10,2024-04-12,Preventiva,5.7,1,Ninguno (solo mano de obra),368.0
+OT-01207,PAR-01613,EQ-10,2024-04-18,Correctiva,2.4,1,Rodamiento,4709.0
+OT-01208,PAR-01614,EQ-10,2024-04-21,Correctiva,17.9,2,Faja/correa,3487.0
+OT-01209,PAR-01616,EQ-10,2024-04-28,Correctiva,10.6,3,Faja/correa,6105.0
+OT-01210,PAR-01617,EQ-10,2024-05-04,Preventiva,6.4,1,Revestimiento (liner),1381.0
+OT-01211,PAR-01618,EQ-10,2024-05-04,Correctiva,4.4,2,Rodamiento,5059.0
+OT-01212,PAR-01619,EQ-10,2024-05-05,Correctiva,19.2,2,Faja/correa,2149.0
+OT-01213,PAR-01621,EQ-10,2024-05-11,Correctiva,2.7,1,Motor eléctrico,467.0
+OT-01214,PAR-01622,EQ-10,2024-05-23,Preventiva,8.1,1,Motor eléctrico,2318.0
+OT-01215,PAR-01624,EQ-10,2024-06-01,Correctiva,1.3,1,Ninguno (solo mano de obra),2049.0
+OT-01216,PAR-01625,EQ-10,2024-06-02,Correctiva,6.4,1,Sello mecánico,4156.0
+OT-01217,PAR-01627,EQ-10,2024-06-05,Correctiva,0.5,1,Ninguno (solo mano de obra),3639.0
+OT-01218,PAR-01628,EQ-10,2024-06-13,Preventiva,11.1,1,Faja/correa,2499.0
+OT-01219,PAR-01630,EQ-10,2024-06-14,Correctiva,7.9,3,Ninguno (solo mano de obra),124.0
+OT-01220,PAR-01631,EQ-10,2024-06-25,Correctiva,1.2,2,Ninguno (solo mano de obra),677.0
+OT-01221,PAR-01632,EQ-10,2024-06-26,Correctiva,20.9,2,Rodamiento,1350.0
+OT-01222,PAR-01633,EQ-10,2024-06-27,Preventiva,8.3,1,Motor eléctrico,2088.0
+OT-01223,PAR-01634,EQ-10,2024-07-03,Correctiva,2.1,2,Ninguno (solo mano de obra),7723.0
+OT-01224,PAR-01635,EQ-10,2024-07-07,Correctiva,3.5,3,Motor eléctrico,5423.0
+OT-01225,PAR-01636,EQ-10,2024-07-09,Correctiva,11.9,2,Faja/correa,273.0
+OT-01226,PAR-01639,EQ-10,2024-07-20,Preventiva,9.9,1,Faja/correa,1998.0
+OT-01227,PAR-01640,EQ-10,2024-07-27,Correctiva,22.2,2,Revestimiento (liner),3205.0
+OT-01228,PAR-01642,EQ-10,2024-08-06,Preventiva,7.1,2,Sello mecánico,2127.0
+OT-01229,PAR-01645,EQ-10,2024-08-16,Correctiva,2.9,1,Rodamiento,2465.0
+OT-01230,PAR-01647,EQ-10,2024-08-29,Preventiva,5.0,2,Rodamiento,539.0
+OT-01231,PAR-01648,EQ-10,2024-08-30,Correctiva,5.8,1,Sensor/instrumento,7114.0
+OT-01232,PAR-01650,EQ-10,2024-09-10,Correctiva,18.5,1,Revestimiento (liner),2636.0
+OT-01233,PAR-01652,EQ-10,2024-09-15,Correctiva,19.1,3,Sello mecánico,7798.0
+OT-01234,PAR-01653,EQ-10,2024-09-21,Preventiva,12.4,3,Sensor/instrumento,99.0
+OT-01235,PAR-01654,EQ-10,2024-10-13,Preventiva,10.7,2,Sensor/instrumento,190.0
+OT-01236,PAR-01655,EQ-10,2024-10-23,Correctiva,8.4,1,Sensor/instrumento,992.0
+OT-01237,PAR-01656,EQ-10,2024-10-26,Correctiva,15.8,3,Sello mecánico,1747.0
+OT-01238,PAR-01657,EQ-10,2024-10-28,Preventiva,7.6,1,Ninguno (solo mano de obra),222.0
+OT-01239,PAR-01658,EQ-10,2024-10-30,Correctiva,18.3,3,Ninguno (solo mano de obra),3441.0
+OT-01240,PAR-01660,EQ-10,2024-11-05,Correctiva,6.2,1,Ninguno (solo mano de obra),386.0
+OT-01241,PAR-01661,EQ-10,2024-11-09,Correctiva,2.5,3,Rodamiento,5062.0
+OT-01242,PAR-01662,EQ-10,2024-11-12,Correctiva,12.0,2,Sensor/instrumento,7546.0
+OT-01243,PAR-01663,EQ-10,2024-11-14,Correctiva,18.6,2,Ninguno (solo mano de obra),3635.0
+OT-01244,PAR-01664,EQ-10,2024-11-18,Preventiva,7.5,2,Sensor/instrumento,2302.0
+OT-01245,PAR-01665,EQ-10,2024-11-20,Correctiva,5.2,1,Sello mecánico,546.0
+OT-01246,PAR-01666,EQ-10,2024-11-21,Correctiva,22.2,1,Motor eléctrico,3642.0
+OT-01247,PAR-01667,EQ-10,2024-11-23,Correctiva,15.6,2,Rodamiento,1399.0
+OT-01248,PAR-01668,EQ-10,2024-11-25,Correctiva,1.4,1,Rodamiento,2814.0
+OT-01249,PAR-01669,EQ-10,2024-11-28,Correctiva,5.4,1,Rodamiento,6009.0
+OT-01250,PAR-01670,EQ-10,2024-12-02,Preventiva,10.5,2,Ninguno (solo mano de obra),1026.0
+OT-01251,PAR-01671,EQ-10,2024-12-08,Correctiva,27.3,3,Sensor/instrumento,6016.0
+OT-01252,PAR-01672,EQ-10,2024-12-16,Preventiva,13.0,1,Rodamiento,231.0
+OT-01253,PAR-01673,EQ-10,2024-12-21,Correctiva,0.5,3,Motor eléctrico,1679.0
+OT-01254,PAR-01674,EQ-10,2024-12-26,Correctiva,6.2,2,Sensor/instrumento,6204.0
+OT-01255,PAR-01675,EQ-10,2024-12-30,Preventiva,5.7,3,Faja/correa,1034.0
+OT-01256,PAR-01676,EQ-10,2025-01-02,Correctiva,3.5,3,Faja/correa,6550.0
+OT-01257,PAR-01677,EQ-10,2025-01-03,Correctiva,6.6,3,Motor eléctrico,2568.0
+OT-01258,PAR-01678,EQ-10,2025-01-13,Correctiva,9.1,1,Motor eléctrico,2310.0
+OT-01259,PAR-01679,EQ-10,2025-01-15,Preventiva,7.9,3,Rodamiento,1247.0
+OT-01260,PAR-01681,EQ-10,2025-01-18,Correctiva,7.2,2,Revestimiento (liner),6163.0
+OT-01261,PAR-01683,EQ-10,2025-01-26,Correctiva,6.1,3,Faja/correa,491.0
+OT-01262,PAR-01685,EQ-10,2025-01-30,Correctiva,2.8,1,Revestimiento (liner),1767.0
+OT-01263,PAR-01686,EQ-10,2025-02-01,Preventiva,7.2,3,Rodamiento,979.0
+OT-01264,PAR-01687,EQ-10,2025-02-04,Correctiva,13.2,3,Sello mecánico,4290.0
+OT-01265,PAR-01688,EQ-10,2025-02-06,Correctiva,0.5,1,Faja/correa,7873.0
+OT-01266,PAR-01690,EQ-10,2025-02-17,Preventiva,7.3,2,Faja/correa,1078.0
+OT-01267,PAR-01693,EQ-10,2025-02-19,Correctiva,4.6,2,Rodamiento,6596.0
+OT-01268,PAR-01694,EQ-10,2025-02-26,Correctiva,1.2,3,Ninguno (solo mano de obra),2633.0
+OT-01269,PAR-01695,EQ-10,2025-03-10,Preventiva,5.4,3,Motor eléctrico,1186.0
+OT-01270,PAR-01696,EQ-10,2025-03-13,Correctiva,4.6,2,Sello mecánico,2291.0
+OT-01271,PAR-01697,EQ-10,2025-03-17,Correctiva,7.3,2,Revestimiento (liner),4346.0
+OT-01272,PAR-01698,EQ-10,2025-03-29,Correctiva,2.4,2,Revestimiento (liner),4018.0
+OT-01273,PAR-01699,EQ-10,2025-03-31,Preventiva,9.7,3,Revestimiento (liner),1237.0
+OT-01274,PAR-01700,EQ-10,2025-03-31,Correctiva,29.3,1,Sensor/instrumento,4711.0
+OT-01275,PAR-01702,EQ-10,2025-04-09,Correctiva,1.4,2,Faja/correa,2988.0
+OT-01276,PAR-01703,EQ-10,2025-04-14,Correctiva,5.2,1,Sensor/instrumento,3992.0
+OT-01277,PAR-01704,EQ-10,2025-04-17,Preventiva,5.3,2,Motor eléctrico,263.0
+OT-01278,PAR-01705,EQ-10,2025-05-02,Preventiva,11.2,2,Ninguno (solo mano de obra),238.0
+OT-01279,PAR-01706,EQ-10,2025-05-03,Correctiva,15.8,3,Ninguno (solo mano de obra),6132.0
+OT-01280,PAR-01708,EQ-10,2025-05-11,Correctiva,2.9,1,Sensor/instrumento,4092.0
+OT-01281,PAR-01709,EQ-10,2025-05-14,Correctiva,2.0,1,Motor eléctrico,4207.0
+OT-01282,PAR-01710,EQ-10,2025-05-23,Preventiva,9.9,2,Sensor/instrumento,409.0
+OT-01283,PAR-01711,EQ-10,2025-06-05,Correctiva,3.9,2,Revestimiento (liner),6587.0
+OT-01284,PAR-01713,EQ-10,2025-06-07,Correctiva,11.3,1,Sello mecánico,3235.0
+OT-01285,PAR-01714,EQ-10,2025-06-08,Preventiva,5.5,1,Rodamiento,1734.0
+OT-01286,PAR-01718,EQ-10,2025-06-30,Preventiva,8.2,1,Sello mecánico,102.0
+OT-01287,PAR-01719,EQ-10,2025-07-03,Correctiva,3.5,1,Revestimiento (liner),5521.0
+OT-01288,PAR-01721,EQ-10,2025-07-04,Correctiva,0.6,1,Ninguno (solo mano de obra),76.0
+OT-01289,PAR-01722,EQ-10,2025-07-07,Correctiva,8.3,1,Motor eléctrico,7328.0
+OT-01290,PAR-01723,EQ-10,2025-07-13,Correctiva,13.5,1,Faja/correa,7142.0
+OT-01291,PAR-01724,EQ-10,2025-07-18,Correctiva,3.7,3,Rodamiento,1343.0
+OT-01292,PAR-01725,EQ-10,2025-07-19,Preventiva,8.9,3,Rodamiento,2365.0
+OT-01293,PAR-01726,EQ-10,2025-07-24,Correctiva,3.6,1,Rodamiento,7598.0
+OT-01294,PAR-01727,EQ-10,2025-07-27,Correctiva,5.9,2,Revestimiento (liner),2430.0
+OT-01295,PAR-01729,EQ-10,2025-07-31,Correctiva,4.3,1,Sello mecánico,2020.0
+OT-01296,PAR-01731,EQ-10,2025-08-04,Preventiva,10.2,1,Rodamiento,960.0
+OT-01297,PAR-01732,EQ-10,2025-08-04,Correctiva,14.0,1,Sello mecánico,1822.0
+OT-01298,PAR-01734,EQ-10,2025-08-05,Correctiva,1.2,3,Rodamiento,7437.0
+OT-01299,PAR-01735,EQ-10,2025-08-11,Correctiva,13.3,3,Motor eléctrico,251.0
+OT-01300,PAR-01736,EQ-10,2025-08-17,Correctiva,5.7,1,Faja/correa,3412.0
+OT-01301,PAR-01737,EQ-10,2025-08-21,Correctiva,16.4,3,Sensor/instrumento,5182.0
+OT-01302,PAR-01738,EQ-10,2025-08-25,Preventiva,6.2,2,Motor eléctrico,529.0
+OT-01303,PAR-01739,EQ-10,2025-09-04,Correctiva,2.3,2,Motor eléctrico,2813.0
+OT-01304,PAR-01740,EQ-10,2025-09-05,Correctiva,3.5,3,Sensor/instrumento,6814.0
+OT-01305,PAR-01742,EQ-10,2025-09-12,Correctiva,0.7,1,Ninguno (solo mano de obra),996.0
+OT-01306,PAR-01743,EQ-10,2025-09-13,Preventiva,7.2,2,Sensor/instrumento,367.0
+OT-01307,PAR-01744,EQ-10,2025-09-22,Correctiva,3.6,3,Motor eléctrico,7653.0
+OT-01308,PAR-01745,EQ-10,2025-09-27,Preventiva,6.2,1,Motor eléctrico,1872.0
+OT-01309,PAR-01746,EQ-10,2025-10-03,Correctiva,0.6,2,Motor eléctrico,5007.0
+OT-01310,PAR-01747,EQ-10,2025-10-14,Correctiva,19.1,3,Faja/correa,1575.0
+OT-01311,PAR-01748,EQ-10,2025-10-17,Preventiva,5.8,2,Motor eléctrico,1908.0
+OT-01312,PAR-01749,EQ-10,2025-10-17,Correctiva,17.8,3,Faja/correa,1047.0
+OT-01313,PAR-01750,EQ-10,2025-10-19,Correctiva,9.9,1,Motor eléctrico,34.0
+OT-01314,PAR-01751,EQ-10,2025-11-01,Correctiva,7.3,2,Rodamiento,409.0
+OT-01315,PAR-01752,EQ-10,2025-11-02,Preventiva,8.0,1,Faja/correa,61.0
+OT-01316,PAR-01754,EQ-10,2025-11-03,Correctiva,7.0,2,Motor eléctrico,5312.0
+OT-01317,PAR-01755,EQ-10,2025-11-08,Correctiva,8.9,1,Revestimiento (liner),4623.0
+OT-01318,PAR-01757,EQ-10,2025-11-12,Correctiva,10.3,2,Faja/correa,3092.0
+OT-01319,PAR-01760,EQ-10,2025-11-21,Preventiva,8.9,3,Faja/correa,815.0
+OT-01320,PAR-01761,EQ-10,2025-11-27,Correctiva,25.6,1,Rodamiento,1135.0
+OT-01321,PAR-01764,EQ-10,2025-12-03,Correctiva,0.7,2,Motor eléctrico,3805.0
+OT-01322,PAR-01765,EQ-10,2025-12-08,Preventiva,9.8,2,Faja/correa,826.0
+OT-01323,PAR-01766,EQ-10,2025-12-13,Correctiva,2.0,2,Sensor/instrumento,6804.0
+OT-01324,PAR-01767,EQ-10,2025-12-15,Correctiva,5.9,2,Ninguno (solo mano de obra),1682.0
+OT-01325,PAR-01769,EQ-10,2025-12-25,Correctiva,2.1,3,Faja/correa,2808.0
+OT-01326,PAR-01770,EQ-10,2025-12-26,Preventiva,6.6,1,Faja/correa,127.0
+OT-01327,PAR-01772,EQ-10,2025-12-28,Correctiva,4.0,1,Faja/correa,280.0
+OT-01328,PAR-01773,EQ-10,2025-12-31,Correctiva,3.8,3,Revestimiento (liner),6105.0
